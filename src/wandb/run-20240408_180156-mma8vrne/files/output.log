@@ -1,0 +1,44 @@
+Loading checkpoint...
+Blue team baselineTeam with {'numTraining': 10}:
+Loading Team: baselineTeam.py
+Arguments: {'numTraining': 10}
+Playing 10 training games
+Red team starts
+GAME IS OVER
+#    1 | steps:   220 | steps_t: 27795 | t: 4.251548 | r: -2740.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+GAME IS OVER
+#    2 | steps:   435 | steps_t: 27795 | t: 7.311687 | r: -1910.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    3 | steps:   651 | steps_t: 27795 | t: 10.398786 | r: -2780.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    4 | steps:   871 | steps_t: 27795 | t: 13.777246 | r: -2940.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    5 | steps:  1087 | steps_t: 27795 | t: 16.726713 | r: -2980.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    6 | steps:  1307 | steps_t: 27795 | t: 20.141118 | r: -3760.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    7 | steps:  1475 | steps_t: 27795 | t: 21.920506 | r: -1770.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    8 | steps:  1643 | steps_t: 27795 | t: 23.934909 | r: -1730.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+GAME IS OVER
+#    9 | steps:  1906 | steps_t: 27795 | t: 27.546248 | r: -3700.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#   10 | steps:  2122 | steps_t: 27795 | t: 30.100037 | r: -2940.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Model saved
+Traceback (most recent call last):
+  File "/Users/iori/Desktop/PacmanAI/src/capture.py", line 1032, in <module>
+    games = runGames(**options)
+            ^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/capture.py", line 1007, in runGames
+    redWinRate = [s > 0 for s in scores].count(True)/ float(len(scores))
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~
+ZeroDivisionError: float division by zero

@@ -1,0 +1,48 @@
+Loading checkpoint...
+Blue team baselineTeam with {'numTraining': 5}:
+Loading Team: baselineTeam.py
+Arguments: {'numTraining': 5}
+Playing 5 training games
+Red team starts
+GAME IS OVER
+#    1 | steps:   273 | steps_t: 27795 | t: 4.455073 | r: -2370.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+GAME IS OVER
+#    2 | steps:   445 | steps_t: 27795 | t: 6.629254 | r: -1850.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Red team starts
+GAME IS OVER
+#    3 | steps:   746 | steps_t: 27795 | t: 11.055641 | r:   930.000000 | e:   0.444100 | Q: -186.963348 | won: True
+Red team starts
+GAME IS OVER
+#    4 | steps:   965 | steps_t: 27795 | t: 14.314451 | r: -3230.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+GAME IS OVER
+#    5 | steps:  1266 | steps_t: 27795 | t: 21.323822 | r:  -610.000000 | e:   0.444100 | Q: -186.963348 | won: True
+Model saved
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    6 | steps:  1482 | steps_t: 27795 | t: 35.789852 | r: -4010.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+Time is up.
+The Red team wins by 3 points.
+GAME IS OVER
+#    7 | steps:  1783 | steps_t: 27795 | t: 56.296019 | r:   290.000000 | e:   0.444100 | Q: -186.963348 | won: True
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    8 | steps:  1999 | steps_t: 27795 | t: 67.910251 | r: -4050.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    9 | steps:  2217 | steps_t: 27795 | t: 80.898992 | r: -4640.000000 | e:   0.444100 | Q: -186.963348 | won: False
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#   10 | steps:  2435 | steps_t: 27795 | t: 95.612931 | r: -3250.000000 | e:   0.444100 | Q: -186.963348 | won: False
+5
+Average Score: -15.2
+Scores:        -13, 3, -24, -13, -29
+Red Win Rate:  1/5 (0.20)
+Blue Win Rate: 4/5 (0.80)
+Record:        Blue, Red, Blue, Blue, Blue

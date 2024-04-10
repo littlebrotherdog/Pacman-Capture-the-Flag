@@ -1,0 +1,43 @@
+Blue team baselineTeam with {'numTraining': 9}:
+Loading Team: baselineTeam.py
+Arguments: {'numTraining': 9}
+Playing 9 training games
+Red team starts
+GAME IS OVER
+#    1 | steps:   220 | steps_t:     0 | t: 3.259457 | r: -9890.000000 | e:   1.000000 | Q:   0.120050 | won: False
+Blue team starts
+GAME IS OVER
+#    2 | steps:   435 | steps_t:     0 | t: 6.021688 | r: -10360.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#    3 | steps:   736 | steps_t:     0 | t: 9.893835 | r: -3770.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#    4 | steps:   956 | steps_t:     0 | t: 11.818983 | r: -14840.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#    5 | steps:  1257 | steps_t:     0 | t: 16.453157 | r: -7020.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#    6 | steps:  1558 | steps_t:     0 | t: 21.290467 | r: -12010.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#    7 | steps:  1728 | steps_t:     0 | t: 23.116785 | r: -4180.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#    8 | steps:  1947 | steps_t:     0 | t: 25.518824 | r: -11010.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#    9 | steps:  2248 | steps_t:     0 | t: 31.742858 | r: -6040.000000 | e:   1.000000 | Q:        nan | won: True
+Model saved
+Red team starts
+Time is up.
+The Red team wins by 16 points.
+GAME IS OVER
+#   10 | steps:  2549 | steps_t:     0 | t: 45.913707 | r: -6920.000000 | e:   1.000000 | Q:        nan | won: True
+1
+Average Score: 16.0
+Scores:        16
+Red Win Rate:  1/1 (1.00)
+Blue Win Rate: 0/1 (0.00)
+Record:        Red

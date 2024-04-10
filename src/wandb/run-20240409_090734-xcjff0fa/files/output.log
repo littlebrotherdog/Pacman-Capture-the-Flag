@@ -1,0 +1,3043 @@
+Blue team baselineTeam with {'numTraining': 990}:
+Loading Team: baselineTeam.py
+Arguments: {'numTraining': 990}
+Playing 990 training games
+Red team starts
+GAME IS OVER
+#    1 | steps:   301 | steps_t:     0 | t: 23.163448 | r: -3450.000000 | e:   1.000000 | Q:   0.122341 | won: True
+Red team starts
+GAME IS OVER
+#    2 | steps:   602 | steps_t:     0 | t: 28.386407 | r:  -180.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#    3 | steps:   903 | steps_t:     0 | t: 33.334294 | r:  -110.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#    4 | steps:  1204 | steps_t:     0 | t: 37.637397 | r: -3770.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#    5 | steps:  1421 | steps_t:     0 | t: 41.343732 | r: -6590.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#    6 | steps:  1591 | steps_t:     0 | t: 42.624955 | r: -1360.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#    7 | steps:  1811 | steps_t:     0 | t: 46.551447 | r: -11010.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#    8 | steps:  2112 | steps_t:     0 | t: 51.320736 | r: -6410.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#    9 | steps:  2330 | steps_t:     0 | t: 53.964004 | r: -10200.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   10 | steps:  2545 | steps_t:     0 | t: 57.906626 | r: -10260.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   11 | steps:  2846 | steps_t:     0 | t: 60.981437 | r: -9420.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#   12 | steps:  3064 | steps_t:     0 | t: 64.051076 | r: -5790.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   13 | steps:  3283 | steps_t:     0 | t: 67.694303 | r: -9890.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   14 | steps:  3584 | steps_t:     0 | t: 72.410242 | r: -8660.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#   15 | steps:  3885 | steps_t:     0 | t: 76.250724 | r:  3050.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#   16 | steps:  4055 | steps_t:     0 | t: 77.765962 | r: -10100.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   17 | steps:  4223 | steps_t:     0 | t: 80.213192 | r: -7120.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   18 | steps:  4524 | steps_t:     0 | t: 84.859049 | r:  1500.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+GAME IS OVER
+#   19 | steps:  4739 | steps_t:     0 | t: 88.018078 | r: -6900.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   20 | steps:  4911 | steps_t:     0 | t: 90.737234 | r: -9360.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   21 | steps:  5212 | steps_t:     0 | t: 95.966695 | r: -8900.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#   22 | steps:  5464 | steps_t:     0 | t: 99.732941 | r: -1950.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   23 | steps:  5680 | steps_t:     0 | t: 102.615795 | r: -14760.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   24 | steps:  5852 | steps_t:     0 | t: 104.465825 | r: -5960.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   25 | steps:  6068 | steps_t:     0 | t: 109.213900 | r: -5240.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   26 | steps:  6369 | steps_t:     0 | t: 114.368967 | r: -3310.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#   27 | steps:  6586 | steps_t:     0 | t: 116.909996 | r: -14900.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   28 | steps:  6887 | steps_t:     0 | t: 121.404015 | r:  2240.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#   29 | steps:  7166 | steps_t:     0 | t: 127.498546 | r: -1800.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   30 | steps:  7383 | steps_t:     0 | t: 132.219475 | r: -17560.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   31 | steps:  7599 | steps_t:     0 | t: 134.969217 | r: -5930.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   32 | steps:  7767 | steps_t:     0 | t: 137.196892 | r: -3370.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   33 | steps:  8068 | steps_t:     0 | t: 141.811301 | r:  -300.000000 | e:   1.000000 | Q:        nan | won: True
+Blue team starts
+GAME IS OVER
+#   34 | steps:  8236 | steps_t:     0 | t: 144.664977 | r: -1620.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   35 | steps:  8452 | steps_t:     0 | t: 146.973648 | r: -15560.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   36 | steps:  8672 | steps_t:     0 | t: 149.449422 | r: -16720.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   37 | steps:  8924 | steps_t:     0 | t: 152.803752 | r: -1840.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   38 | steps:  9140 | steps_t:     0 | t: 156.560127 | r: -7120.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   39 | steps:  9308 | steps_t:     0 | t: 158.449455 | r: -6910.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   40 | steps:  9528 | steps_t:     0 | t: 162.026989 | r: -6660.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   41 | steps:  9790 | steps_t:     0 | t: 166.508526 | r: -3900.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   42 | steps: 10009 | steps_t:     8 | t: 169.701815 | r: -12640.000000 | e:   0.999840 | Q:        nan | won: False
+Red team starts
+GAME IS OVER
+#   43 | steps: 10227 | steps_t:   170 | t: 182.339562 | r: -13280.000000 | e:   0.996600 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   44 | steps: 10497 | steps_t:   398 | t: 199.687267 | r: -2120.000000 | e:   0.992040 | Q: -247.386047 | won: False
+Blue team starts
+GAME IS OVER
+#   45 | steps: 10798 | steps_t:   643 | t: 219.390174 | r:  -100.000000 | e:   0.987140 | Q: -341.298767 | won: True
+Red team starts
+GAME IS OVER
+#   46 | steps: 11045 | steps_t:   845 | t: 238.215611 | r:  -710.000000 | e:   0.983100 | Q: -237.315887 | won: False
+Blue team starts
+GAME IS OVER
+#   47 | steps: 11346 | steps_t:  1092 | t: 258.461164 | r: -22550.000000 | e:   0.978160 | Q: -364.836273 | won: True
+Blue team starts
+GAME IS OVER
+#   48 | steps: 11647 | steps_t:  1342 | t: 278.370284 | r: -4370.000000 | e:   0.973160 | Q: -327.975067 | won: True
+Red team starts
+GAME IS OVER
+#   49 | steps: 11817 | steps_t:  1467 | t: 286.619859 | r: -4400.000000 | e:   0.970660 | Q: -322.731506 | won: False
+Blue team starts
+GAME IS OVER
+#   50 | steps: 12118 | steps_t:  1717 | t: 305.858680 | r: -7020.000000 | e:   0.965660 | Q: -315.937134 | won: True
+Blue team starts
+GAME IS OVER
+#   51 | steps: 12333 | steps_t:  1882 | t: 319.962386 | r: -3420.000000 | e:   0.962360 | Q:        nan | won: False
+Blue team starts
+GAME IS OVER
+#   52 | steps: 12551 | steps_t:  2049 | t: 334.736222 | r: -10540.000000 | e:   0.959020 | Q: -220.332779 | won: False
+Blue team starts
+GAME IS OVER
+#   53 | steps: 12852 | steps_t:  2308 | t: 355.968331 | r:  1930.000000 | e:   0.953840 | Q: -237.463898 | won: True
+Red team starts
+GAME IS OVER
+#   54 | steps: 13020 | steps_t:  2435 | t: 365.985945 | r: -3280.000000 | e:   0.951300 | Q: -327.162689 | won: False
+Red team starts
+GAME IS OVER
+#   55 | steps: 13321 | steps_t:  2694 | t: 387.436065 | r: -2780.000000 | e:   0.946120 | Q: -265.467010 | won: True
+Red team starts
+GAME IS OVER
+#   56 | steps: 13622 | steps_t:  2954 | t: 409.623873 | r:  -650.000000 | e:   0.940920 | Q: -283.534058 | won: True
+Red team starts
+GAME IS OVER
+#   57 | steps: 13841 | steps_t:  3123 | t: 422.957737 | r: -6120.000000 | e:   0.937540 | Q: -350.361511 | won: False
+Red team starts
+GAME IS OVER
+#   58 | steps: 14142 | steps_t:  3379 | t: 441.856438 | r: -3690.000000 | e:   0.932420 | Q: -226.707977 | won: True
+Blue team starts
+GAME IS OVER
+#   59 | steps: 14358 | steps_t:  3539 | t: 453.280827 | r: -6290.000000 | e:   0.929220 | Q: -232.919617 | won: False
+Red team starts
+GAME IS OVER
+#   60 | steps: 14574 | steps_t:  3700 | t: 466.460462 | r: -9890.000000 | e:   0.926000 | Q: -227.928970 | won: False
+Blue team starts
+GAME IS OVER
+#   61 | steps: 14790 | steps_t:  3860 | t: 480.398434 | r: -4830.000000 | e:   0.922800 | Q: -289.403961 | won: False
+Red team starts
+GAME IS OVER
+#   62 | steps: 15006 | steps_t:  4020 | t: 493.423238 | r: -5380.000000 | e:   0.919600 | Q: -236.639786 | won: False
+Red team starts
+GAME IS OVER
+#   63 | steps: 15223 | steps_t:  4181 | t: 509.569165 | r: -5550.000000 | e:   0.916380 | Q: -154.223923 | won: False
+Red team starts
+GAME IS OVER
+#   64 | steps: 15443 | steps_t:  4345 | t: 522.166774 | r: -4700.000000 | e:   0.913100 | Q: -117.936050 | won: False
+Red team starts
+GAME IS OVER
+#   65 | steps: 15659 | steps_t:  4507 | t: 534.774855 | r: -4560.000000 | e:   0.909860 | Q: -66.019081 | won: False
+Blue team starts
+GAME IS OVER
+#   66 | steps: 15960 | steps_t:  4767 | t: 554.572561 | r:  1820.000000 | e:   0.904660 | Q:  -9.000006 | won: True
+Blue team starts
+GAME IS OVER
+#   67 | steps: 16261 | steps_t:  5023 | t: 573.352988 | r: -3430.000000 | e:   0.899540 | Q:  10.452641 | won: True
+Red team starts
+GAME IS OVER
+#   68 | steps: 16478 | steps_t:  5189 | t: 587.926798 | r: -10010.000000 | e:   0.896220 | Q: -23.109108 | won: False
+Red team starts
+GAME IS OVER
+#   69 | steps: 16693 | steps_t:  5353 | t: 601.338168 | r: -1790.000000 | e:   0.892940 | Q:  14.863893 | won: False
+Red team starts
+GAME IS OVER
+#   70 | steps: 16994 | steps_t:  5600 | t: 620.329816 | r:  -870.000000 | e:   0.888000 | Q:   8.814828 | won: True
+Blue team starts
+GAME IS OVER
+#   71 | steps: 17212 | steps_t:  5763 | t: 632.678028 | r: -6650.000000 | e:   0.884740 | Q:  18.192284 | won: False
+Red team starts
+GAME IS OVER
+#   72 | steps: 17429 | steps_t:  5925 | t: 646.297498 | r: -3420.000000 | e:   0.881500 | Q:  20.641781 | won: False
+Blue team starts
+GAME IS OVER
+#   73 | steps: 17644 | steps_t:  6090 | t: 659.695094 | r: -4300.000000 | e:   0.878200 | Q:  16.425406 | won: False
+Red team starts
+GAME IS OVER
+#   74 | steps: 17860 | steps_t:  6250 | t: 673.781614 | r: -4970.000000 | e:   0.875000 | Q:  34.868961 | won: False
+Red team starts
+GAME IS OVER
+#   75 | steps: 18161 | steps_t:  6509 | t: 694.632367 | r:  2580.000000 | e:   0.869820 | Q:  63.041618 | won: True
+Red team starts
+GAME IS OVER
+#   76 | steps: 18423 | steps_t:  6716 | t: 713.522919 | r: -5240.000000 | e:   0.865680 | Q:  75.958107 | won: False
+Red team starts
+GAME IS OVER
+#   77 | steps: 18591 | steps_t:  6842 | t: 724.617157 | r: -6010.000000 | e:   0.863160 | Q:  62.208832 | won: False
+Blue team starts
+GAME IS OVER
+#   78 | steps: 18808 | steps_t:  7003 | t: 738.517763 | r: -2130.000000 | e:   0.859940 | Q:  67.989830 | won: False
+Red team starts
+GAME IS OVER
+#   79 | steps: 19109 | steps_t:  7262 | t: 758.016728 | r: -2480.000000 | e:   0.854760 | Q:  94.382133 | won: True
+Blue team starts
+GAME IS OVER
+#   80 | steps: 19410 | steps_t:  7512 | t: 775.909720 | r:  2300.000000 | e:   0.849760 | Q: 100.610054 | won: True
+Red team starts
+GAME IS OVER
+#   81 | steps: 19711 | steps_t:  7758 | t: 794.047456 | r: -1200.000000 | e:   0.844840 | Q:  94.785126 | won: True
+Red team starts
+Model saved
+GAME IS OVER
+#   82 | steps: 20012 | steps_t:  8018 | t: 813.042298 | r: -8260.000000 | e:   0.839640 | Q: 115.977188 | won: True
+Red team starts
+GAME IS OVER
+#   83 | steps: 20180 | steps_t:  8145 | t: 822.748512 | r: -2960.000000 | e:   0.837100 | Q: 131.140228 | won: False
+Red team starts
+GAME IS OVER
+#   84 | steps: 20481 | steps_t:  8396 | t: 843.605267 | r:  -790.000000 | e:   0.832080 | Q: 124.501511 | won: True
+Blue team starts
+GAME IS OVER
+#   85 | steps: 20782 | steps_t:  8652 | t: 864.241138 | r:  1970.000000 | e:   0.826960 | Q: 136.642303 | won: True
+Red team starts
+GAME IS OVER
+#   86 | steps: 21083 | steps_t:  8902 | t: 888.657159 | r:   490.000000 | e:   0.821960 | Q:  98.941765 | won: True
+Blue team starts
+GAME IS OVER
+#   87 | steps: 21384 | steps_t:  9158 | t: 911.159660 | r: -4790.000000 | e:   0.816840 | Q: 132.210022 | won: True
+Blue team starts
+GAME IS OVER
+#   88 | steps: 21604 | steps_t:  9323 | t: 925.157315 | r: -3700.000000 | e:   0.813540 | Q: 147.442169 | won: False
+Red team starts
+GAME IS OVER
+#   89 | steps: 21819 | steps_t:  9487 | t: 937.859730 | r: -8690.000000 | e:   0.810260 | Q: 131.497696 | won: False
+Red team starts
+GAME IS OVER
+#   90 | steps: 22120 | steps_t:  9747 | t: 959.042856 | r:  2660.000000 | e:   0.805060 | Q: 179.379639 | won: True
+Red team starts
+GAME IS OVER
+#   91 | steps: 22292 | steps_t:  9874 | t: 969.684857 | r: -1360.000000 | e:   0.802520 | Q: 151.260483 | won: False
+Red team starts
+GAME IS OVER
+#   92 | steps: 22555 | steps_t: 10086 | t: 987.689119 | r: -8820.000000 | e:   0.798280 | Q: 156.848328 | won: False
+Blue team starts
+GAME IS OVER
+#   93 | steps: 22856 | steps_t: 10342 | t: 1007.839496 | r:  2820.000000 | e:   0.793160 | Q: 227.292267 | won: True
+Red team starts
+GAME IS OVER
+#   94 | steps: 23022 | steps_t: 10463 | t: 1017.810547 | r: -1120.000000 | e:   0.790740 | Q: 218.288742 | won: False
+Red team starts
+GAME IS OVER
+#   95 | steps: 23323 | steps_t: 10709 | t: 1037.815738 | r: -3080.000000 | e:   0.785820 | Q: 176.022919 | won: True
+Red team starts
+GAME IS OVER
+#   96 | steps: 23538 | steps_t: 10873 | t: 1051.063247 | r: -5340.000000 | e:   0.782540 | Q: 182.577103 | won: False
+Red team starts
+GAME IS OVER
+#   97 | steps: 23839 | steps_t: 11129 | t: 1071.971674 | r:  2150.000000 | e:   0.777420 | Q: 284.501953 | won: True
+Blue team starts
+GAME IS OVER
+#   98 | steps: 24054 | steps_t: 11293 | t: 1084.321767 | r: -1770.000000 | e:   0.774140 | Q: 236.641479 | won: False
+Red team starts
+GAME IS OVER
+#   99 | steps: 24226 | steps_t: 11420 | t: 1094.619328 | r: -1440.000000 | e:   0.771600 | Q: 152.318817 | won: False
+Red team starts
+GAME IS OVER
+#  100 | steps: 24442 | steps_t: 11582 | t: 1108.475921 | r: -4600.000000 | e:   0.768360 | Q: 182.370132 | won: False
+Blue team starts
+GAME IS OVER
+#  101 | steps: 24711 | steps_t: 11796 | t: 1125.308598 | r: -2600.000000 | e:   0.764080 | Q: 199.611099 | won: False
+Blue team starts
+GAME IS OVER
+#  102 | steps: 24927 | steps_t: 11958 | t: 1139.759791 | r: -6820.000000 | e:   0.760840 | Q: 250.440125 | won: False
+Blue team starts
+GAME IS OVER
+#  103 | steps: 25228 | steps_t: 12208 | t: 1160.280958 | r:  1370.000000 | e:   0.755840 | Q: 291.255524 | won: True
+Blue team starts
+GAME IS OVER
+#  104 | steps: 25529 | steps_t: 12467 | t: 1181.916246 | r: -1750.000000 | e:   0.750660 | Q: 290.716888 | won: True
+Blue team starts
+GAME IS OVER
+#  105 | steps: 25749 | steps_t: 12632 | t: 1195.864949 | r: -8120.000000 | e:   0.747360 | Q: 209.968887 | won: False
+Red team starts
+GAME IS OVER
+#  106 | steps: 25921 | steps_t: 12759 | t: 1205.112820 | r: -1420.000000 | e:   0.744820 | Q: 187.144470 | won: False
+Blue team starts
+GAME IS OVER
+#  107 | steps: 26137 | steps_t: 12920 | t: 1217.431446 | r: -2060.000000 | e:   0.741600 | Q: 236.122925 | won: False
+Blue team starts
+GAME IS OVER
+#  108 | steps: 26357 | steps_t: 13086 | t: 1231.630914 | r: -4140.000000 | e:   0.738280 | Q: 221.832184 | won: False
+Blue team starts
+GAME IS OVER
+#  109 | steps: 26573 | steps_t: 13248 | t: 1244.675815 | r: -3280.000000 | e:   0.735040 | Q: 249.794830 | won: False
+Red team starts
+GAME IS OVER
+#  110 | steps: 26791 | steps_t: 13412 | t: 1257.394217 | r: -3890.000000 | e:   0.731760 | Q: 265.381927 | won: False
+Blue team starts
+GAME IS OVER
+#  111 | steps: 27092 | steps_t: 13668 | t: 1278.998421 | r:  2590.000000 | e:   0.726640 | Q: 360.239502 | won: True
+Blue team starts
+GAME IS OVER
+#  112 | steps: 27308 | steps_t: 13829 | t: 1293.362247 | r: -6940.000000 | e:   0.723420 | Q: 246.299072 | won: False
+Red team starts
+GAME IS OVER
+#  113 | steps: 27528 | steps_t: 13994 | t: 1307.307693 | r: -5660.000000 | e:   0.720120 | Q: 214.269943 | won: False
+Red team starts
+GAME IS OVER
+#  114 | steps: 27696 | steps_t: 14121 | t: 1316.373633 | r: -1180.000000 | e:   0.717580 | Q: 304.918701 | won: False
+Blue team starts
+GAME IS OVER
+#  115 | steps: 27946 | steps_t: 14326 | t: 1331.832276 | r:  -620.000000 | e:   0.713480 | Q: 423.739655 | won: False
+Red team starts
+GAME IS OVER
+#  116 | steps: 28166 | steps_t: 14490 | t: 1344.872697 | r: -6220.000000 | e:   0.710200 | Q: 239.334778 | won: False
+Red team starts
+GAME IS OVER
+#  117 | steps: 28383 | steps_t: 14653 | t: 1356.829494 | r: -2990.000000 | e:   0.706940 | Q: 246.619247 | won: False
+Red team starts
+GAME IS OVER
+#  118 | steps: 28602 | steps_t: 14821 | t: 1369.867881 | r: -2770.000000 | e:   0.703580 | Q: 262.347656 | won: False
+Blue team starts
+GAME IS OVER
+#  119 | steps: 28903 | steps_t: 15080 | t: 1390.076148 | r:  2680.000000 | e:   0.698400 | Q: 366.008972 | won: True
+Blue team starts
+GAME IS OVER
+#  120 | steps: 29166 | steps_t: 15298 | t: 1406.626285 | r:  -920.000000 | e:   0.694040 | Q: 322.619812 | won: False
+Blue team starts
+GAME IS OVER
+#  121 | steps: 29385 | steps_t: 15466 | t: 1422.417178 | r: -2280.000000 | e:   0.690680 | Q: 280.390106 | won: False
+Red team starts
+GAME IS OVER
+#  122 | steps: 29678 | steps_t: 15703 | t: 1443.090274 | r: -4470.000000 | e:   0.685940 | Q: 398.381256 | won: False
+Blue team starts
+GAME IS OVER
+#  123 | steps: 29898 | steps_t: 15868 | t: 1456.588788 | r: -2660.000000 | e:   0.682640 | Q: 241.422531 | won: False
+Red team starts
+Model saved
+GAME IS OVER
+#  124 | steps: 30160 | steps_t: 16075 | t: 1473.654856 | r: -4100.000000 | e:   0.678500 | Q: 204.970551 | won: False
+Red team starts
+GAME IS OVER
+#  125 | steps: 30461 | steps_t: 16334 | t: 1492.766115 | r:  2390.000000 | e:   0.673320 | Q: 408.527710 | won: True
+Red team starts
+GAME IS OVER
+#  126 | steps: 30676 | steps_t: 16498 | t: 1505.669056 | r: -3580.000000 | e:   0.670040 | Q: 350.590729 | won: False
+Red team starts
+GAME IS OVER
+#  127 | steps: 30977 | steps_t: 16757 | t: 1525.055457 | r:  1030.000000 | e:   0.664860 | Q: 443.609833 | won: True
+Blue team starts
+GAME IS OVER
+#  128 | steps: 31278 | steps_t: 17007 | t: 1544.604158 | r: -3400.000000 | e:   0.659860 | Q: 375.715698 | won: True
+Blue team starts
+GAME IS OVER
+#  129 | steps: 31579 | steps_t: 17263 | t: 1567.902403 | r:  1690.000000 | e:   0.654740 | Q: 415.612152 | won: True
+Red team starts
+GAME IS OVER
+#  130 | steps: 31840 | steps_t: 17473 | t: 1587.056586 | r: -4060.000000 | e:   0.650540 | Q: 220.894363 | won: False
+Red team starts
+GAME IS OVER
+#  131 | steps: 32135 | steps_t: 17718 | t: 1607.737876 | r: -6680.000000 | e:   0.645640 | Q: 374.913757 | won: False
+Red team starts
+GAME IS OVER
+#  132 | steps: 32350 | steps_t: 17882 | t: 1620.727511 | r: -5740.000000 | e:   0.642360 | Q: 270.889465 | won: False
+Blue team starts
+GAME IS OVER
+#  133 | steps: 32598 | steps_t: 18089 | t: 1636.879816 | r: -1460.000000 | e:   0.638220 | Q: 287.484772 | won: False
+Red team starts
+GAME IS OVER
+#  134 | steps: 32818 | steps_t: 18253 | t: 1648.923858 | r: -5480.000000 | e:   0.634940 | Q: 279.819489 | won: False
+Red team starts
+GAME IS OVER
+#  135 | steps: 33119 | steps_t: 18500 | t: 1668.054850 | r:  1720.000000 | e:   0.630000 | Q: 392.104980 | won: True
+Red team starts
+GAME IS OVER
+#  136 | steps: 33420 | steps_t: 18750 | t: 1687.111097 | r:  2320.000000 | e:   0.625000 | Q: 346.597290 | won: True
+Red team starts
+GAME IS OVER
+#  137 | steps: 33636 | steps_t: 18910 | t: 1700.603901 | r: -5120.000000 | e:   0.621800 | Q: 211.316788 | won: False
+Red team starts
+GAME IS OVER
+#  138 | steps: 33806 | steps_t: 19038 | t: 1712.106103 | r: -1080.000000 | e:   0.619240 | Q: 148.528717 | won: False
+Red team starts
+GAME IS OVER
+#  139 | steps: 34021 | steps_t: 19203 | t: 1723.977760 | r: -7580.000000 | e:   0.615940 | Q: 308.870087 | won: False
+Blue team starts
+GAME IS OVER
+#  140 | steps: 34236 | steps_t: 19368 | t: 1737.043338 | r: -2040.000000 | e:   0.612640 | Q: 199.295715 | won: False
+Blue team starts
+GAME IS OVER
+#  141 | steps: 34537 | steps_t: 19628 | t: 1758.665188 | r:  2140.000000 | e:   0.607440 | Q: 357.011810 | won: True
+Blue team starts
+GAME IS OVER
+#  142 | steps: 34833 | steps_t: 19868 | t: 1781.370363 | r: -2870.000000 | e:   0.602640 | Q: 313.454071 | won: False
+Blue team starts
+GAME IS OVER
+#  143 | steps: 35005 | steps_t: 19998 | t: 1791.849759 | r: -1150.000000 | e:   0.600040 | Q: 358.133179 | won: False
+Red team starts
+GAME IS OVER
+#  144 | steps: 35306 | steps_t: 20249 | t: 1811.459254 | r:  1950.000000 | e:   0.595020 | Q: 304.185120 | won: True
+Blue team starts
+GAME IS OVER
+#  145 | steps: 35475 | steps_t: 20376 | t: 1822.209543 | r: -2990.000000 | e:   0.592480 | Q: 122.741798 | won: False
+Blue team starts
+GAME IS OVER
+#  146 | steps: 35690 | steps_t: 20541 | t: 1836.963554 | r: -2260.000000 | e:   0.589180 | Q: 224.761108 | won: False
+Red team starts
+GAME IS OVER
+#  147 | steps: 35991 | steps_t: 20800 | t: 1858.227157 | r:  1540.000000 | e:   0.584000 | Q: 394.428650 | won: True
+Blue team starts
+GAME IS OVER
+#  148 | steps: 36292 | steps_t: 21047 | t: 1878.568913 | r:  1620.000000 | e:   0.579060 | Q: 375.604767 | won: True
+Blue team starts
+GAME IS OVER
+#  149 | steps: 36593 | steps_t: 21307 | t: 1899.048340 | r:  2710.000000 | e:   0.573860 | Q: 476.743347 | won: True
+Blue team starts
+GAME IS OVER
+#  150 | steps: 36894 | steps_t: 21553 | t: 1919.522552 | r:   920.000000 | e:   0.568940 | Q: 437.868835 | won: True
+Blue team starts
+GAME IS OVER
+#  151 | steps: 37178 | steps_t: 21796 | t: 1939.540062 | r:  -850.000000 | e:   0.564080 | Q: 244.286163 | won: False
+Red team starts
+GAME IS OVER
+#  152 | steps: 37350 | steps_t: 21927 | t: 1949.493910 | r: -1200.000000 | e:   0.561460 | Q: 239.825516 | won: False
+Blue team starts
+GAME IS OVER
+#  153 | steps: 37520 | steps_t: 22056 | t: 1960.797762 | r: -1240.000000 | e:   0.558880 | Q: 134.179810 | won: False
+Blue team starts
+GAME IS OVER
+#  154 | steps: 37736 | steps_t: 22217 | t: 1974.149237 | r: -4130.000000 | e:   0.555660 | Q: 157.577271 | won: False
+Red team starts
+GAME IS OVER
+#  155 | steps: 38037 | steps_t: 22464 | t: 1993.631150 | r:  2270.000000 | e:   0.550720 | Q: 300.067932 | won: True
+Blue team starts
+GAME IS OVER
+#  156 | steps: 38338 | steps_t: 22723 | t: 2014.618788 | r:  3690.000000 | e:   0.545540 | Q: 203.157883 | won: True
+Blue team starts
+GAME IS OVER
+#  157 | steps: 38555 | steps_t: 22889 | t: 2028.839588 | r: -1720.000000 | e:   0.542220 | Q: 166.385254 | won: False
+Red team starts
+GAME IS OVER
+#  158 | steps: 38771 | steps_t: 23049 | t: 2042.306298 | r: -3670.000000 | e:   0.539020 | Q: 174.604904 | won: False
+Blue team starts
+GAME IS OVER
+#  159 | steps: 39023 | steps_t: 23259 | t: 2058.690778 | r: -2800.000000 | e:   0.534820 | Q: 300.660858 | won: False
+Red team starts
+GAME IS OVER
+#  160 | steps: 39238 | steps_t: 23424 | t: 2071.598354 | r: -2280.000000 | e:   0.531520 | Q: 338.276947 | won: False
+Red team starts
+GAME IS OVER
+#  161 | steps: 39454 | steps_t: 23584 | t: 2084.180859 | r: -2980.000000 | e:   0.528320 | Q: 219.258270 | won: False
+Blue team starts
+GAME IS OVER
+#  162 | steps: 39674 | steps_t: 23750 | t: 2097.240560 | r: -4870.000000 | e:   0.525000 | Q: 178.956772 | won: False
+Red team starts
+GAME IS OVER
+#  163 | steps: 39889 | steps_t: 23914 | t: 2111.863852 | r: -1510.000000 | e:   0.521720 | Q: 386.178284 | won: False
+Red team starts
+Model saved
+GAME IS OVER
+#  164 | steps: 40057 | steps_t: 24040 | t: 2122.705803 | r: -1400.000000 | e:   0.519200 | Q: 298.198883 | won: False
+Red team starts
+GAME IS OVER
+#  165 | steps: 40225 | steps_t: 24163 | t: 2131.513422 | r: -1150.000000 | e:   0.516740 | Q: 214.023041 | won: False
+Blue team starts
+GAME IS OVER
+#  166 | steps: 40526 | steps_t: 24413 | t: 2152.124284 | r:  1840.000000 | e:   0.511740 | Q: 383.407532 | won: True
+Red team starts
+GAME IS OVER
+#  167 | steps: 40742 | steps_t: 24574 | t: 2165.782977 | r: -1180.000000 | e:   0.508520 | Q: 261.388153 | won: False
+Red team starts
+GAME IS OVER
+#  168 | steps: 41043 | steps_t: 24820 | t: 2186.959450 | r: -1690.000000 | e:   0.503600 | Q: 269.096954 | won: True
+Blue team starts
+GAME IS OVER
+#  169 | steps: 41259 | steps_t: 24982 | t: 2198.953080 | r: -2120.000000 | e:   0.500360 | Q: 236.214813 | won: False
+Blue team starts
+GAME IS OVER
+#  170 | steps: 41475 | steps_t: 25144 | t: 2214.843092 | r: -4850.000000 | e:   0.497120 | Q: 161.714233 | won: False
+Red team starts
+GAME IS OVER
+#  171 | steps: 41645 | steps_t: 25272 | t: 2224.957249 | r: -1230.000000 | e:   0.494560 | Q: 160.314667 | won: False
+Red team starts
+GAME IS OVER
+#  172 | steps: 41865 | steps_t: 25436 | t: 2240.594787 | r: -3040.000000 | e:   0.491280 | Q: 187.206863 | won: False
+Red team starts
+GAME IS OVER
+#  173 | steps: 42165 | steps_t: 25681 | t: 2262.402854 | r: -2210.000000 | e:   0.486380 | Q: 264.550537 | won: False
+Blue team starts
+GAME IS OVER
+#  174 | steps: 42466 | steps_t: 25940 | t: 2281.193184 | r:  2740.000000 | e:   0.481200 | Q: 437.237793 | won: True
+Red team starts
+GAME IS OVER
+#  175 | steps: 42767 | steps_t: 26186 | t: 2300.655217 | r:  1760.000000 | e:   0.476280 | Q: 447.274811 | won: True
+Blue team starts
+GAME IS OVER
+#  176 | steps: 42982 | steps_t: 26351 | t: 2313.530849 | r: -2620.000000 | e:   0.472980 | Q: 330.730927 | won: False
+Blue team starts
+GAME IS OVER
+#  177 | steps: 43283 | steps_t: 26610 | t: 2333.516394 | r:   -30.000000 | e:   0.467800 | Q: 281.305054 | won: True
+Red team starts
+GAME IS OVER
+#  178 | steps: 43500 | steps_t: 26777 | t: 2345.595866 | r: -1710.000000 | e:   0.464460 | Q: 259.931793 | won: False
+Blue team starts
+GAME IS OVER
+#  179 | steps: 43670 | steps_t: 26906 | t: 2355.111659 | r: -1110.000000 | e:   0.461880 | Q: 355.609161 | won: False
+Red team starts
+GAME IS OVER
+#  180 | steps: 43838 | steps_t: 27033 | t: 2365.457170 | r: -1260.000000 | e:   0.459340 | Q: 226.408615 | won: False
+Red team starts
+GAME IS OVER
+#  181 | steps: 44089 | steps_t: 27242 | t: 2381.692252 | r:  -750.000000 | e:   0.455160 | Q: 452.742065 | won: False
+Red team starts
+GAME IS OVER
+#  182 | steps: 44307 | steps_t: 27406 | t: 2395.900815 | r: -2540.000000 | e:   0.451880 | Q: 146.847580 | won: False
+Red team starts
+GAME IS OVER
+#  183 | steps: 44475 | steps_t: 27532 | t: 2405.080230 | r: -1000.000000 | e:   0.449360 | Q: 306.405304 | won: False
+Red team starts
+GAME IS OVER
+#  184 | steps: 44690 | steps_t: 27697 | t: 2417.701188 | r: -1810.000000 | e:   0.446060 | Q: 307.726501 | won: False
+Blue team starts
+GAME IS OVER
+#  185 | steps: 44858 | steps_t: 27824 | t: 2427.570356 | r: -1420.000000 | e:   0.443520 | Q: 233.968872 | won: False
+Blue team starts
+GAME IS OVER
+#  186 | steps: 45159 | steps_t: 28071 | t: 2446.703150 | r:   570.000000 | e:   0.438580 | Q: 297.608612 | won: True
+Blue team starts
+GAME IS OVER
+#  187 | steps: 45331 | steps_t: 28202 | t: 2456.311295 | r: -1810.000000 | e:   0.435960 | Q: 152.311401 | won: False
+Blue team starts
+GAME IS OVER
+#  188 | steps: 45632 | steps_t: 28461 | t: 2477.256515 | r:  2540.000000 | e:   0.430780 | Q: 436.274170 | won: True
+Blue team starts
+GAME IS OVER
+#  189 | steps: 45897 | steps_t: 28684 | t: 2495.771534 | r: -1180.000000 | e:   0.426320 | Q: 311.710693 | won: False
+Blue team starts
+GAME IS OVER
+#  190 | steps: 46198 | steps_t: 28930 | t: 2515.290004 | r:  2320.000000 | e:   0.421400 | Q: 292.553925 | won: True
+Red team starts
+GAME IS OVER
+#  191 | steps: 46366 | steps_t: 29056 | t: 2523.777640 | r: -1420.000000 | e:   0.418880 | Q: 189.344025 | won: False
+Red team starts
+GAME IS OVER
+#  192 | steps: 46586 | steps_t: 29220 | t: 2536.041143 | r: -2640.000000 | e:   0.415600 | Q: 272.898132 | won: False
+Blue team starts
+GAME IS OVER
+#  193 | steps: 46806 | steps_t: 29385 | t: 2548.666986 | r: -1400.000000 | e:   0.412300 | Q: 298.661041 | won: False
+Red team starts
+GAME IS OVER
+#  194 | steps: 46978 | steps_t: 29512 | t: 2557.482460 | r: -1280.000000 | e:   0.409760 | Q: 357.595367 | won: False
+Red team starts
+GAME IS OVER
+#  195 | steps: 47194 | steps_t: 29672 | t: 2569.546279 | r: -2870.000000 | e:   0.406560 | Q: 249.100052 | won: False
+Blue team starts
+GAME IS OVER
+#  196 | steps: 47495 | steps_t: 29931 | t: 2591.228194 | r:  3550.000000 | e:   0.401380 | Q: 391.290375 | won: True
+Blue team starts
+GAME IS OVER
+#  197 | steps: 47744 | steps_t: 30135 | t: 2608.771946 | r: -1400.000000 | e:   0.397300 | Q: 301.278442 | won: False
+Blue team starts
+GAME IS OVER
+#  198 | steps: 47914 | steps_t: 30264 | t: 2618.741979 | r: -1270.000000 | e:   0.394720 | Q: 182.550369 | won: False
+Red team starts
+GAME IS OVER
+#  199 | steps: 48134 | steps_t: 30428 | t: 2633.102589 | r: -1530.000000 | e:   0.391440 | Q: 206.434402 | won: False
+Blue team starts
+GAME IS OVER
+#  200 | steps: 48351 | steps_t: 30595 | t: 2646.781924 | r: -1640.000000 | e:   0.388100 | Q: 264.536926 | won: False
+Blue team starts
+GAME IS OVER
+#  201 | steps: 48523 | steps_t: 30726 | t: 2656.376021 | r: -1230.000000 | e:   0.385480 | Q: 306.955750 | won: False
+Blue team starts
+GAME IS OVER
+#  202 | steps: 48691 | steps_t: 30849 | t: 2665.644419 | r: -1370.000000 | e:   0.383020 | Q: 167.780746 | won: False
+Red team starts
+GAME IS OVER
+#  203 | steps: 48906 | steps_t: 31014 | t: 2677.409814 | r: -2010.000000 | e:   0.379720 | Q: 274.033173 | won: False
+Blue team starts
+GAME IS OVER
+#  204 | steps: 49207 | steps_t: 31270 | t: 2698.422632 | r:  2280.000000 | e:   0.374600 | Q: 427.610260 | won: True
+Red team starts
+GAME IS OVER
+#  205 | steps: 49375 | steps_t: 31397 | t: 2707.604396 | r: -1160.000000 | e:   0.372060 | Q: 232.162384 | won: False
+Red team starts
+GAME IS OVER
+#  206 | steps: 49676 | steps_t: 31657 | t: 2726.619314 | r:  3310.000000 | e:   0.366860 | Q: 493.479889 | won: True
+Blue team starts
+GAME IS OVER
+#  207 | steps: 49958 | steps_t: 31889 | t: 2746.505379 | r: -1090.000000 | e:   0.362220 | Q: 309.549164 | won: False
+Blue team starts
+GAME IS OVER
+#  208 | steps: 50175 | steps_t: 32055 | t: 2759.912752 | r:  -590.000000 | e:   0.358900 | Q: 264.506134 | won: False
+Blue team starts
+GAME IS OVER
+#  209 | steps: 50396 | steps_t: 32222 | t: 2772.512014 | r: -1980.000000 | e:   0.355560 | Q: 265.174805 | won: False
+Red team starts
+GAME IS OVER
+#  210 | steps: 50678 | steps_t: 32450 | t: 2791.533147 | r: -1710.000000 | e:   0.351000 | Q: 339.206970 | won: False
+Blue team starts
+GAME IS OVER
+#  211 | steps: 50979 | steps_t: 32697 | t: 2809.923196 | r:  2070.000000 | e:   0.346060 | Q: 430.405548 | won: True
+Red team starts
+GAME IS OVER
+#  212 | steps: 51280 | steps_t: 32948 | t: 2830.398473 | r:   480.000000 | e:   0.341040 | Q: 351.727570 | won: True
+Blue team starts
+GAME IS OVER
+#  213 | steps: 51544 | steps_t: 33162 | t: 2847.393859 | r: -2070.000000 | e:   0.336760 | Q: 325.504242 | won: False
+Blue team starts
+GAME IS OVER
+#  214 | steps: 51765 | steps_t: 33329 | t: 2861.122910 | r: -2420.000000 | e:   0.333420 | Q: 202.411194 | won: False
+Blue team starts
+GAME IS OVER
+#  215 | steps: 52030 | steps_t: 33552 | t: 2879.128643 | r: -1180.000000 | e:   0.328960 | Q: 275.803772 | won: False
+Blue team starts
+GAME IS OVER
+#  216 | steps: 52249 | steps_t: 33720 | t: 2892.803280 | r: -2350.000000 | e:   0.325600 | Q: 259.639160 | won: False
+Blue team starts
+GAME IS OVER
+#  217 | steps: 52550 | steps_t: 33980 | t: 2912.079649 | r:  2440.000000 | e:   0.320400 | Q: 354.209137 | won: True
+Blue team starts
+GAME IS OVER
+#  218 | steps: 52766 | steps_t: 34140 | t: 2924.511024 | r: -1600.000000 | e:   0.317200 | Q: 295.070679 | won: False
+Blue team starts
+GAME IS OVER
+#  219 | steps: 53067 | steps_t: 34390 | t: 2943.723122 | r:  3090.000000 | e:   0.312200 | Q: 346.100311 | won: True
+Red team starts
+GAME IS OVER
+#  220 | steps: 53235 | steps_t: 34513 | t: 2953.438931 | r: -1850.000000 | e:   0.309740 | Q: 244.091736 | won: False
+Red team starts
+GAME IS OVER
+#  221 | steps: 53503 | steps_t: 34726 | t: 2971.221539 | r: -2130.000000 | e:   0.305480 | Q: 261.081024 | won: False
+Red team starts
+GAME IS OVER
+#  222 | steps: 53671 | steps_t: 34853 | t: 2981.282318 | r: -1080.000000 | e:   0.302940 | Q: 222.916183 | won: False
+Blue team starts
+GAME IS OVER
+#  223 | steps: 53887 | steps_t: 35013 | t: 2994.397801 | r: -1380.000000 | e:   0.299740 | Q: 206.211731 | won: False
+Blue team starts
+GAME IS OVER
+#  224 | steps: 54055 | steps_t: 35136 | t: 3007.615110 | r: -1000.000000 | e:   0.297280 | Q: 186.773163 | won: False
+Blue team starts
+GAME IS OVER
+#  225 | steps: 54223 | steps_t: 35259 | t: 3016.399855 | r: -1330.000000 | e:   0.294820 | Q: 272.278107 | won: False
+Red team starts
+GAME IS OVER
+#  226 | steps: 54393 | steps_t: 35384 | t: 3025.035275 | r: -1270.000000 | e:   0.292320 | Q: 152.245468 | won: False
+Blue team starts
+GAME IS OVER
+#  227 | steps: 54561 | steps_t: 35510 | t: 3033.564699 | r: -1040.000000 | e:   0.289800 | Q: 233.373184 | won: False
+Red team starts
+GAME IS OVER
+#  228 | steps: 54862 | steps_t: 35770 | t: 3050.753244 | r:  2490.000000 | e:   0.284600 | Q: 430.362427 | won: True
+Blue team starts
+GAME IS OVER
+#  229 | steps: 55082 | steps_t: 35936 | t: 3063.671798 | r: -1920.000000 | e:   0.281280 | Q: 230.806747 | won: False
+Blue team starts
+GAME IS OVER
+#  230 | steps: 55250 | steps_t: 36062 | t: 3072.464526 | r: -1230.000000 | e:   0.278760 | Q: 167.651901 | won: False
+Blue team starts
+GAME IS OVER
+#  231 | steps: 55551 | steps_t: 36313 | t: 3091.816950 | r:   890.000000 | e:   0.273740 | Q: 510.324829 | won: True
+Red team starts
+GAME IS OVER
+#  232 | steps: 55719 | steps_t: 36439 | t: 3101.248860 | r: -1140.000000 | e:   0.271220 | Q: 330.764313 | won: False
+Red team starts
+GAME IS OVER
+#  233 | steps: 55934 | steps_t: 36604 | t: 3116.210780 | r: -1520.000000 | e:   0.267920 | Q: 225.693436 | won: False
+Red team starts
+GAME IS OVER
+#  234 | steps: 56235 | steps_t: 36863 | t: 3135.503808 | r:  2890.000000 | e:   0.262740 | Q: 433.096893 | won: True
+Blue team starts
+GAME IS OVER
+#  235 | steps: 56536 | steps_t: 37114 | t: 3155.802913 | r:  1550.000000 | e:   0.257720 | Q: 247.020966 | won: True
+Red team starts
+GAME IS OVER
+#  236 | steps: 56837 | steps_t: 37365 | t: 3175.489189 | r:  1310.000000 | e:   0.252700 | Q: 475.457336 | won: True
+Red team starts
+GAME IS OVER
+#  237 | steps: 57005 | steps_t: 37492 | t: 3184.712152 | r: -2160.000000 | e:   0.250160 | Q: 157.772888 | won: False
+Red team starts
+GAME IS OVER
+#  238 | steps: 57220 | steps_t: 37657 | t: 3196.671069 | r: -1770.000000 | e:   0.246860 | Q: 226.167664 | won: False
+Red team starts
+GAME IS OVER
+#  239 | steps: 57484 | steps_t: 37880 | t: 3214.084530 | r:  -740.000000 | e:   0.242400 | Q: 482.777832 | won: False
+Blue team starts
+GAME IS OVER
+#  240 | steps: 57703 | steps_t: 38049 | t: 3230.615652 | r: -1140.000000 | e:   0.239020 | Q: 250.307053 | won: False
+Blue team starts
+GAME IS OVER
+#  241 | steps: 57919 | steps_t: 38209 | t: 3244.596493 | r: -1490.000000 | e:   0.235820 | Q: 200.962708 | won: False
+Blue team starts
+GAME IS OVER
+#  242 | steps: 58087 | steps_t: 38332 | t: 3253.352393 | r: -1070.000000 | e:   0.233360 | Q: 174.772903 | won: False
+Red team starts
+GAME IS OVER
+#  243 | steps: 58303 | steps_t: 38494 | t: 3265.563279 | r: -1410.000000 | e:   0.230120 | Q: 253.528015 | won: False
+Red team starts
+GAME IS OVER
+#  244 | steps: 58520 | steps_t: 38661 | t: 3276.957057 | r: -1880.000000 | e:   0.226780 | Q: 247.222794 | won: False
+Blue team starts
+GAME IS OVER
+#  245 | steps: 58821 | steps_t: 38912 | t: 3296.742952 | r:  1690.000000 | e:   0.221760 | Q: 305.156464 | won: True
+Blue team starts
+GAME IS OVER
+#  246 | steps: 59122 | steps_t: 39168 | t: 3315.631843 | r:  3030.000000 | e:   0.216640 | Q: 466.105988 | won: True
+Blue team starts
+GAME IS OVER
+#  247 | steps: 59290 | steps_t: 39291 | t: 3324.603894 | r: -1050.000000 | e:   0.214180 | Q: 255.091995 | won: False
+Blue team starts
+GAME IS OVER
+#  248 | steps: 59460 | steps_t: 39420 | t: 3334.147122 | r: -2770.000000 | e:   0.211600 | Q: 151.763412 | won: False
+Blue team starts
+GAME IS OVER
+#  249 | steps: 59759 | steps_t: 39664 | t: 3355.783904 | r: -2840.000000 | e:   0.206720 | Q: 241.561066 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  250 | steps: 60024 | steps_t: 39879 | t: 3374.669469 | r: -1300.000000 | e:   0.202420 | Q: 254.019073 | won: False
+Blue team starts
+GAME IS OVER
+#  251 | steps: 60239 | steps_t: 40043 | t: 3386.706136 | r: -1140.000000 | e:   0.199140 | Q: 246.831650 | won: False
+Red team starts
+GAME IS OVER
+#  252 | steps: 60459 | steps_t: 40207 | t: 3398.570874 | r: -1480.000000 | e:   0.195860 | Q: 202.811157 | won: False
+Blue team starts
+GAME IS OVER
+#  253 | steps: 60760 | steps_t: 40453 | t: 3419.354752 | r:  1720.000000 | e:   0.190940 | Q: 319.197968 | won: True
+Red team starts
+GAME IS OVER
+#  254 | steps: 60975 | steps_t: 40617 | t: 3432.594918 | r: -1540.000000 | e:   0.187660 | Q: 203.171890 | won: False
+Red team starts
+GAME IS OVER
+#  255 | steps: 61276 | steps_t: 40864 | t: 3453.729598 | r:  1630.000000 | e:   0.182720 | Q: 305.794159 | won: True
+Red team starts
+GAME IS OVER
+#  256 | steps: 61548 | steps_t: 41095 | t: 3473.707649 | r:  -450.000000 | e:   0.178100 | Q: 279.919464 | won: False
+Red team starts
+GAME IS OVER
+#  257 | steps: 61849 | steps_t: 41355 | t: 3498.280324 | r:  2740.000000 | e:   0.172900 | Q: 448.230011 | won: True
+Blue team starts
+GAME IS OVER
+#  258 | steps: 62067 | steps_t: 41519 | t: 3509.749735 | r: -1180.000000 | e:   0.169620 | Q: 198.591751 | won: False
+Red team starts
+GAME IS OVER
+#  259 | steps: 62327 | steps_t: 41737 | t: 3524.942688 | r:  -300.000000 | e:   0.165260 | Q: 570.363708 | won: False
+Blue team starts
+GAME IS OVER
+#  260 | steps: 62628 | steps_t: 41996 | t: 3544.932633 | r:  2560.000000 | e:   0.160080 | Q: 361.495819 | won: True
+Blue team starts
+GAME IS OVER
+#  261 | steps: 62856 | steps_t: 42168 | t: 3559.089849 | r: -1650.000000 | e:   0.156640 | Q: 283.559998 | won: False
+Blue team starts
+GAME IS OVER
+#  262 | steps: 63156 | steps_t: 42412 | t: 3579.549960 | r: -1590.000000 | e:   0.151760 | Q: 333.221619 | won: False
+Blue team starts
+GAME IS OVER
+#  263 | steps: 63457 | steps_t: 42668 | t: 3601.636853 | r:  2420.000000 | e:   0.146640 | Q: 459.848145 | won: True
+Red team starts
+GAME IS OVER
+#  264 | steps: 63673 | steps_t: 42828 | t: 3616.303512 | r: -1360.000000 | e:   0.143440 | Q: 277.562714 | won: False
+Blue team starts
+GAME IS OVER
+#  265 | steps: 63974 | steps_t: 43079 | t: 3637.210615 | r:  1760.000000 | e:   0.138420 | Q: 260.854279 | won: True
+Blue team starts
+GAME IS OVER
+#  266 | steps: 64194 | steps_t: 43245 | t: 3653.890176 | r: -1470.000000 | e:   0.135100 | Q: 173.356873 | won: False
+Blue team starts
+GAME IS OVER
+#  267 | steps: 64366 | steps_t: 43375 | t: 3664.948547 | r: -1240.000000 | e:   0.132500 | Q: 255.513016 | won: False
+Red team starts
+GAME IS OVER
+#  268 | steps: 64667 | steps_t: 43635 | t: 3685.195972 | r:  2830.000000 | e:   0.127300 | Q: 515.203308 | won: True
+Red team starts
+GAME IS OVER
+#  269 | steps: 64888 | steps_t: 43801 | t: 3700.269847 | r:  -990.000000 | e:   0.123980 | Q: 180.050003 | won: False
+Blue team starts
+GAME IS OVER
+#  270 | steps: 65189 | steps_t: 44057 | t: 3725.237885 | r:  2370.000000 | e:   0.118860 | Q: 511.021179 | won: True
+Red team starts
+GAME IS OVER
+#  271 | steps: 65458 | steps_t: 44276 | t: 3744.151025 | r: -1320.000000 | e:   0.114480 | Q: 356.025635 | won: False
+Blue team starts
+GAME IS OVER
+#  272 | steps: 65729 | steps_t: 44506 | t: 3772.268525 | r: -1450.000000 | e:   0.109880 | Q: 373.803864 | won: False
+Red team starts
+GAME IS OVER
+#  273 | steps: 66030 | steps_t: 44765 | t: 3792.437550 | r:  1900.000000 | e:   0.104700 | Q: 479.379517 | won: True
+Red team starts
+GAME IS OVER
+#  274 | steps: 66248 | steps_t: 44929 | t: 3805.679970 | r: -1190.000000 | e:   0.101420 | Q: 246.294296 | won: False
+Red team starts
+GAME IS OVER
+#  275 | steps: 66549 | steps_t: 45180 | t: 3828.644805 | r:  2740.000000 | e:   0.100000 | Q: 344.039398 | won: True
+Red team starts
+GAME IS OVER
+#  276 | steps: 66769 | steps_t: 45346 | t: 3843.668445 | r: -1020.000000 | e:   0.100000 | Q: 217.272430 | won: False
+Red team starts
+GAME IS OVER
+#  277 | steps: 67070 | steps_t: 45606 | t: 3865.293280 | r:  1050.000000 | e:   0.100000 | Q: 397.790070 | won: True
+Blue team starts
+GAME IS OVER
+#  278 | steps: 67285 | steps_t: 45771 | t: 3879.208028 | r:  -900.000000 | e:   0.100000 | Q: 239.387192 | won: False
+Red team starts
+GAME IS OVER
+#  279 | steps: 67453 | steps_t: 45898 | t: 3891.158230 | r:  -960.000000 | e:   0.100000 | Q: 173.866791 | won: False
+Red team starts
+GAME IS OVER
+#  280 | steps: 67669 | steps_t: 46060 | t: 3906.571638 | r: -1340.000000 | e:   0.100000 | Q: 189.011581 | won: False
+Blue team starts
+GAME IS OVER
+#  281 | steps: 67887 | steps_t: 46223 | t: 3920.005095 | r: -1140.000000 | e:   0.100000 | Q: 199.785980 | won: False
+Red team starts
+GAME IS OVER
+#  282 | steps: 68102 | steps_t: 46388 | t: 3933.346584 | r: -1440.000000 | e:   0.100000 | Q: 196.970337 | won: False
+Red team starts
+GAME IS OVER
+#  283 | steps: 68320 | steps_t: 46550 | t: 3946.582709 | r: -1130.000000 | e:   0.100000 | Q: 181.397842 | won: False
+Red team starts
+GAME IS OVER
+#  284 | steps: 68493 | steps_t: 46681 | t: 3958.596429 | r: -1410.000000 | e:   0.100000 | Q: 303.950317 | won: False
+Blue team starts
+GAME IS OVER
+#  285 | steps: 68711 | steps_t: 46849 | t: 3973.305895 | r: -1490.000000 | e:   0.100000 | Q: 262.061829 | won: False
+Red team starts
+GAME IS OVER
+#  286 | steps: 68992 | steps_t: 47088 | t: 3993.260063 | r:  -640.000000 | e:   0.100000 | Q: 510.962494 | won: False
+Blue team starts
+GAME IS OVER
+#  287 | steps: 69245 | steps_t: 47296 | t: 4011.787225 | r:  -800.000000 | e:   0.100000 | Q: 410.676941 | won: False
+Blue team starts
+GAME IS OVER
+#  288 | steps: 69546 | steps_t: 47552 | t: 4038.874837 | r:  2390.000000 | e:   0.100000 | Q: 482.570496 | won: True
+Red team starts
+GAME IS OVER
+#  289 | steps: 69761 | steps_t: 47716 | t: 4052.781484 | r:  -910.000000 | e:   0.100000 | Q: 193.205872 | won: False
+Red team starts
+GAME IS OVER
+#  290 | steps: 69929 | steps_t: 47842 | t: 4063.207514 | r:  -940.000000 | e:   0.100000 | Q: 255.224258 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  291 | steps: 70230 | steps_t: 48101 | t: 4093.350373 | r:  2520.000000 | e:   0.100000 | Q: 360.255157 | won: True
+Blue team starts
+GAME IS OVER
+#  292 | steps: 70531 | steps_t: 48361 | t: 4115.549296 | r:  3230.000000 | e:   0.100000 | Q: 372.841125 | won: True
+Blue team starts
+GAME IS OVER
+#  293 | steps: 70832 | steps_t: 48612 | t: 4138.949799 | r:  2400.000000 | e:   0.100000 | Q: 333.257782 | won: True
+Red team starts
+GAME IS OVER
+#  294 | steps: 71133 | steps_t: 48857 | t: 4165.252055 | r:  2600.000000 | e:   0.100000 | Q: 492.528015 | won: True
+Blue team starts
+GAME IS OVER
+#  295 | steps: 71434 | steps_t: 49116 | t: 4196.074311 | r:  -530.000000 | e:   0.100000 | Q: 414.650909 | won: False
+Red team starts
+GAME IS OVER
+#  296 | steps: 71653 | steps_t: 49285 | t: 4211.080408 | r: -1490.000000 | e:   0.100000 | Q: 343.401031 | won: False
+Blue team starts
+GAME IS OVER
+#  297 | steps: 71954 | steps_t: 49544 | t: 4233.271504 | r:  2820.000000 | e:   0.100000 | Q: 419.900848 | won: True
+Red team starts
+GAME IS OVER
+#  298 | steps: 72169 | steps_t: 49708 | t: 4247.577943 | r: -1000.000000 | e:   0.100000 | Q: 258.665161 | won: False
+Red team starts
+GAME IS OVER
+#  299 | steps: 72470 | steps_t: 49967 | t: 4269.027684 | r:  2760.000000 | e:   0.100000 | Q: 479.524139 | won: True
+Red team starts
+GAME IS OVER
+#  300 | steps: 72690 | steps_t: 50133 | t: 4283.649153 | r:  -960.000000 | e:   0.100000 | Q: 186.822540 | won: False
+Red team starts
+GAME IS OVER
+#  301 | steps: 72991 | steps_t: 50393 | t: 4305.541686 | r:  2890.000000 | e:   0.100000 | Q: 423.246155 | won: True
+Red team starts
+GAME IS OVER
+#  302 | steps: 73208 | steps_t: 50559 | t: 4323.396499 | r: -1400.000000 | e:   0.100000 | Q: 255.745255 | won: False
+Blue team starts
+GAME IS OVER
+#  303 | steps: 73426 | steps_t: 50722 | t: 4339.021016 | r: -1340.000000 | e:   0.100000 | Q: 215.903610 | won: False
+Red team starts
+GAME IS OVER
+#  304 | steps: 73727 | steps_t: 50981 | t: 4362.255992 | r:  2150.000000 | e:   0.100000 | Q: 309.180328 | won: True
+Blue team starts
+GAME IS OVER
+#  305 | steps: 73899 | steps_t: 51111 | t: 4374.426389 | r:  -930.000000 | e:   0.100000 | Q: 395.338928 | won: False
+Red team starts
+GAME IS OVER
+#  306 | steps: 74071 | steps_t: 51242 | t: 4388.117608 | r: -1100.000000 | e:   0.100000 | Q: 274.337463 | won: False
+Red team starts
+GAME IS OVER
+#  307 | steps: 74288 | steps_t: 51403 | t: 4403.613898 | r: -1300.000000 | e:   0.100000 | Q: 154.816025 | won: False
+Red team starts
+GAME IS OVER
+#  308 | steps: 74461 | steps_t: 51535 | t: 4415.215317 | r:  -850.000000 | e:   0.100000 | Q: 294.856842 | won: False
+Red team starts
+GAME IS OVER
+#  309 | steps: 74677 | steps_t: 51697 | t: 4429.601121 | r: -1040.000000 | e:   0.100000 | Q: 216.107056 | won: False
+Blue team starts
+GAME IS OVER
+#  310 | steps: 74893 | steps_t: 51857 | t: 4453.551633 | r:  -880.000000 | e:   0.100000 | Q: 296.300262 | won: False
+Blue team starts
+GAME IS OVER
+#  311 | steps: 75109 | steps_t: 52017 | t: 4471.107787 | r: -1540.000000 | e:   0.100000 | Q: 162.622482 | won: False
+Blue team starts
+GAME IS OVER
+#  312 | steps: 75410 | steps_t: 52273 | t: 4497.904739 | r:  2570.000000 | e:   0.100000 | Q: 486.492950 | won: True
+Red team starts
+GAME IS OVER
+#  313 | steps: 75582 | steps_t: 52404 | t: 4508.322784 | r: -3340.000000 | e:   0.100000 | Q: 278.095886 | won: False
+Red team starts
+GAME IS OVER
+#  314 | steps: 75883 | steps_t: 52660 | t: 4530.361948 | r:  3290.000000 | e:   0.100000 | Q: 538.256714 | won: True
+Blue team starts
+GAME IS OVER
+#  315 | steps: 76101 | steps_t: 52822 | t: 4545.089570 | r: -1060.000000 | e:   0.100000 | Q: 217.630814 | won: False
+Blue team starts
+GAME IS OVER
+#  316 | steps: 76363 | steps_t: 53034 | t: 4565.978090 | r:  -730.000000 | e:   0.100000 | Q: 351.103851 | won: False
+Red team starts
+GAME IS OVER
+#  317 | steps: 76664 | steps_t: 53290 | t: 4588.637677 | r:  3280.000000 | e:   0.100000 | Q: 558.830627 | won: True
+Blue team starts
+GAME IS OVER
+#  318 | steps: 76965 | steps_t: 53550 | t: 4614.575334 | r:  2770.000000 | e:   0.100000 | Q: 519.873230 | won: True
+Blue team starts
+GAME IS OVER
+#  319 | steps: 77181 | steps_t: 53716 | t: 4633.505355 | r: -1410.000000 | e:   0.100000 | Q: 208.400513 | won: False
+Blue team starts
+GAME IS OVER
+#  320 | steps: 77349 | steps_t: 53842 | t: 4643.778733 | r:  -950.000000 | e:   0.100000 | Q: 251.245773 | won: False
+Red team starts
+GAME IS OVER
+#  321 | steps: 77650 | steps_t: 54093 | t: 4667.042142 | r:  1650.000000 | e:   0.100000 | Q: 452.459564 | won: True
+Red team starts
+GAME IS OVER
+#  322 | steps: 77818 | steps_t: 54219 | t: 4677.572696 | r: -1140.000000 | e:   0.100000 | Q: 246.721893 | won: False
+Blue team starts
+GAME IS OVER
+#  323 | steps: 78034 | steps_t: 54380 | t: 4690.380306 | r: -1180.000000 | e:   0.100000 | Q: 178.924377 | won: False
+Red team starts
+GAME IS OVER
+#  324 | steps: 78251 | steps_t: 54546 | t: 4705.980167 | r: -1680.000000 | e:   0.100000 | Q: 183.129425 | won: False
+Red team starts
+GAME IS OVER
+#  325 | steps: 78470 | steps_t: 54714 | t: 4721.456913 | r: -1610.000000 | e:   0.100000 | Q: 324.826660 | won: False
+Red team starts
+GAME IS OVER
+#  326 | steps: 78638 | steps_t: 54840 | t: 4732.193121 | r: -1000.000000 | e:   0.100000 | Q: 223.816193 | won: False
+Red team starts
+GAME IS OVER
+#  327 | steps: 78874 | steps_t: 55021 | t: 4748.090721 | r: -1310.000000 | e:   0.100000 | Q: 363.296112 | won: False
+Red team starts
+GAME IS OVER
+#  328 | steps: 79094 | steps_t: 55187 | t: 4765.675037 | r: -1400.000000 | e:   0.100000 | Q: 211.447418 | won: False
+Blue team starts
+GAME IS OVER
+#  329 | steps: 79314 | steps_t: 55351 | t: 4782.016950 | r: -1660.000000 | e:   0.100000 | Q: 179.192230 | won: False
+Red team starts
+GAME IS OVER
+#  330 | steps: 79591 | steps_t: 55574 | t: 4803.116708 | r: -1490.000000 | e:   0.100000 | Q: 328.318420 | won: False
+Red team starts
+GAME IS OVER
+#  331 | steps: 79809 | steps_t: 55736 | t: 4816.040028 | r: -1240.000000 | e:   0.100000 | Q: 238.463959 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  332 | steps: 80029 | steps_t: 55906 | t: 4841.593630 | r: -1610.000000 | e:   0.100000 | Q: 188.604462 | won: False
+Red team starts
+GAME IS OVER
+#  333 | steps: 80247 | steps_t: 56070 | t: 4857.577026 | r: -1110.000000 | e:   0.100000 | Q: 161.809052 | won: False
+Red team starts
+GAME IS OVER
+#  334 | steps: 80461 | steps_t: 56230 | t: 4872.969144 | r: -1610.000000 | e:   0.100000 | Q: 181.257477 | won: False
+Red team starts
+GAME IS OVER
+#  335 | steps: 80762 | steps_t: 56486 | t: 4898.621560 | r:  2110.000000 | e:   0.100000 | Q: 467.384521 | won: True
+Red team starts
+GAME IS OVER
+#  336 | steps: 80930 | steps_t: 56612 | t: 4911.564200 | r:  -920.000000 | e:   0.100000 | Q: 214.691238 | won: False
+Blue team starts
+GAME IS OVER
+#  337 | steps: 81098 | steps_t: 56739 | t: 4924.074846 | r:  -930.000000 | e:   0.100000 | Q: 278.419983 | won: False
+Blue team starts
+GAME IS OVER
+#  338 | steps: 81399 | steps_t: 56995 | t: 4948.295312 | r:  2250.000000 | e:   0.100000 | Q: 272.856995 | won: True
+Blue team starts
+GAME IS OVER
+#  339 | steps: 81700 | steps_t: 57241 | t: 4971.012669 | r:  2490.000000 | e:   0.100000 | Q: 364.715881 | won: True
+Blue team starts
+GAME IS OVER
+#  340 | steps: 81915 | steps_t: 57405 | t: 4986.171851 | r: -1420.000000 | e:   0.100000 | Q: 207.262009 | won: False
+Blue team starts
+GAME IS OVER
+#  341 | steps: 82135 | steps_t: 57569 | t: 5004.223131 | r: -1750.000000 | e:   0.100000 | Q: 171.889328 | won: False
+Red team starts
+GAME IS OVER
+#  342 | steps: 82355 | steps_t: 57733 | t: 5019.936106 | r: -1200.000000 | e:   0.100000 | Q: 270.467926 | won: False
+Red team starts
+GAME IS OVER
+#  343 | steps: 82656 | steps_t: 57978 | t: 5043.610602 | r:  1780.000000 | e:   0.100000 | Q: 228.423065 | won: True
+Red team starts
+GAME IS OVER
+#  344 | steps: 82826 | steps_t: 58106 | t: 5055.686373 | r:  -900.000000 | e:   0.100000 | Q: 146.693314 | won: False
+Blue team starts
+GAME IS OVER
+#  345 | steps: 83127 | steps_t: 58356 | t: 5083.576334 | r:  1930.000000 | e:   0.100000 | Q: 400.189606 | won: True
+Red team starts
+GAME IS OVER
+#  346 | steps: 83345 | steps_t: 58519 | t: 5097.903353 | r: -1250.000000 | e:   0.100000 | Q: 181.800446 | won: False
+Red team starts
+GAME IS OVER
+#  347 | steps: 83565 | steps_t: 58684 | t: 5112.685107 | r: -1520.000000 | e:   0.100000 | Q: 194.861465 | won: False
+Blue team starts
+GAME IS OVER
+#  348 | steps: 83866 | steps_t: 58931 | t: 5136.025509 | r:  -800.000000 | e:   0.100000 | Q: 279.186768 | won: False
+Blue team starts
+GAME IS OVER
+#  349 | steps: 84084 | steps_t: 59094 | t: 5150.366973 | r: -1210.000000 | e:   0.100000 | Q: 229.345673 | won: False
+Red team starts
+GAME IS OVER
+#  350 | steps: 84385 | steps_t: 59350 | t: 5172.030549 | r:  2960.000000 | e:   0.100000 | Q: 461.662933 | won: True
+Blue team starts
+GAME IS OVER
+#  351 | steps: 84658 | steps_t: 59578 | t: 5193.948036 | r:  -570.000000 | e:   0.100000 | Q: 322.281036 | won: False
+Blue team starts
+GAME IS OVER
+#  352 | steps: 84916 | steps_t: 59791 | t: 5215.992426 | r:  -630.000000 | e:   0.100000 | Q: 291.858612 | won: False
+Red team starts
+GAME IS OVER
+#  353 | steps: 85217 | steps_t: 60047 | t: 5239.541951 | r:  2390.000000 | e:   0.100000 | Q: 509.615021 | won: True
+Red team starts
+GAME IS OVER
+#  354 | steps: 85518 | steps_t: 60307 | t: 5272.623280 | r:  2970.000000 | e:   0.100000 | Q: 420.047302 | won: True
+Red team starts
+GAME IS OVER
+#  355 | steps: 85734 | steps_t: 60467 | t: 5286.422586 | r: -1870.000000 | e:   0.100000 | Q: 337.658203 | won: False
+Red team starts
+GAME IS OVER
+#  356 | steps: 86035 | steps_t: 60714 | t: 5312.499927 | r:  2080.000000 | e:   0.100000 | Q: 297.774750 | won: True
+Red team starts
+GAME IS OVER
+#  357 | steps: 86253 | steps_t: 60877 | t: 5328.083687 | r: -1080.000000 | e:   0.100000 | Q: 349.971649 | won: False
+Blue team starts
+GAME IS OVER
+#  358 | steps: 86468 | steps_t: 61042 | t: 5344.117359 | r: -1120.000000 | e:   0.100000 | Q: 233.389954 | won: False
+Blue team starts
+GAME IS OVER
+#  359 | steps: 86769 | steps_t: 61302 | t: 5371.694070 | r:  2910.000000 | e:   0.100000 | Q: 588.972351 | won: True
+Red team starts
+GAME IS OVER
+#  360 | steps: 87070 | steps_t: 61558 | t: 5398.375100 | r:  2490.000000 | e:   0.100000 | Q: 293.331390 | won: True
+Blue team starts
+GAME IS OVER
+#  361 | steps: 87371 | steps_t: 61817 | t: 5422.422608 | r:  2320.000000 | e:   0.100000 | Q: 248.533508 | won: True
+Red team starts
+GAME IS OVER
+#  362 | steps: 87672 | steps_t: 62077 | t: 5445.510001 | r:  2750.000000 | e:   0.100000 | Q: 301.155396 | won: True
+Blue team starts
+GAME IS OVER
+#  363 | steps: 87973 | steps_t: 62323 | t: 5465.569381 | r:  2060.000000 | e:   0.100000 | Q: 359.578064 | won: True
+Red team starts
+GAME IS OVER
+#  364 | steps: 88191 | steps_t: 62486 | t: 5480.240863 | r: -1380.000000 | e:   0.100000 | Q: 327.614380 | won: False
+Red team starts
+GAME IS OVER
+#  365 | steps: 88411 | steps_t: 62651 | t: 5497.150003 | r: -1430.000000 | e:   0.100000 | Q: 234.060471 | won: False
+Red team starts
+GAME IS OVER
+#  366 | steps: 88712 | steps_t: 62907 | t: 5521.810542 | r:  2680.000000 | e:   0.100000 | Q: 490.914520 | won: True
+Red team starts
+GAME IS OVER
+#  367 | steps: 88928 | steps_t: 63067 | t: 5535.851076 | r: -1170.000000 | e:   0.100000 | Q: 246.550919 | won: False
+Red team starts
+GAME IS OVER
+#  368 | steps: 89145 | steps_t: 63233 | t: 5548.194473 | r: -1120.000000 | e:   0.100000 | Q: 305.870636 | won: False
+Red team starts
+GAME IS OVER
+#  369 | steps: 89446 | steps_t: 63478 | t: 5568.420504 | r:  2840.000000 | e:   0.100000 | Q: 424.461884 | won: True
+Blue team starts
+GAME IS OVER
+#  370 | steps: 89614 | steps_t: 63604 | t: 5577.751579 | r: -4990.000000 | e:   0.100000 | Q: 208.984268 | won: False
+Red team starts
+GAME IS OVER
+#  371 | steps: 89915 | steps_t: 63855 | t: 5599.540397 | r:  2500.000000 | e:   0.100000 | Q: 252.273239 | won: True
+Blue team starts
+Model saved
+GAME IS OVER
+#  372 | steps: 90131 | steps_t: 64017 | t: 5614.368429 | r: -1340.000000 | e:   0.100000 | Q: 238.833588 | won: False
+Red team starts
+GAME IS OVER
+#  373 | steps: 90432 | steps_t: 64276 | t: 5636.838191 | r:  3320.000000 | e:   0.100000 | Q: 602.987549 | won: True
+Red team starts
+GAME IS OVER
+#  374 | steps: 90650 | steps_t: 64440 | t: 5652.900476 | r: -1310.000000 | e:   0.100000 | Q: 232.934341 | won: False
+Blue team starts
+GAME IS OVER
+#  375 | steps: 90870 | steps_t: 64604 | t: 5677.484856 | r: -1640.000000 | e:   0.100000 | Q: 166.524368 | won: False
+Blue team starts
+GAME IS OVER
+#  376 | steps: 91086 | steps_t: 64766 | t: 5690.531731 | r: -1210.000000 | e:   0.100000 | Q: 380.700897 | won: False
+Blue team starts
+GAME IS OVER
+#  377 | steps: 91254 | steps_t: 64893 | t: 5700.458384 | r:  -990.000000 | e:   0.100000 | Q: 277.164978 | won: False
+Red team starts
+GAME IS OVER
+#  378 | steps: 91469 | steps_t: 65058 | t: 5715.002746 | r: -1450.000000 | e:   0.100000 | Q: 237.931976 | won: False
+Red team starts
+GAME IS OVER
+#  379 | steps: 91770 | steps_t: 65314 | t: 5741.673471 | r:  2890.000000 | e:   0.100000 | Q: 490.566498 | won: True
+Red team starts
+GAME IS OVER
+#  380 | steps: 91990 | steps_t: 65479 | t: 5756.627610 | r: -1200.000000 | e:   0.100000 | Q: 340.578918 | won: False
+Blue team starts
+GAME IS OVER
+#  381 | steps: 92291 | steps_t: 65729 | t: 5784.361909 | r:  1670.000000 | e:   0.100000 | Q: 391.880127 | won: True
+Red team starts
+GAME IS OVER
+#  382 | steps: 92506 | steps_t: 65893 | t: 5801.310884 | r: -1230.000000 | e:   0.100000 | Q: 241.809952 | won: False
+Blue team starts
+GAME IS OVER
+#  383 | steps: 92674 | steps_t: 66016 | t: 5814.581719 | r:  -870.000000 | e:   0.100000 | Q: 316.622559 | won: False
+Red team starts
+GAME IS OVER
+#  384 | steps: 92975 | steps_t: 66261 | t: 5838.027905 | r:  2170.000000 | e:   0.100000 | Q: 379.153778 | won: True
+Blue team starts
+GAME IS OVER
+#  385 | steps: 93276 | steps_t: 66507 | t: 5860.419351 | r:  2020.000000 | e:   0.100000 | Q: 538.467224 | won: True
+Blue team starts
+GAME IS OVER
+#  386 | steps: 93577 | steps_t: 66752 | t: 5882.108561 | r:  2320.000000 | e:   0.100000 | Q: 662.075928 | won: True
+Red team starts
+GAME IS OVER
+#  387 | steps: 93748 | steps_t: 66881 | t: 5894.541793 | r:  -930.000000 | e:   0.100000 | Q: 212.660080 | won: False
+Red team starts
+GAME IS OVER
+#  388 | steps: 93968 | steps_t: 67046 | t: 5911.179446 | r: -1580.000000 | e:   0.100000 | Q: 313.068481 | won: False
+Blue team starts
+GAME IS OVER
+#  389 | steps: 94269 | steps_t: 67305 | t: 5937.764496 | r:  2230.000000 | e:   0.100000 | Q: 560.146179 | won: True
+Blue team starts
+GAME IS OVER
+#  390 | steps: 94570 | steps_t: 67555 | t: 5966.949806 | r:  1440.000000 | e:   0.100000 | Q: 459.487091 | won: True
+Blue team starts
+GAME IS OVER
+#  391 | steps: 94871 | steps_t: 67811 | t: 5989.581642 | r:  1920.000000 | e:   0.100000 | Q: 311.891327 | won: True
+Blue team starts
+GAME IS OVER
+#  392 | steps: 95089 | steps_t: 67973 | t: 6004.074999 | r: -1500.000000 | e:   0.100000 | Q: 218.683594 | won: False
+Blue team starts
+GAME IS OVER
+#  393 | steps: 95390 | steps_t: 68229 | t: 6026.630993 | r: -1030.000000 | e:   0.100000 | Q: 307.186432 | won: True
+Blue team starts
+GAME IS OVER
+#  394 | steps: 95560 | steps_t: 68357 | t: 6036.698518 | r:  -890.000000 | e:   0.100000 | Q: 318.059601 | won: False
+Red team starts
+GAME IS OVER
+#  395 | steps: 95861 | steps_t: 68613 | t: 6060.467266 | r:   520.000000 | e:   0.100000 | Q: 612.555542 | won: True
+Blue team starts
+GAME IS OVER
+#  396 | steps: 96122 | steps_t: 68820 | t: 6080.378368 | r:  -980.000000 | e:   0.100000 | Q: 297.354431 | won: False
+Red team starts
+GAME IS OVER
+#  397 | steps: 96339 | steps_t: 68986 | t: 6095.752003 | r: -1240.000000 | e:   0.100000 | Q: 253.691025 | won: False
+Red team starts
+GAME IS OVER
+#  398 | steps: 96511 | steps_t: 69113 | t: 6109.654877 | r: -1180.000000 | e:   0.100000 | Q: 256.958191 | won: False
+Blue team starts
+GAME IS OVER
+#  399 | steps: 96731 | steps_t: 69278 | t: 6123.820576 | r: -1360.000000 | e:   0.100000 | Q: 273.149872 | won: False
+Blue team starts
+GAME IS OVER
+#  400 | steps: 97032 | steps_t: 69525 | t: 6155.750535 | r:  2640.000000 | e:   0.100000 | Q: 413.460358 | won: True
+Blue team starts
+GAME IS OVER
+#  401 | steps: 97333 | steps_t: 69771 | t: 6179.260582 | r:  1390.000000 | e:   0.100000 | Q: 404.458588 | won: True
+Blue team starts
+GAME IS OVER
+#  402 | steps: 97549 | steps_t: 69931 | t: 6192.789865 | r: -1530.000000 | e:   0.100000 | Q: 202.920242 | won: False
+Blue team starts
+GAME IS OVER
+#  403 | steps: 97850 | steps_t: 70181 | t: 6216.466556 | r:  2710.000000 | e:   0.100000 | Q: 241.733810 | won: True
+Red team starts
+GAME IS OVER
+#  404 | steps: 98068 | steps_t: 70345 | t: 6231.700982 | r: -1460.000000 | e:   0.100000 | Q: 198.696472 | won: False
+Blue team starts
+GAME IS OVER
+#  405 | steps: 98369 | steps_t: 70605 | t: 6257.801121 | r:  2690.000000 | e:   0.100000 | Q: 471.808960 | won: True
+Blue team starts
+GAME IS OVER
+#  406 | steps: 98589 | steps_t: 70771 | t: 6272.950169 | r: -1430.000000 | e:   0.100000 | Q: 320.649994 | won: False
+Red team starts
+GAME IS OVER
+#  407 | steps: 98806 | steps_t: 70937 | t: 6286.842268 | r: -1210.000000 | e:   0.100000 | Q: 227.995209 | won: False
+Blue team starts
+GAME IS OVER
+#  408 | steps: 99085 | steps_t: 71174 | t: 6305.431735 | r:  -510.000000 | e:   0.100000 | Q: 500.876556 | won: False
+Red team starts
+GAME IS OVER
+#  409 | steps: 99386 | steps_t: 71420 | t: 6326.105802 | r:  2480.000000 | e:   0.100000 | Q: 336.885315 | won: True
+Blue team starts
+GAME IS OVER
+#  410 | steps: 99554 | steps_t: 71547 | t: 6338.331277 | r:  -940.000000 | e:   0.100000 | Q: 234.265289 | won: False
+Red team starts
+GAME IS OVER
+#  411 | steps: 99807 | steps_t: 71759 | t: 6360.056299 | r:  -600.000000 | e:   0.100000 | Q: 413.710022 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  412 | steps: 100108 | steps_t: 72019 | t: 6393.571584 | r:  2740.000000 | e:   0.100000 | Q: 353.844574 | won: True
+Red team starts
+GAME IS OVER
+#  413 | steps: 100326 | steps_t: 72182 | t: 6414.118083 | r: -1480.000000 | e:   0.100000 | Q: 214.834732 | won: False
+Red team starts
+GAME IS OVER
+#  414 | steps: 100543 | steps_t: 72349 | t: 6427.238819 | r: -1260.000000 | e:   0.100000 | Q: 190.657562 | won: False
+Blue team starts
+GAME IS OVER
+#  415 | steps: 100759 | steps_t: 72509 | t: 6440.272401 | r: -1730.000000 | e:   0.100000 | Q: 181.918900 | won: False
+Red team starts
+GAME IS OVER
+#  416 | steps: 101060 | steps_t: 72760 | t: 6461.659870 | r:  1810.000000 | e:   0.100000 | Q: 309.207397 | won: True
+Blue team starts
+GAME IS OVER
+#  417 | steps: 101324 | steps_t: 72969 | t: 6480.080531 | r: -1190.000000 | e:   0.100000 | Q: 241.803406 | won: False
+Blue team starts
+GAME IS OVER
+#  418 | steps: 101544 | steps_t: 73133 | t: 6494.710237 | r: -1200.000000 | e:   0.100000 | Q: 197.120178 | won: False
+Red team starts
+GAME IS OVER
+#  419 | steps: 101764 | steps_t: 73297 | t: 6508.963730 | r: -1420.000000 | e:   0.100000 | Q: 285.101318 | won: False
+Blue team starts
+GAME IS OVER
+#  420 | steps: 101936 | steps_t: 73428 | t: 6520.608694 | r: -1490.000000 | e:   0.100000 | Q: 301.376373 | won: False
+Red team starts
+GAME IS OVER
+#  421 | steps: 102152 | steps_t: 73590 | t: 6535.478268 | r: -1340.000000 | e:   0.100000 | Q: 149.675049 | won: False
+Red team starts
+GAME IS OVER
+#  422 | steps: 102453 | steps_t: 73835 | t: 6559.131869 | r:  2980.000000 | e:   0.100000 | Q: 298.040955 | won: True
+Blue team starts
+GAME IS OVER
+#  423 | steps: 102672 | steps_t: 74004 | t: 6573.506073 | r: -1220.000000 | e:   0.100000 | Q: 262.928741 | won: False
+Blue team starts
+GAME IS OVER
+#  424 | steps: 102888 | steps_t: 74170 | t: 6588.963567 | r: -1290.000000 | e:   0.100000 | Q: 257.574677 | won: False
+Blue team starts
+GAME IS OVER
+#  425 | steps: 103108 | steps_t: 74336 | t: 6602.618618 | r: -1210.000000 | e:   0.100000 | Q: 318.299988 | won: False
+Blue team starts
+GAME IS OVER
+#  426 | steps: 103409 | steps_t: 74595 | t: 6636.485127 | r:  2490.000000 | e:   0.100000 | Q: 304.503662 | won: True
+Red team starts
+GAME IS OVER
+#  427 | steps: 103710 | steps_t: 74851 | t: 6661.611162 | r:  1960.000000 | e:   0.100000 | Q: 613.416077 | won: True
+Blue team starts
+GAME IS OVER
+#  428 | steps: 103928 | steps_t: 75015 | t: 6679.722360 | r:  -820.000000 | e:   0.100000 | Q: 216.365570 | won: False
+Blue team starts
+GAME IS OVER
+#  429 | steps: 104229 | steps_t: 75271 | t: 6713.436588 | r:  1720.000000 | e:   0.100000 | Q: 343.806519 | won: True
+Blue team starts
+GAME IS OVER
+#  430 | steps: 104486 | steps_t: 75483 | t: 6733.680249 | r: -1320.000000 | e:   0.100000 | Q: 219.331390 | won: False
+Red team starts
+GAME IS OVER
+#  431 | steps: 104706 | steps_t: 75647 | t: 6748.364216 | r: -1160.000000 | e:   0.100000 | Q: 175.642654 | won: False
+Blue team starts
+GAME IS OVER
+#  432 | steps: 104926 | steps_t: 75811 | t: 6763.934615 | r: -1250.000000 | e:   0.100000 | Q: 180.512314 | won: False
+Blue team starts
+GAME IS OVER
+#  433 | steps: 105227 | steps_t: 76071 | t: 6790.082406 | r:  2660.000000 | e:   0.100000 | Q: 302.921265 | won: True
+Red team starts
+GAME IS OVER
+#  434 | steps: 105397 | steps_t: 76200 | t: 6802.325550 | r: -1160.000000 | e:   0.100000 | Q: 209.308914 | won: False
+Red team starts
+GAME IS OVER
+#  435 | steps: 105614 | steps_t: 76366 | t: 6817.872984 | r: -1160.000000 | e:   0.100000 | Q: 304.242859 | won: False
+Red team starts
+GAME IS OVER
+#  436 | steps: 105782 | steps_t: 76492 | t: 6830.297544 | r: -1130.000000 | e:   0.100000 | Q: 205.379547 | won: False
+Red team starts
+GAME IS OVER
+#  437 | steps: 105999 | steps_t: 76658 | t: 6848.027706 | r: -1260.000000 | e:   0.100000 | Q: 254.466782 | won: False
+Red team starts
+GAME IS OVER
+#  438 | steps: 106214 | steps_t: 76823 | t: 6867.442784 | r: -1320.000000 | e:   0.100000 | Q: 243.829041 | won: False
+Blue team starts
+GAME IS OVER
+#  439 | steps: 106515 | steps_t: 77070 | t: 6892.538052 | r:  2440.000000 | e:   0.100000 | Q: 228.459122 | won: True
+Blue team starts
+GAME IS OVER
+#  440 | steps: 106734 | steps_t: 77238 | t: 6907.874924 | r: -1450.000000 | e:   0.100000 | Q: 269.849396 | won: False
+Blue team starts
+GAME IS OVER
+#  441 | steps: 106953 | steps_t: 77407 | t: 6923.691610 | r:  -630.000000 | e:   0.100000 | Q: 288.218597 | won: False
+Blue team starts
+GAME IS OVER
+#  442 | steps: 107254 | steps_t: 77658 | t: 6949.396035 | r:  1680.000000 | e:   0.100000 | Q: 231.992630 | won: True
+Blue team starts
+GAME IS OVER
+#  443 | steps: 107422 | steps_t: 77784 | t: 6960.727280 | r:  -870.000000 | e:   0.100000 | Q: 254.405258 | won: False
+Red team starts
+GAME IS OVER
+#  444 | steps: 107723 | steps_t: 78029 | t: 6985.361607 | r:  1940.000000 | e:   0.100000 | Q: 488.937927 | won: True
+Blue team starts
+GAME IS OVER
+#  445 | steps: 107965 | steps_t: 78217 | t: 7005.163144 | r: -1300.000000 | e:   0.100000 | Q: 350.204071 | won: False
+Blue team starts
+GAME IS OVER
+#  446 | steps: 108266 | steps_t: 78464 | t: 7033.681094 | r:  1340.000000 | e:   0.100000 | Q: 480.117279 | won: True
+Blue team starts
+GAME IS OVER
+#  447 | steps: 108434 | steps_t: 78590 | t: 7045.442619 | r: -1000.000000 | e:   0.100000 | Q: 312.836212 | won: False
+Blue team starts
+GAME IS OVER
+#  448 | steps: 108735 | steps_t: 78840 | t: 7068.080804 | r:  2780.000000 | e:   0.100000 | Q: 400.517578 | won: True
+Blue team starts
+GAME IS OVER
+#  449 | steps: 108903 | steps_t: 78967 | t: 7078.531201 | r: -1090.000000 | e:   0.100000 | Q: 248.785263 | won: False
+Red team starts
+GAME IS OVER
+#  450 | steps: 109071 | steps_t: 79093 | t: 7089.794197 | r:  -820.000000 | e:   0.100000 | Q: 227.547455 | won: False
+Blue team starts
+GAME IS OVER
+#  451 | steps: 109290 | steps_t: 79262 | t: 7106.251232 | r:  -840.000000 | e:   0.100000 | Q: 385.147675 | won: False
+Blue team starts
+GAME IS OVER
+#  452 | steps: 109591 | steps_t: 79508 | t: 7134.664442 | r:  1140.000000 | e:   0.100000 | Q: 416.207367 | won: True
+Red team starts
+GAME IS OVER
+#  453 | steps: 109811 | steps_t: 79673 | t: 7154.236833 | r: -1600.000000 | e:   0.100000 | Q: 190.732391 | won: False
+Blue team starts
+GAME IS OVER
+#  454 | steps: 109979 | steps_t: 79799 | t: 7170.797343 | r: -1110.000000 | e:   0.100000 | Q: 186.310486 | won: False
+Red team starts
+GAME IS OVER
+#  455 | steps: 110147 | steps_t: 79926 | t: 7198.337564 | r: -1120.000000 | e:   0.100000 | Q: 284.824280 | won: False
+Red team starts
+GAME IS OVER
+#  456 | steps: 110448 | steps_t: 80182 | t: 7221.985734 | r:  3000.000000 | e:   0.100000 | Q: 368.153809 | won: True
+Blue team starts
+GAME IS OVER
+#  457 | steps: 110667 | steps_t: 80346 | t: 7235.596130 | r: -1230.000000 | e:   0.100000 | Q: 214.873459 | won: False
+Blue team starts
+GAME IS OVER
+#  458 | steps: 110968 | steps_t: 80606 | t: 7258.529487 | r:  2940.000000 | e:   0.100000 | Q: 558.204590 | won: True
+Red team starts
+GAME IS OVER
+#  459 | steps: 111184 | steps_t: 80767 | t: 7272.418537 | r: -1360.000000 | e:   0.100000 | Q: 313.626129 | won: False
+Red team starts
+GAME IS OVER
+#  460 | steps: 111401 | steps_t: 80933 | t: 7287.254283 | r: -1240.000000 | e:   0.100000 | Q: 246.689758 | won: False
+Red team starts
+GAME IS OVER
+#  461 | steps: 111569 | steps_t: 81059 | t: 7298.526030 | r: -1000.000000 | e:   0.100000 | Q: 319.981049 | won: False
+Blue team starts
+GAME IS OVER
+#  462 | steps: 111786 | steps_t: 81226 | t: 7317.101270 | r: -1540.000000 | e:   0.100000 | Q: 340.362030 | won: False
+Blue team starts
+GAME IS OVER
+#  463 | steps: 111954 | steps_t: 81352 | t: 7332.613532 | r: -1020.000000 | e:   0.100000 | Q: 225.846481 | won: False
+Red team starts
+GAME IS OVER
+#  464 | steps: 112170 | steps_t: 81513 | t: 7347.590774 | r: -1340.000000 | e:   0.100000 | Q: 241.988647 | won: False
+Red team starts
+GAME IS OVER
+#  465 | steps: 112340 | steps_t: 81642 | t: 7357.783607 | r: -1240.000000 | e:   0.100000 | Q: 226.338455 | won: False
+Blue team starts
+GAME IS OVER
+#  466 | steps: 112559 | steps_t: 81811 | t: 7371.440421 | r: -1080.000000 | e:   0.100000 | Q: 164.976471 | won: False
+Red team starts
+GAME IS OVER
+#  467 | steps: 112776 | steps_t: 81978 | t: 7384.752582 | r: -1260.000000 | e:   0.100000 | Q: 333.944946 | won: False
+Blue team starts
+GAME IS OVER
+#  468 | steps: 112946 | steps_t: 82106 | t: 7394.839297 | r: -1300.000000 | e:   0.100000 | Q: 202.334900 | won: False
+Red team starts
+GAME IS OVER
+#  469 | steps: 113114 | steps_t: 82232 | t: 7405.716799 | r:  -820.000000 | e:   0.100000 | Q: 321.544800 | won: False
+Red team starts
+GAME IS OVER
+#  470 | steps: 113286 | steps_t: 82362 | t: 7416.292376 | r:  -920.000000 | e:   0.100000 | Q: 247.041779 | won: False
+Red team starts
+GAME IS OVER
+#  471 | steps: 113554 | steps_t: 82574 | t: 7435.154418 | r:  -930.000000 | e:   0.100000 | Q: 269.298859 | won: False
+Red team starts
+GAME IS OVER
+#  472 | steps: 113806 | steps_t: 82781 | t: 7457.213044 | r: -6460.000000 | e:   0.100000 | Q: 290.025665 | won: False
+Red team starts
+GAME IS OVER
+#  473 | steps: 114025 | steps_t: 82950 | t: 7476.080627 | r:  -940.000000 | e:   0.100000 | Q: 474.668030 | won: False
+Blue team starts
+GAME IS OVER
+#  474 | steps: 114241 | steps_t: 83110 | t: 7488.804493 | r: -1020.000000 | e:   0.100000 | Q: 195.284256 | won: False
+Blue team starts
+GAME IS OVER
+#  475 | steps: 114542 | steps_t: 83357 | t: 7509.121036 | r:  1830.000000 | e:   0.100000 | Q: 451.599976 | won: True
+Red team starts
+GAME IS OVER
+#  476 | steps: 114822 | steps_t: 83596 | t: 7529.595686 | r:  -550.000000 | e:   0.100000 | Q: 725.475830 | won: False
+Red team starts
+GAME IS OVER
+#  477 | steps: 115097 | steps_t: 83820 | t: 7547.683032 | r:  -210.000000 | e:   0.100000 | Q: 452.535370 | won: False
+Red team starts
+GAME IS OVER
+#  478 | steps: 115362 | steps_t: 84029 | t: 7566.538347 | r: -1020.000000 | e:   0.100000 | Q: 268.361877 | won: False
+Blue team starts
+GAME IS OVER
+#  479 | steps: 115534 | steps_t: 84160 | t: 7578.050400 | r:  -890.000000 | e:   0.100000 | Q: 385.896912 | won: False
+Red team starts
+GAME IS OVER
+#  480 | steps: 115750 | steps_t: 84320 | t: 7594.848617 | r: -1680.000000 | e:   0.100000 | Q: 193.856583 | won: False
+Red team starts
+GAME IS OVER
+#  481 | steps: 115965 | steps_t: 84485 | t: 7611.946445 | r: -1240.000000 | e:   0.100000 | Q: 252.470154 | won: False
+Red team starts
+GAME IS OVER
+#  482 | steps: 116266 | steps_t: 84744 | t: 7632.507986 | r:  2860.000000 | e:   0.100000 | Q: 504.559021 | won: True
+Red team starts
+GAME IS OVER
+#  483 | steps: 116567 | steps_t: 84994 | t: 7652.159918 | r: -1230.000000 | e:   0.100000 | Q: 490.462402 | won: True
+Red team starts
+GAME IS OVER
+#  484 | steps: 116785 | steps_t: 85157 | t: 7665.397132 | r: -1120.000000 | e:   0.100000 | Q: 313.743774 | won: False
+Blue team starts
+GAME IS OVER
+#  485 | steps: 117001 | steps_t: 85317 | t: 7679.297682 | r: -1350.000000 | e:   0.100000 | Q: 177.901733 | won: False
+Blue team starts
+GAME IS OVER
+#  486 | steps: 117302 | steps_t: 85577 | t: 7702.467979 | r:  2240.000000 | e:   0.100000 | Q: 315.876770 | won: True
+Blue team starts
+GAME IS OVER
+#  487 | steps: 117603 | steps_t: 85833 | t: 7746.125137 | r:  2570.000000 | e:   0.100000 | Q: 409.234802 | won: True
+Blue team starts
+GAME IS OVER
+#  488 | steps: 117904 | steps_t: 86093 | t: 7775.126830 | r:  2450.000000 | e:   0.100000 | Q: 460.150513 | won: True
+Blue team starts
+GAME IS OVER
+#  489 | steps: 118205 | steps_t: 86353 | t: 7798.791497 | r:  2990.000000 | e:   0.100000 | Q: 489.324036 | won: True
+Blue team starts
+GAME IS OVER
+#  490 | steps: 118506 | steps_t: 86612 | t: 7823.435714 | r:  1370.000000 | e:   0.100000 | Q: 418.644379 | won: True
+Blue team starts
+GAME IS OVER
+#  491 | steps: 118807 | steps_t: 86859 | t: 7849.313323 | r:  1760.000000 | e:   0.100000 | Q: 305.777100 | won: True
+Blue team starts
+GAME IS OVER
+#  492 | steps: 119108 | steps_t: 87106 | t: 7873.683983 | r:  1730.000000 | e:   0.100000 | Q: 329.018402 | won: True
+Red team starts
+GAME IS OVER
+#  493 | steps: 119328 | steps_t: 87270 | t: 7890.071143 | r: -1040.000000 | e:   0.100000 | Q: 200.798019 | won: False
+Blue team starts
+GAME IS OVER
+#  494 | steps: 119629 | steps_t: 87517 | t: 7918.797897 | r:   420.000000 | e:   0.100000 | Q: 277.340302 | won: False
+Red team starts
+GAME IS OVER
+#  495 | steps: 119844 | steps_t: 87682 | t: 7936.238817 | r: -1520.000000 | e:   0.100000 | Q: 204.441177 | won: False
+Red team starts
+Model saved
+GAME IS OVER
+#  496 | steps: 120056 | steps_t: 87840 | t: 7950.839477 | r: -1430.000000 | e:   0.100000 | Q: 178.869919 | won: False
+Red team starts
+GAME IS OVER
+#  497 | steps: 120224 | steps_t: 87966 | t: 7960.827471 | r: -1300.000000 | e:   0.100000 | Q: 282.395020 | won: False
+Red team starts
+GAME IS OVER
+#  498 | steps: 120392 | steps_t: 88092 | t: 7970.664042 | r: -1540.000000 | e:   0.100000 | Q: 315.856873 | won: False
+Red team starts
+GAME IS OVER
+#  499 | steps: 120693 | steps_t: 88337 | t: 7989.759764 | r:  3560.000000 | e:   0.100000 | Q: 484.020142 | won: True
+Blue team starts
+GAME IS OVER
+#  500 | steps: 120909 | steps_t: 88497 | t: 8004.233263 | r: -1460.000000 | e:   0.100000 | Q: 176.619965 | won: False
+Blue team starts
+GAME IS OVER
+#  501 | steps: 121210 | steps_t: 88743 | t: 8026.910403 | r:  3000.000000 | e:   0.100000 | Q: 276.650208 | won: True
+Red team starts
+GAME IS OVER
+#  502 | steps: 121511 | steps_t: 88988 | t: 8050.923643 | r:  2300.000000 | e:   0.100000 | Q: 320.347992 | won: True
+Red team starts
+GAME IS OVER
+#  503 | steps: 121789 | steps_t: 89221 | t: 8072.109938 | r:  -530.000000 | e:   0.100000 | Q: 394.621887 | won: False
+Blue team starts
+GAME IS OVER
+#  504 | steps: 121959 | steps_t: 89346 | t: 8081.996627 | r: -1050.000000 | e:   0.100000 | Q: 343.622101 | won: False
+Red team starts
+GAME IS OVER
+#  505 | steps: 122260 | steps_t: 89605 | t: 8100.250255 | r:  3210.000000 | e:   0.100000 | Q: 598.708984 | won: True
+Red team starts
+GAME IS OVER
+#  506 | steps: 122479 | steps_t: 89773 | t: 8114.110782 | r: -1680.000000 | e:   0.100000 | Q: 310.163574 | won: False
+Blue team starts
+GAME IS OVER
+#  507 | steps: 122780 | steps_t: 90020 | t: 8136.114194 | r:  2240.000000 | e:   0.100000 | Q: 342.975616 | won: True
+Red team starts
+GAME IS OVER
+#  508 | steps: 123081 | steps_t: 90276 | t: 8158.093885 | r:  2790.000000 | e:   0.100000 | Q: 522.342163 | won: True
+Red team starts
+GAME IS OVER
+#  509 | steps: 123297 | steps_t: 90436 | t: 8173.870913 | r: -1240.000000 | e:   0.100000 | Q: 177.519241 | won: False
+Blue team starts
+GAME IS OVER
+#  510 | steps: 123598 | steps_t: 90687 | t: 8198.475130 | r:  2500.000000 | e:   0.100000 | Q: 439.850342 | won: True
+Blue team starts
+GAME IS OVER
+#  511 | steps: 123899 | steps_t: 90946 | t: 8218.498174 | r:  1730.000000 | e:   0.100000 | Q: 416.630524 | won: True
+Red team starts
+GAME IS OVER
+#  512 | steps: 124166 | steps_t: 91163 | t: 8235.841412 | r: -1040.000000 | e:   0.100000 | Q: 322.043365 | won: False
+Blue team starts
+GAME IS OVER
+#  513 | steps: 124467 | steps_t: 91423 | t: 8261.078436 | r:  3300.000000 | e:   0.100000 | Q: 633.992371 | won: True
+Blue team starts
+GAME IS OVER
+#  514 | steps: 124686 | steps_t: 91592 | t: 8277.233983 | r: -1210.000000 | e:   0.100000 | Q: 156.376266 | won: False
+Blue team starts
+GAME IS OVER
+#  515 | steps: 124901 | steps_t: 91756 | t: 8292.667793 | r:  -980.000000 | e:   0.100000 | Q: 285.337616 | won: False
+Red team starts
+GAME IS OVER
+#  516 | steps: 125073 | steps_t: 91883 | t: 8305.331719 | r: -1160.000000 | e:   0.100000 | Q: 176.287704 | won: False
+Red team starts
+GAME IS OVER
+#  517 | steps: 125293 | steps_t: 92049 | t: 8340.604293 | r: -1000.000000 | e:   0.100000 | Q: 261.293976 | won: False
+Red team starts
+GAME IS OVER
+#  518 | steps: 125511 | steps_t: 92211 | t: 8361.149613 | r: -1430.000000 | e:   0.100000 | Q: 215.516022 | won: False
+Red team starts
+GAME IS OVER
+#  519 | steps: 125812 | steps_t: 92461 | t: 8385.682561 | r:  1910.000000 | e:   0.100000 | Q: 325.344269 | won: True
+Red team starts
+GAME IS OVER
+#  520 | steps: 126089 | steps_t: 92693 | t: 8406.657649 | r:  -520.000000 | e:   0.100000 | Q: 659.673279 | won: False
+Red team starts
+GAME IS OVER
+#  521 | steps: 126390 | steps_t: 92939 | t: 8429.065508 | r:  2700.000000 | e:   0.100000 | Q: 304.937866 | won: True
+Blue team starts
+GAME IS OVER
+#  522 | steps: 126562 | steps_t: 93066 | t: 8443.693805 | r: -1310.000000 | e:   0.100000 | Q: 259.353760 | won: False
+Blue team starts
+GAME IS OVER
+#  523 | steps: 126828 | steps_t: 93287 | t: 8472.764296 | r:  -630.000000 | e:   0.100000 | Q: 649.616821 | won: False
+Blue team starts
+GAME IS OVER
+#  524 | steps: 127046 | steps_t: 93450 | t: 8490.396899 | r: -1310.000000 | e:   0.100000 | Q: 237.842804 | won: False
+Blue team starts
+GAME IS OVER
+#  525 | steps: 127314 | steps_t: 93677 | t: 8518.171423 | r:  -670.000000 | e:   0.100000 | Q: 300.037140 | won: False
+Blue team starts
+GAME IS OVER
+#  526 | steps: 127615 | steps_t: 93933 | t: 8565.789591 | r:  2490.000000 | e:   0.100000 | Q: 577.794495 | won: True
+Red team starts
+GAME IS OVER
+#  527 | steps: 127832 | steps_t: 94099 | t: 8599.845143 | r: -1450.000000 | e:   0.100000 | Q: 233.258011 | won: False
+Blue team starts
+GAME IS OVER
+#  528 | steps: 128098 | steps_t: 94310 | t: 8643.879959 | r:  -850.000000 | e:   0.100000 | Q: 267.277466 | won: False
+Blue team starts
+GAME IS OVER
+#  529 | steps: 128314 | steps_t: 94471 | t: 8676.583087 | r: -1390.000000 | e:   0.100000 | Q: 238.888565 | won: False
+Red team starts
+GAME IS OVER
+#  530 | steps: 128582 | steps_t: 94684 | t: 8717.223890 | r: -1120.000000 | e:   0.100000 | Q: 237.070541 | won: False
+Blue team starts
+GAME IS OVER
+#  531 | steps: 128798 | steps_t: 94845 | t: 8748.778997 | r: -1160.000000 | e:   0.100000 | Q: 297.802490 | won: False
+Blue team starts
+GAME IS OVER
+#  532 | steps: 129017 | steps_t: 95013 | t: 8781.112223 | r: -1440.000000 | e:   0.100000 | Q: 203.608902 | won: False
+Blue team starts
+GAME IS OVER
+#  533 | steps: 129318 | steps_t: 95258 | t: 8831.285710 | r:  2360.000000 | e:   0.100000 | Q: 275.985504 | won: True
+Blue team starts
+GAME IS OVER
+#  534 | steps: 129538 | steps_t: 95428 | t: 8867.570669 | r: -1150.000000 | e:   0.100000 | Q: 273.325531 | won: False
+Red team starts
+GAME IS OVER
+#  535 | steps: 129839 | steps_t: 95674 | t: 8916.654029 | r:  2980.000000 | e:   0.100000 | Q: 313.078003 | won: True
+Red team starts
+Model saved
+GAME IS OVER
+#  536 | steps: 130140 | steps_t: 95924 | t: 8965.658871 | r:  1860.000000 | e:   0.100000 | Q: 268.588226 | won: True
+Blue team starts
+GAME IS OVER
+#  537 | steps: 130441 | steps_t: 96180 | t: 9018.535843 | r:  2770.000000 | e:   0.100000 | Q: 537.983643 | won: True
+Red team starts
+GAME IS OVER
+#  538 | steps: 130661 | steps_t: 96344 | t: 9049.748116 | r: -1000.000000 | e:   0.100000 | Q: 231.350647 | won: False
+Blue team starts
+GAME IS OVER
+#  539 | steps: 130877 | steps_t: 96504 | t: 9081.301711 | r: -1270.000000 | e:   0.100000 | Q: 202.735596 | won: False
+Red team starts
+GAME IS OVER
+#  540 | steps: 131178 | steps_t: 96760 | t: 9126.861307 | r:  3070.000000 | e:   0.100000 | Q: 490.298767 | won: True
+Red team starts
+GAME IS OVER
+#  541 | steps: 131479 | steps_t: 97016 | t: 9175.038777 | r:  3100.000000 | e:   0.100000 | Q: 504.769257 | won: True
+Blue team starts
+GAME IS OVER
+#  542 | steps: 131780 | steps_t: 97261 | t: 9222.433929 | r:  2980.000000 | e:   0.100000 | Q: 245.296143 | won: True
+Red team starts
+GAME IS OVER
+#  543 | steps: 132081 | steps_t: 97512 | t: 9272.273341 | r:  2520.000000 | e:   0.100000 | Q: 390.952667 | won: True
+Blue team starts
+GAME IS OVER
+#  544 | steps: 132348 | steps_t: 97737 | t: 9319.002283 | r:  -720.000000 | e:   0.100000 | Q: 381.405914 | won: False
+Red team starts
+GAME IS OVER
+#  545 | steps: 132565 | steps_t: 97903 | t: 9359.151309 | r: -1600.000000 | e:   0.100000 | Q: 255.217850 | won: False
+Blue team starts
+GAME IS OVER
+#  546 | steps: 132781 | steps_t: 98063 | t: 9395.116283 | r: -1290.000000 | e:   0.100000 | Q: 156.381271 | won: False
+Red team starts
+GAME IS OVER
+#  547 | steps: 133001 | steps_t: 98228 | t: 9427.121143 | r: -1800.000000 | e:   0.100000 | Q: 239.322922 | won: False
+Blue team starts
+GAME IS OVER
+#  548 | steps: 133302 | steps_t: 98478 | t: 9573.000846 | r:  1770.000000 | e:   0.100000 | Q: 392.890320 | won: True
+Red team starts
+GAME IS OVER
+#  549 | steps: 133520 | steps_t: 98642 | t: 9595.758410 | r:  -820.000000 | e:   0.100000 | Q: 292.703613 | won: False
+Blue team starts
+GAME IS OVER
+#  550 | steps: 133698 | steps_t: 98778 | t: 9607.951777 | r: -1030.000000 | e:   0.100000 | Q: 188.223907 | won: False
+Red team starts
+GAME IS OVER
+#  551 | steps: 133999 | steps_t: 99038 | t: 9633.087320 | r:  2930.000000 | e:   0.100000 | Q: 539.345825 | won: True
+Red team starts
+GAME IS OVER
+#  552 | steps: 134259 | steps_t: 99248 | t: 9653.682785 | r: -1140.000000 | e:   0.100000 | Q: 331.815826 | won: False
+Blue team starts
+GAME IS OVER
+#  553 | steps: 134479 | steps_t: 99414 | t: 9667.958210 | r: -1230.000000 | e:   0.100000 | Q: 153.125427 | won: False
+Red team starts
+GAME IS OVER
+#  554 | steps: 134695 | steps_t: 99575 | t: 9682.512330 | r: -1590.000000 | e:   0.100000 | Q: 220.593079 | won: False
+Blue team starts
+GAME IS OVER
+#  555 | steps: 134996 | steps_t: 99826 | t: 9713.523518 | r:  2120.000000 | e:   0.100000 | Q: 418.965240 | won: True
+Red team starts
+GAME IS OVER
+#  556 | steps: 135297 | steps_t: 100082 | t: 9744.056847 | r:  2380.000000 | e:   0.100000 | Q: 475.258881 | won: True
+Blue team starts
+GAME IS OVER
+#  557 | steps: 135598 | steps_t: 100332 | t: 9793.491582 | r:  3560.000000 | e:   0.100000 | Q: 486.331726 | won: True
+Blue team starts
+GAME IS OVER
+#  558 | steps: 135864 | steps_t: 100556 | t: 9836.671458 | r:  -630.000000 | e:   0.100000 | Q: 491.476379 | won: False
+Red team starts
+GAME IS OVER
+#  559 | steps: 136151 | steps_t: 100787 | t: 9882.591041 | r:  -690.000000 | e:   0.100000 | Q: 277.408264 | won: False
+Red team starts
+GAME IS OVER
+#  560 | steps: 136452 | steps_t: 101046 | t: 9931.337018 | r:  2350.000000 | e:   0.100000 | Q: 410.646057 | won: True
+Red team starts
+GAME IS OVER
+#  561 | steps: 136753 | steps_t: 101305 | t: 9982.886428 | r:  2680.000000 | e:   0.100000 | Q: 607.384827 | won: True
+Red team starts
+GAME IS OVER
+#  562 | steps: 137018 | steps_t: 101528 | t: 10026.104900 | r:  -660.000000 | e:   0.100000 | Q: 426.776459 | won: False
+Red team starts
+GAME IS OVER
+#  563 | steps: 137319 | steps_t: 101775 | t: 10072.428535 | r:  2640.000000 | e:   0.100000 | Q: 397.427673 | won: True
+Blue team starts
+GAME IS OVER
+#  564 | steps: 137535 | steps_t: 101936 | t: 10113.381570 | r: -1370.000000 | e:   0.100000 | Q: 253.993820 | won: False
+Blue team starts
+GAME IS OVER
+#  565 | steps: 137798 | steps_t: 102149 | t: 10155.090566 | r: -1060.000000 | e:   0.100000 | Q: 235.524872 | won: False
+Blue team starts
+GAME IS OVER
+#  566 | steps: 138009 | steps_t: 102310 | t: 10189.692685 | r: -1600.000000 | e:   0.100000 | Q: 273.322418 | won: False
+Red team starts
+GAME IS OVER
+#  567 | steps: 138310 | steps_t: 102569 | t: 10244.107895 | r:  3090.000000 | e:   0.100000 | Q: 549.943176 | won: True
+Red team starts
+GAME IS OVER
+#  568 | steps: 138478 | steps_t: 102695 | t: 10270.223263 | r:  -880.000000 | e:   0.100000 | Q: 365.252869 | won: False
+Blue team starts
+GAME IS OVER
+#  569 | steps: 138756 | steps_t: 102928 | t: 10318.295595 | r: -1300.000000 | e:   0.100000 | Q: 315.761902 | won: False
+Red team starts
+GAME IS OVER
+#  570 | steps: 138976 | steps_t: 103094 | t: 10352.908816 | r: -1600.000000 | e:   0.100000 | Q: 173.315674 | won: False
+Blue team starts
+GAME IS OVER
+#  571 | steps: 139277 | steps_t: 103345 | t: 10401.594780 | r:  1910.000000 | e:   0.100000 | Q: 346.734924 | won: True
+Red team starts
+GAME IS OVER
+#  572 | steps: 139578 | steps_t: 103601 | t: 10448.624274 | r:  2740.000000 | e:   0.100000 | Q: 407.318573 | won: True
+Blue team starts
+GAME IS OVER
+#  573 | steps: 139879 | steps_t: 103860 | t: 10497.092876 | r:  2880.000000 | e:   0.100000 | Q: 583.848328 | won: True
+Blue team starts
+Model saved
+GAME IS OVER
+#  574 | steps: 140095 | steps_t: 104021 | t: 10525.669690 | r: -1320.000000 | e:   0.100000 | Q: 219.281128 | won: False
+Blue team starts
+GAME IS OVER
+#  575 | steps: 140396 | steps_t: 104272 | t: 10574.630838 | r:  2410.000000 | e:   0.100000 | Q: 339.622406 | won: True
+Blue team starts
+GAME IS OVER
+#  576 | steps: 140697 | steps_t: 104522 | t: 10620.876738 | r:  2980.000000 | e:   0.100000 | Q: 370.958649 | won: True
+Red team starts
+GAME IS OVER
+#  577 | steps: 140967 | steps_t: 104742 | t: 10666.131987 | r:  -740.000000 | e:   0.100000 | Q: 251.881195 | won: False
+Red team starts
+GAME IS OVER
+#  578 | steps: 141187 | steps_t: 104908 | t: 10695.894193 | r: -1130.000000 | e:   0.100000 | Q: 382.454437 | won: False
+Blue team starts
+GAME IS OVER
+#  579 | steps: 141488 | steps_t: 105154 | t: 10742.667323 | r:  1730.000000 | e:   0.100000 | Q: 252.087311 | won: True
+Red team starts
+GAME IS OVER
+#  580 | steps: 141704 | steps_t: 105315 | t: 10771.982726 | r: -1140.000000 | e:   0.100000 | Q: 247.502930 | won: False
+Blue team starts
+GAME IS OVER
+#  581 | steps: 142005 | steps_t: 105571 | t: 10820.874822 | r:  2470.000000 | e:   0.100000 | Q: 520.413391 | won: True
+Red team starts
+GAME IS OVER
+#  582 | steps: 142221 | steps_t: 105733 | t: 10875.192549 | r: -1360.000000 | e:   0.100000 | Q: 145.167679 | won: False
+Red team starts
+GAME IS OVER
+#  583 | steps: 142390 | steps_t: 105861 | t: 10902.817410 | r: -1000.000000 | e:   0.100000 | Q: 265.602661 | won: False
+Blue team starts
+GAME IS OVER
+#  584 | steps: 142649 | steps_t: 106079 | t: 10953.634279 | r:  -450.000000 | e:   0.100000 | Q: 592.418945 | won: False
+Red team starts
+GAME IS OVER
+#  585 | steps: 142950 | steps_t: 106324 | t: 11006.918223 | r:  1610.000000 | e:   0.100000 | Q: 322.632294 | won: True
+Red team starts
+GAME IS OVER
+#  586 | steps: 143166 | steps_t: 106485 | t: 11042.333311 | r: -1300.000000 | e:   0.100000 | Q: 285.014343 | won: False
+Blue team starts
+GAME IS OVER
+#  587 | steps: 143467 | steps_t: 106730 | t: 11094.686222 | r:  2800.000000 | e:   0.100000 | Q: 368.930481 | won: True
+Red team starts
+GAME IS OVER
+#  588 | steps: 143736 | steps_t: 106944 | t: 11138.962985 | r:  -840.000000 | e:   0.100000 | Q: 276.599884 | won: False
+Red team starts
+GAME IS OVER
+#  589 | steps: 144037 | steps_t: 107190 | t: 11195.412311 | r:  1540.000000 | e:   0.100000 | Q: 262.253662 | won: True
+Red team starts
+GAME IS OVER
+#  590 | steps: 144253 | steps_t: 107351 | t: 11225.448443 | r: -1220.000000 | e:   0.100000 | Q: 284.776245 | won: False
+Blue team starts
+GAME IS OVER
+#  591 | steps: 144473 | steps_t: 107517 | t: 11260.661558 | r: -1180.000000 | e:   0.100000 | Q: 307.295532 | won: False
+Red team starts
+GAME IS OVER
+#  592 | steps: 144774 | steps_t: 107763 | t: 11318.802779 | r:  2420.000000 | e:   0.100000 | Q: 404.833344 | won: True
+Blue team starts
+GAME IS OVER
+#  593 | steps: 145043 | steps_t: 107987 | t: 11367.173547 | r:  -290.000000 | e:   0.100000 | Q: 642.404297 | won: False
+Blue team starts
+GAME IS OVER
+#  594 | steps: 145344 | steps_t: 108238 | t: 11430.648651 | r:  2750.000000 | e:   0.100000 | Q: 282.433807 | won: True
+Red team starts
+GAME IS OVER
+#  595 | steps: 145560 | steps_t: 108398 | t: 11480.433045 | r: -1430.000000 | e:   0.100000 | Q: 244.896530 | won: False
+Red team starts
+GAME IS OVER
+#  596 | steps: 145779 | steps_t: 108566 | t: 11522.218839 | r: -1220.000000 | e:   0.100000 | Q: 285.264099 | won: False
+Red team starts
+GAME IS OVER
+#  597 | steps: 145947 | steps_t: 108693 | t: 11549.293900 | r: -1000.000000 | e:   0.100000 | Q: 228.528809 | won: False
+Red team starts
+GAME IS OVER
+#  598 | steps: 146163 | steps_t: 108853 | t: 11609.734332 | r: -1540.000000 | e:   0.100000 | Q: 278.931580 | won: False
+Red team starts
+GAME IS OVER
+#  599 | steps: 146464 | steps_t: 109100 | t: 11712.106471 | r:  2480.000000 | e:   0.100000 | Q: 376.102722 | won: True
+Red team starts
+GAME IS OVER
+#  600 | steps: 146680 | steps_t: 109260 | t: 11764.940133 | r: -1040.000000 | e:   0.100000 | Q: 235.452438 | won: False
+Red team starts
+GAME IS OVER
+#  601 | steps: 146981 | steps_t: 109519 | t: 11796.445188 | r:  2820.000000 | e:   0.100000 | Q: 554.930542 | won: True
+Red team starts
+GAME IS OVER
+#  602 | steps: 147199 | steps_t: 109683 | t: 11810.562683 | r: -1310.000000 | e:   0.100000 | Q: 298.864716 | won: False
+Red team starts
+GAME IS OVER
+#  603 | steps: 147500 | steps_t: 109942 | t: 11834.282381 | r:  3010.000000 | e:   0.100000 | Q: 534.402954 | won: True
+Blue team starts
+GAME IS OVER
+#  604 | steps: 147717 | steps_t: 110108 | t: 11849.395627 | r: -1150.000000 | e:   0.100000 | Q: 212.524475 | won: False
+Red team starts
+GAME IS OVER
+#  605 | steps: 148014 | steps_t: 110364 | t: 11871.110724 | r:    50.000000 | e:   0.100000 | Q: 514.880188 | won: False
+Blue team starts
+GAME IS OVER
+#  606 | steps: 148297 | steps_t: 110596 | t: 11893.948282 | r:  -940.000000 | e:   0.100000 | Q: 474.416321 | won: False
+Blue team starts
+GAME IS OVER
+#  607 | steps: 148598 | steps_t: 110846 | t: 11926.072470 | r:  1940.000000 | e:   0.100000 | Q: 216.840607 | won: True
+Blue team starts
+GAME IS OVER
+#  608 | steps: 148899 | steps_t: 111106 | t: 11976.443729 | r:  2840.000000 | e:   0.100000 | Q: 550.141968 | won: True
+Blue team starts
+GAME IS OVER
+#  609 | steps: 149161 | steps_t: 111323 | t: 12021.098373 | r: -1380.000000 | e:   0.100000 | Q: 475.230835 | won: False
+Red team starts
+GAME IS OVER
+#  610 | steps: 149462 | steps_t: 111574 | t: 12073.135620 | r:  2710.000000 | e:   0.100000 | Q: 311.372620 | won: True
+Blue team starts
+GAME IS OVER
+#  611 | steps: 149680 | steps_t: 111737 | t: 12106.677540 | r: -1540.000000 | e:   0.100000 | Q: 251.959213 | won: False
+Blue team starts
+GAME IS OVER
+#  612 | steps: 149973 | steps_t: 111976 | t: 12158.330496 | r: -1140.000000 | e:   0.100000 | Q: 441.234344 | won: False
+Red team starts
+GAME IS OVER
+#  613 | steps: 150188 | steps_t: 112141 | t: 12221.150738 | r: -1130.000000 | e:   0.100000 | Q: 201.288193 | won: False
+Red team starts
+GAME IS OVER
+#  614 | steps: 150404 | steps_t: 112306 | t: 12276.246919 | r: -1150.000000 | e:   0.100000 | Q: 200.561340 | won: False
+Red team starts
+GAME IS OVER
+#  615 | steps: 150688 | steps_t: 112540 | t: 12335.230730 | r: -1380.000000 | e:   0.100000 | Q: 301.351166 | won: False
+Red team starts
+GAME IS OVER
+#  616 | steps: 150904 | steps_t: 112702 | t: 12368.557549 | r: -1240.000000 | e:   0.100000 | Q: 289.424164 | won: False
+Red team starts
+GAME IS OVER
+#  617 | steps: 151124 | steps_t: 112867 | t: 12399.491154 | r: -1190.000000 | e:   0.100000 | Q: 299.205902 | won: False
+Blue team starts
+GAME IS OVER
+#  618 | steps: 151425 | steps_t: 113113 | t: 12487.392590 | r:  2920.000000 | e:   0.100000 | Q: 322.948761 | won: True
+Blue team starts
+GAME IS OVER
+#  619 | steps: 151726 | steps_t: 113358 | t: 12542.728924 | r:  2560.000000 | e:   0.100000 | Q: 430.966400 | won: True
+Red team starts
+GAME IS OVER
+#  620 | steps: 151947 | steps_t: 113528 | t: 12578.372469 | r: -1530.000000 | e:   0.100000 | Q: 217.659195 | won: False
+Red team starts
+GAME IS OVER
+#  621 | steps: 152167 | steps_t: 113694 | t: 12613.245212 | r: -1340.000000 | e:   0.100000 | Q: 240.826981 | won: False
+Red team starts
+GAME IS OVER
+#  622 | steps: 152468 | steps_t: 113941 | t: 12668.140421 | r:  1840.000000 | e:   0.100000 | Q: 216.979919 | won: True
+Red team starts
+GAME IS OVER
+#  623 | steps: 152648 | steps_t: 114080 | t: 12718.028946 | r:  -920.000000 | e:   0.100000 | Q: 207.092194 | won: False
+Red team starts
+GAME IS OVER
+#  624 | steps: 152818 | steps_t: 114209 | t: 12767.872637 | r: -1000.000000 | e:   0.100000 | Q: 180.785233 | won: False
+Blue team starts
+GAME IS OVER
+#  625 | steps: 153119 | steps_t: 114459 | t: 12854.458231 | r:  2770.000000 | e:   0.100000 | Q: 407.890198 | won: True
+Red team starts
+GAME IS OVER
+#  626 | steps: 153337 | steps_t: 114623 | t: 12898.405619 | r: -1360.000000 | e:   0.100000 | Q: 348.984406 | won: False
+Red team starts
+GAME IS OVER
+#  627 | steps: 153555 | steps_t: 114786 | t: 12930.425470 | r: -1260.000000 | e:   0.100000 | Q: 379.545135 | won: False
+Red team starts
+GAME IS OVER
+#  628 | steps: 153772 | steps_t: 114953 | t: 12965.684711 | r: -1270.000000 | e:   0.100000 | Q: 239.685730 | won: False
+Red team starts
+GAME IS OVER
+#  629 | steps: 154045 | steps_t: 115185 | t: 13009.120712 | r:  -400.000000 | e:   0.100000 | Q: 333.635162 | won: False
+Blue team starts
+GAME IS OVER
+#  630 | steps: 154314 | steps_t: 115399 | t: 13054.982542 | r:  -970.000000 | e:   0.100000 | Q: 258.944031 | won: False
+Blue team starts
+GAME IS OVER
+#  631 | steps: 154615 | steps_t: 115644 | t: 13104.477669 | r:  -440.000000 | e:   0.100000 | Q: 395.484741 | won: False
+Red team starts
+GAME IS OVER
+#  632 | steps: 154834 | steps_t: 115812 | t: 13135.930401 | r: -1140.000000 | e:   0.100000 | Q: 246.499985 | won: False
+Red team starts
+GAME IS OVER
+#  633 | steps: 155135 | steps_t: 116059 | t: 13184.012623 | r:  2740.000000 | e:   0.100000 | Q: 436.543304 | won: True
+Blue team starts
+GAME IS OVER
+#  634 | steps: 155353 | steps_t: 116226 | t: 13215.010480 | r: -1670.000000 | e:   0.100000 | Q: 227.686066 | won: False
+Red team starts
+GAME IS OVER
+#  635 | steps: 155568 | steps_t: 116391 | t: 13243.439210 | r: -1300.000000 | e:   0.100000 | Q: 219.472000 | won: False
+Red team starts
+GAME IS OVER
+#  636 | steps: 155840 | steps_t: 116612 | t: 13284.833331 | r:  -940.000000 | e:   0.100000 | Q: 331.613220 | won: False
+Blue team starts
+GAME IS OVER
+#  637 | steps: 156059 | steps_t: 116781 | t: 13314.122293 | r: -1140.000000 | e:   0.100000 | Q: 295.176697 | won: False
+Red team starts
+GAME IS OVER
+#  638 | steps: 156360 | steps_t: 117032 | t: 13359.724887 | r:  2500.000000 | e:   0.100000 | Q: 537.662048 | won: True
+Blue team starts
+GAME IS OVER
+#  639 | steps: 156661 | steps_t: 117292 | t: 13405.141483 | r:  2740.000000 | e:   0.100000 | Q: 512.854553 | won: True
+Red team starts
+GAME IS OVER
+#  640 | steps: 156933 | steps_t: 117508 | t: 13442.192514 | r: -1020.000000 | e:   0.100000 | Q: 393.839233 | won: False
+Blue team starts
+GAME IS OVER
+#  641 | steps: 157234 | steps_t: 117764 | t: 13487.919121 | r:  2560.000000 | e:   0.100000 | Q: 490.536743 | won: True
+Red team starts
+GAME IS OVER
+#  642 | steps: 157402 | steps_t: 117887 | t: 13508.827248 | r:  -920.000000 | e:   0.100000 | Q: 235.384018 | won: False
+Red team starts
+GAME IS OVER
+#  643 | steps: 157682 | steps_t: 118117 | t: 13546.310974 | r:  -660.000000 | e:   0.100000 | Q: 301.492035 | won: False
+Blue team starts
+GAME IS OVER
+#  644 | steps: 157898 | steps_t: 118278 | t: 13575.329782 | r: -1560.000000 | e:   0.100000 | Q: 241.046783 | won: False
+Blue team starts
+GAME IS OVER
+#  645 | steps: 158066 | steps_t: 118401 | t: 13595.662381 | r: -1130.000000 | e:   0.100000 | Q: 228.818222 | won: False
+Blue team starts
+GAME IS OVER
+#  646 | steps: 158367 | steps_t: 118660 | t: 13643.974821 | r:  2800.000000 | e:   0.100000 | Q: 516.290833 | won: True
+Blue team starts
+GAME IS OVER
+#  647 | steps: 158583 | steps_t: 118825 | t: 13674.357362 | r:  -990.000000 | e:   0.100000 | Q: 258.615692 | won: False
+Red team starts
+GAME IS OVER
+#  648 | steps: 158884 | steps_t: 119072 | t: 13719.734034 | r:  2460.000000 | e:   0.100000 | Q: 295.881378 | won: True
+Red team starts
+GAME IS OVER
+#  649 | steps: 159185 | steps_t: 119323 | t: 13771.654904 | r:  1780.000000 | e:   0.100000 | Q: 300.828674 | won: True
+Blue team starts
+GAME IS OVER
+#  650 | steps: 159478 | steps_t: 119560 | t: 13821.518560 | r: -1730.000000 | e:   0.100000 | Q: 213.509171 | won: False
+Blue team starts
+GAME IS OVER
+#  651 | steps: 159695 | steps_t: 119726 | t: 13851.143521 | r: -1450.000000 | e:   0.100000 | Q: 257.808960 | won: False
+Red team starts
+GAME IS OVER
+#  652 | steps: 159993 | steps_t: 119968 | t: 13896.757118 | r:  -570.000000 | e:   0.100000 | Q: 286.158539 | won: False
+Blue team starts
+GAME IS OVER
+#  653 | steps: 160294 | steps_t: 120219 | t: 13943.223208 | r:  2700.000000 | e:   0.100000 | Q: 403.789795 | won: True
+Blue team starts
+GAME IS OVER
+#  654 | steps: 160595 | steps_t: 120465 | t: 13988.035302 | r:  2410.000000 | e:   0.100000 | Q: 385.552795 | won: True
+Blue team starts
+GAME IS OVER
+#  655 | steps: 160896 | steps_t: 120715 | t: 14039.268742 | r:  1310.000000 | e:   0.100000 | Q: 323.492523 | won: True
+Red team starts
+GAME IS OVER
+#  656 | steps: 161197 | steps_t: 120975 | t: 14113.124756 | r:  3300.000000 | e:   0.100000 | Q: 615.943787 | won: True
+Blue team starts
+GAME IS OVER
+#  657 | steps: 161498 | steps_t: 121225 | t: 14165.321031 | r:  2290.000000 | e:   0.100000 | Q: 610.295837 | won: True
+Blue team starts
+GAME IS OVER
+#  658 | steps: 161668 | steps_t: 121350 | t: 14187.851995 | r:  -950.000000 | e:   0.100000 | Q: 224.820557 | won: False
+Red team starts
+GAME IS OVER
+#  659 | steps: 161883 | steps_t: 121515 | t: 14216.852401 | r: -1620.000000 | e:   0.100000 | Q: 237.160065 | won: False
+Red team starts
+GAME IS OVER
+#  660 | steps: 162099 | steps_t: 121675 | t: 14244.433195 | r: -1370.000000 | e:   0.100000 | Q: 306.931946 | won: False
+Blue team starts
+GAME IS OVER
+#  661 | steps: 162267 | steps_t: 121802 | t: 14269.109303 | r: -1240.000000 | e:   0.100000 | Q: 231.672546 | won: False
+Blue team starts
+GAME IS OVER
+#  662 | steps: 162483 | steps_t: 121963 | t: 14299.371616 | r: -1540.000000 | e:   0.100000 | Q: 196.134186 | won: False
+Blue team starts
+GAME IS OVER
+#  663 | steps: 162765 | steps_t: 122195 | t: 14344.942016 | r: -1080.000000 | e:   0.100000 | Q: 356.814056 | won: False
+Blue team starts
+GAME IS OVER
+#  664 | steps: 162983 | steps_t: 122357 | t: 14378.254678 | r: -1440.000000 | e:   0.100000 | Q: 249.728165 | won: False
+Blue team starts
+GAME IS OVER
+#  665 | steps: 163284 | steps_t: 122616 | t: 14466.121339 | r:  2060.000000 | e:   0.100000 | Q: 608.080078 | won: True
+Red team starts
+GAME IS OVER
+#  666 | steps: 163585 | steps_t: 122875 | t: 14528.942389 | r:  3120.000000 | e:   0.100000 | Q: 394.204315 | won: True
+Blue team starts
+GAME IS OVER
+#  667 | steps: 163886 | steps_t: 123122 | t: 14582.057777 | r:  3280.000000 | e:   0.100000 | Q: 375.573853 | won: True
+Blue team starts
+GAME IS OVER
+#  668 | steps: 164147 | steps_t: 123328 | t: 14624.631106 | r: -1040.000000 | e:   0.100000 | Q: 260.709045 | won: False
+Blue team starts
+GAME IS OVER
+#  669 | steps: 164363 | steps_t: 123489 | t: 14661.400428 | r: -1240.000000 | e:   0.100000 | Q: 285.205933 | won: False
+Red team starts
+GAME IS OVER
+#  670 | steps: 164664 | steps_t: 123748 | t: 14725.168232 | r:  2030.000000 | e:   0.100000 | Q: 477.021820 | won: True
+Blue team starts
+GAME IS OVER
+#  671 | steps: 164965 | steps_t: 124008 | t: 14782.232721 | r:  2840.000000 | e:   0.100000 | Q: 331.743622 | won: True
+Blue team starts
+GAME IS OVER
+#  672 | steps: 165266 | steps_t: 124258 | t: 14837.095362 | r:  2000.000000 | e:   0.100000 | Q: 457.491608 | won: True
+Red team starts
+GAME IS OVER
+#  673 | steps: 165434 | steps_t: 124381 | t: 14865.167838 | r: -1000.000000 | e:   0.100000 | Q: 211.298355 | won: False
+Red team starts
+GAME IS OVER
+#  674 | steps: 165602 | steps_t: 124504 | t: 14889.474283 | r: -1110.000000 | e:   0.100000 | Q: 129.386993 | won: False
+Red team starts
+GAME IS OVER
+#  675 | steps: 165903 | steps_t: 124754 | t: 14937.732883 | r:  2110.000000 | e:   0.100000 | Q: 238.796494 | won: True
+Blue team starts
+GAME IS OVER
+#  676 | steps: 166118 | steps_t: 124918 | t: 14971.477987 | r: -1850.000000 | e:   0.100000 | Q: 272.731903 | won: False
+Blue team starts
+GAME IS OVER
+#  677 | steps: 166419 | steps_t: 125174 | t: 15035.556357 | r:  2330.000000 | e:   0.100000 | Q: 290.747894 | won: True
+Red team starts
+GAME IS OVER
+#  678 | steps: 166720 | steps_t: 125425 | t: 15085.220551 | r:  2860.000000 | e:   0.100000 | Q: 496.660034 | won: True
+Blue team starts
+GAME IS OVER
+#  679 | steps: 167021 | steps_t: 125684 | t: 15137.333428 | r:  2560.000000 | e:   0.100000 | Q: 399.707764 | won: True
+Blue team starts
+GAME IS OVER
+#  680 | steps: 167232 | steps_t: 125844 | t: 15165.680315 | r: -1420.000000 | e:   0.100000 | Q: 166.075333 | won: False
+Blue team starts
+GAME IS OVER
+#  681 | steps: 167533 | steps_t: 126104 | t: 15191.424360 | r:  2910.000000 | e:   0.100000 | Q: 443.420898 | won: True
+Blue team starts
+GAME IS OVER
+#  682 | steps: 167834 | steps_t: 126364 | t: 15215.679448 | r:  2410.000000 | e:   0.100000 | Q: 349.403320 | won: True
+Red team starts
+GAME IS OVER
+#  683 | steps: 168051 | steps_t: 126527 | t: 15231.681864 | r: -1540.000000 | e:   0.100000 | Q: 236.693405 | won: False
+Blue team starts
+GAME IS OVER
+#  684 | steps: 168219 | steps_t: 126653 | t: 15241.578788 | r: -1170.000000 | e:   0.100000 | Q: 311.886566 | won: False
+Blue team starts
+GAME IS OVER
+#  685 | steps: 168520 | steps_t: 126900 | t: 15263.568955 | r:  2600.000000 | e:   0.100000 | Q: 470.473572 | won: True
+Red team starts
+GAME IS OVER
+#  686 | steps: 168821 | steps_t: 127151 | t: 15290.440559 | r:  3170.000000 | e:   0.100000 | Q: 506.049805 | won: True
+Red team starts
+GAME IS OVER
+#  687 | steps: 169122 | steps_t: 127398 | t: 15324.032625 | r:  2550.000000 | e:   0.100000 | Q: 639.781555 | won: True
+Red team starts
+GAME IS OVER
+#  688 | steps: 169341 | steps_t: 127567 | t: 15361.755608 | r:  -940.000000 | e:   0.100000 | Q: 374.566101 | won: False
+Red team starts
+GAME IS OVER
+#  689 | steps: 169642 | steps_t: 127823 | t: 15410.955320 | r:  2510.000000 | e:   0.100000 | Q: 533.408386 | won: True
+Blue team starts
+GAME IS OVER
+#  690 | steps: 169904 | steps_t: 128029 | t: 15453.687262 | r: -1530.000000 | e:   0.100000 | Q: 208.276108 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  691 | steps: 170205 | steps_t: 128280 | t: 15498.602214 | r:  2310.000000 | e:   0.100000 | Q: 311.268860 | won: True
+Blue team starts
+GAME IS OVER
+#  692 | steps: 170506 | steps_t: 128527 | t: 15553.403885 | r:  2200.000000 | e:   0.100000 | Q: 253.616211 | won: True
+Red team starts
+GAME IS OVER
+#  693 | steps: 170807 | steps_t: 128777 | t: 15601.185578 | r:  3010.000000 | e:   0.100000 | Q: 490.763245 | won: True
+Blue team starts
+GAME IS OVER
+#  694 | steps: 171108 | steps_t: 129033 | t: 15646.056255 | r:  2260.000000 | e:   0.100000 | Q: 459.685699 | won: True
+Blue team starts
+GAME IS OVER
+#  695 | steps: 171324 | steps_t: 129195 | t: 15702.020499 | r: -1350.000000 | e:   0.100000 | Q: 335.834625 | won: False
+Blue team starts
+GAME IS OVER
+#  696 | steps: 171625 | steps_t: 129442 | t: 15808.880130 | r:  1820.000000 | e:   0.100000 | Q: 550.389771 | won: True
+Blue team starts
+GAME IS OVER
+#  697 | steps: 171926 | steps_t: 129698 | t: 15870.439051 | r:  2720.000000 | e:   0.100000 | Q: 536.415771 | won: True
+Red team starts
+GAME IS OVER
+#  698 | steps: 172227 | steps_t: 129944 | t: 15915.788083 | r:  2480.000000 | e:   0.100000 | Q: 555.534119 | won: True
+Blue team starts
+GAME IS OVER
+#  699 | steps: 172528 | steps_t: 130194 | t: 15964.030353 | r:  1600.000000 | e:   0.100000 | Q: 442.774597 | won: True
+Red team starts
+GAME IS OVER
+#  700 | steps: 172746 | steps_t: 130358 | t: 15992.290473 | r: -1500.000000 | e:   0.100000 | Q: 245.142639 | won: False
+Blue team starts
+GAME IS OVER
+#  701 | steps: 172914 | steps_t: 130484 | t: 16012.764225 | r: -1210.000000 | e:   0.100000 | Q: 276.890045 | won: False
+Red team starts
+GAME IS OVER
+#  702 | steps: 173078 | steps_t: 130606 | t: 16033.263389 | r:  -820.000000 | e:   0.100000 | Q: 245.568863 | won: False
+Blue team starts
+GAME IS OVER
+#  703 | steps: 173296 | steps_t: 130768 | t: 16058.815163 | r: -1140.000000 | e:   0.100000 | Q: 260.980225 | won: False
+Blue team starts
+GAME IS OVER
+#  704 | steps: 173597 | steps_t: 131024 | t: 16104.811947 | r:  2410.000000 | e:   0.100000 | Q: 436.402252 | won: True
+Blue team starts
+GAME IS OVER
+#  705 | steps: 173898 | steps_t: 131271 | t: 16147.924247 | r:  2130.000000 | e:   0.100000 | Q: 319.787476 | won: True
+Red team starts
+GAME IS OVER
+#  706 | steps: 174071 | steps_t: 131402 | t: 16168.861669 | r:  -990.000000 | e:   0.100000 | Q: 287.485168 | won: False
+Blue team starts
+GAME IS OVER
+#  707 | steps: 174347 | steps_t: 131628 | t: 16205.931198 | r:  -650.000000 | e:   0.100000 | Q: 315.691467 | won: False
+Blue team starts
+GAME IS OVER
+#  708 | steps: 174648 | steps_t: 131888 | t: 16250.158856 | r:  2770.000000 | e:   0.100000 | Q: 392.837769 | won: True
+Red team starts
+GAME IS OVER
+#  709 | steps: 174868 | steps_t: 132053 | t: 16278.477493 | r: -1470.000000 | e:   0.100000 | Q: 208.470108 | won: False
+Blue team starts
+GAME IS OVER
+#  710 | steps: 175169 | steps_t: 132309 | t: 16321.834629 | r:  2780.000000 | e:   0.100000 | Q: 371.300690 | won: True
+Red team starts
+GAME IS OVER
+#  711 | steps: 175429 | steps_t: 132515 | t: 16355.914337 | r: -1220.000000 | e:   0.100000 | Q: 352.216888 | won: False
+Blue team starts
+GAME IS OVER
+#  712 | steps: 175730 | steps_t: 132761 | t: 16398.071009 | r:  1740.000000 | e:   0.100000 | Q: 432.177094 | won: True
+Blue team starts
+GAME IS OVER
+#  713 | steps: 175946 | steps_t: 132927 | t: 16426.639766 | r: -1570.000000 | e:   0.100000 | Q: 190.261780 | won: False
+Blue team starts
+GAME IS OVER
+#  714 | steps: 176166 | steps_t: 133096 | t: 16455.821862 | r: -1350.000000 | e:   0.100000 | Q: 152.056610 | won: False
+Red team starts
+GAME IS OVER
+#  715 | steps: 176467 | steps_t: 133346 | t: 16506.636393 | r:  3140.000000 | e:   0.100000 | Q: 502.497009 | won: True
+Red team starts
+GAME IS OVER
+#  716 | steps: 176635 | steps_t: 133473 | t: 16529.338683 | r: -1140.000000 | e:   0.100000 | Q: 276.746429 | won: False
+Blue team starts
+GAME IS OVER
+#  717 | steps: 176936 | steps_t: 133723 | t: 16572.788019 | r:  2160.000000 | e:   0.100000 | Q: 272.317596 | won: True
+Red team starts
+GAME IS OVER
+#  718 | steps: 177237 | steps_t: 133983 | t: 16621.771533 | r:  2780.000000 | e:   0.100000 | Q: 591.413452 | won: True
+Red team starts
+GAME IS OVER
+#  719 | steps: 177453 | steps_t: 134144 | t: 16652.497591 | r: -1350.000000 | e:   0.100000 | Q: 177.701233 | won: False
+Red team starts
+GAME IS OVER
+#  720 | steps: 177669 | steps_t: 134305 | t: 16686.351381 | r: -1290.000000 | e:   0.100000 | Q: 269.878723 | won: False
+Red team starts
+GAME IS OVER
+#  721 | steps: 177888 | steps_t: 134473 | t: 16730.530466 | r: -1050.000000 | e:   0.100000 | Q: 322.354553 | won: False
+Blue team starts
+GAME IS OVER
+#  722 | steps: 178189 | steps_t: 134732 | t: 16797.858436 | r:  1940.000000 | e:   0.100000 | Q: 455.251129 | won: True
+Blue team starts
+GAME IS OVER
+#  723 | steps: 178490 | steps_t: 134988 | t: 16855.182965 | r:  1270.000000 | e:   0.100000 | Q: 554.402161 | won: True
+Red team starts
+GAME IS OVER
+#  724 | steps: 178755 | steps_t: 135198 | t: 16901.370452 | r: -1040.000000 | e:   0.100000 | Q: 282.159729 | won: False
+Blue team starts
+GAME IS OVER
+#  725 | steps: 179056 | steps_t: 135445 | t: 16951.352002 | r:  2260.000000 | e:   0.100000 | Q: 314.023987 | won: True
+Red team starts
+GAME IS OVER
+#  726 | steps: 179271 | steps_t: 135610 | t: 16984.065815 | r: -1220.000000 | e:   0.100000 | Q: 239.522552 | won: False
+Blue team starts
+GAME IS OVER
+#  727 | steps: 179557 | steps_t: 135846 | t: 17025.297344 | r: -1110.000000 | e:   0.100000 | Q: 244.170059 | won: False
+Blue team starts
+GAME IS OVER
+#  728 | steps: 179773 | steps_t: 136006 | t: 17051.666171 | r: -1740.000000 | e:   0.100000 | Q: 277.356293 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  729 | steps: 180037 | steps_t: 136216 | t: 17088.653854 | r: -1150.000000 | e:   0.100000 | Q: 197.418442 | won: False
+Blue team starts
+GAME IS OVER
+#  730 | steps: 180338 | steps_t: 136472 | t: 17130.351684 | r:  2160.000000 | e:   0.100000 | Q: 482.462646 | won: True
+Blue team starts
+GAME IS OVER
+#  731 | steps: 180553 | steps_t: 136637 | t: 17157.255465 | r: -1390.000000 | e:   0.100000 | Q: 237.007294 | won: False
+Red team starts
+GAME IS OVER
+#  732 | steps: 180770 | steps_t: 136804 | t: 17185.358602 | r: -1500.000000 | e:   0.100000 | Q: 196.848328 | won: False
+Blue team starts
+GAME IS OVER
+#  733 | steps: 181071 | steps_t: 137064 | t: 17225.927726 | r:  3240.000000 | e:   0.100000 | Q: 539.746094 | won: True
+Blue team starts
+GAME IS OVER
+#  734 | steps: 181372 | steps_t: 137311 | t: 17265.529423 | r:  1780.000000 | e:   0.100000 | Q: 739.327576 | won: True
+Red team starts
+GAME IS OVER
+#  735 | steps: 181673 | steps_t: 137567 | t: 17305.853949 | r:  2250.000000 | e:   0.100000 | Q: 403.327576 | won: True
+Red team starts
+GAME IS OVER
+#  736 | steps: 181843 | steps_t: 137692 | t: 17329.907667 | r: -1060.000000 | e:   0.100000 | Q: 343.331482 | won: False
+Blue team starts
+GAME IS OVER
+#  737 | steps: 182063 | steps_t: 137856 | t: 17364.091579 | r: -1690.000000 | e:   0.100000 | Q: 143.854919 | won: False
+Blue team starts
+GAME IS OVER
+#  738 | steps: 182364 | steps_t: 138116 | t: 17410.663765 | r:  2710.000000 | e:   0.100000 | Q: 675.902039 | won: True
+Blue team starts
+GAME IS OVER
+#  739 | steps: 182665 | steps_t: 138361 | t: 17454.376936 | r:  2570.000000 | e:   0.100000 | Q: 353.787781 | won: True
+Blue team starts
+GAME IS OVER
+#  740 | steps: 182966 | steps_t: 138612 | t: 17526.773016 | r:  1890.000000 | e:   0.100000 | Q: 446.046417 | won: True
+Blue team starts
+GAME IS OVER
+#  741 | steps: 183267 | steps_t: 138859 | t: 17573.995800 | r:  2720.000000 | e:   0.100000 | Q: 310.335999 | won: True
+Red team starts
+GAME IS OVER
+#  742 | steps: 183568 | steps_t: 139109 | t: 17620.170788 | r:  2760.000000 | e:   0.100000 | Q: 416.800995 | won: True
+Blue team starts
+GAME IS OVER
+#  743 | steps: 183784 | steps_t: 139270 | t: 17652.768949 | r: -1300.000000 | e:   0.100000 | Q: 153.118240 | won: False
+Red team starts
+GAME IS OVER
+#  744 | steps: 183952 | steps_t: 139396 | t: 17675.093066 | r: -1680.000000 | e:   0.100000 | Q: 224.912064 | won: False
+Red team starts
+GAME IS OVER
+#  745 | steps: 184253 | steps_t: 139641 | t: 17715.989605 | r:  2220.000000 | e:   0.100000 | Q: 353.109070 | won: True
+Blue team starts
+GAME IS OVER
+#  746 | steps: 184469 | steps_t: 139806 | t: 17744.445715 | r: -1580.000000 | e:   0.100000 | Q: 219.627838 | won: False
+Blue team starts
+GAME IS OVER
+#  747 | steps: 184770 | steps_t: 140062 | t: 17787.456212 | r:  2860.000000 | e:   0.100000 | Q: 540.462036 | won: True
+Blue team starts
+GAME IS OVER
+#  748 | steps: 185071 | steps_t: 140322 | t: 17831.805192 | r:  3110.000000 | e:   0.100000 | Q: 506.430511 | won: True
+Blue team starts
+GAME IS OVER
+#  749 | steps: 185365 | steps_t: 140571 | t: 17876.228137 | r:  -890.000000 | e:   0.100000 | Q: 342.107574 | won: False
+Blue team starts
+GAME IS OVER
+#  750 | steps: 185585 | steps_t: 140736 | t: 17904.870279 | r: -1560.000000 | e:   0.100000 | Q: 299.310699 | won: False
+Blue team starts
+GAME IS OVER
+#  751 | steps: 185886 | steps_t: 140996 | t: 17947.972194 | r:  2730.000000 | e:   0.100000 | Q: 639.351807 | won: True
+Red team starts
+GAME IS OVER
+#  752 | steps: 186174 | steps_t: 141233 | t: 17986.629400 | r: -1500.000000 | e:   0.100000 | Q: 413.455719 | won: False
+Red team starts
+GAME IS OVER
+#  753 | steps: 186475 | steps_t: 141493 | t: 18031.126243 | r:  2790.000000 | e:   0.100000 | Q: 530.476868 | won: True
+Red team starts
+GAME IS OVER
+#  754 | steps: 186739 | steps_t: 141702 | t: 18068.807343 | r:  -980.000000 | e:   0.100000 | Q: 204.208969 | won: False
+Red team starts
+GAME IS OVER
+#  755 | steps: 187040 | steps_t: 141958 | t: 18113.074733 | r:  2570.000000 | e:   0.100000 | Q: 466.892334 | won: True
+Red team starts
+GAME IS OVER
+#  756 | steps: 187341 | steps_t: 142205 | t: 18157.444542 | r:  2780.000000 | e:   0.100000 | Q: 391.892090 | won: True
+Blue team starts
+GAME IS OVER
+#  757 | steps: 187642 | steps_t: 142461 | t: 18202.993615 | r:  2380.000000 | e:   0.100000 | Q: 472.902130 | won: True
+Red team starts
+GAME IS OVER
+#  758 | steps: 187943 | steps_t: 142708 | t: 18248.569830 | r:  1910.000000 | e:   0.100000 | Q: 509.665283 | won: True
+Blue team starts
+GAME IS OVER
+#  759 | steps: 188244 | steps_t: 142955 | t: 18295.832470 | r:  1610.000000 | e:   0.100000 | Q: 220.222885 | won: True
+Red team starts
+GAME IS OVER
+#  760 | steps: 188505 | steps_t: 143160 | t: 18333.011980 | r: -1300.000000 | e:   0.100000 | Q: 266.117188 | won: False
+Red team starts
+GAME IS OVER
+#  761 | steps: 188806 | steps_t: 143407 | t: 18375.443525 | r:  3080.000000 | e:   0.100000 | Q: 399.136414 | won: True
+Blue team starts
+GAME IS OVER
+#  762 | steps: 189107 | steps_t: 143653 | t: 18417.208304 | r:  1950.000000 | e:   0.100000 | Q: 217.825851 | won: True
+Red team starts
+GAME IS OVER
+#  763 | steps: 189408 | steps_t: 143912 | t: 18464.684407 | r:  2590.000000 | e:   0.100000 | Q: 599.076294 | won: True
+Blue team starts
+GAME IS OVER
+#  764 | steps: 189704 | steps_t: 144152 | t: 18510.137320 | r: -1490.000000 | e:   0.100000 | Q: 342.080139 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  765 | steps: 190005 | steps_t: 144398 | t: 18556.711467 | r:  1700.000000 | e:   0.100000 | Q: 542.336182 | won: True
+Red team starts
+GAME IS OVER
+#  766 | steps: 190306 | steps_t: 144649 | t: 18600.895602 | r:  2540.000000 | e:   0.100000 | Q: 404.258850 | won: True
+Red team starts
+GAME IS OVER
+#  767 | steps: 190607 | steps_t: 144896 | t: 18646.385754 | r:  2960.000000 | e:   0.100000 | Q: 371.426483 | won: True
+Blue team starts
+GAME IS OVER
+#  768 | steps: 190908 | steps_t: 145143 | t: 18691.863049 | r:  2420.000000 | e:   0.100000 | Q: 337.742065 | won: True
+Red team starts
+GAME IS OVER
+#  769 | steps: 191209 | steps_t: 145399 | t: 18742.759946 | r:  2870.000000 | e:   0.100000 | Q: 568.765259 | won: True
+Red team starts
+GAME IS OVER
+#  770 | steps: 191510 | steps_t: 145644 | t: 18787.833744 | r:  2360.000000 | e:   0.100000 | Q: 398.198303 | won: True
+Blue team starts
+GAME IS OVER
+#  771 | steps: 191725 | steps_t: 145808 | t: 18813.862340 | r:  -850.000000 | e:   0.100000 | Q: 348.956482 | won: False
+Red team starts
+GAME IS OVER
+#  772 | steps: 192026 | steps_t: 146059 | t: 18861.398460 | r:  3070.000000 | e:   0.100000 | Q: 620.404053 | won: True
+Red team starts
+GAME IS OVER
+#  773 | steps: 192241 | steps_t: 146223 | t: 18892.713667 | r: -1200.000000 | e:   0.100000 | Q: 297.996033 | won: False
+Blue team starts
+GAME IS OVER
+#  774 | steps: 192501 | steps_t: 146429 | t: 18933.327641 | r: -1260.000000 | e:   0.100000 | Q: 269.416321 | won: False
+Blue team starts
+GAME IS OVER
+#  775 | steps: 192802 | steps_t: 146679 | t: 18984.979143 | r:  1920.000000 | e:   0.100000 | Q: 532.030212 | won: True
+Red team starts
+GAME IS OVER
+#  776 | steps: 193081 | steps_t: 146907 | t: 19026.484308 | r: -1050.000000 | e:   0.100000 | Q: 189.151443 | won: False
+Red team starts
+GAME IS OVER
+#  777 | steps: 193299 | steps_t: 147069 | t: 19051.712502 | r: -1230.000000 | e:   0.100000 | Q: 448.058167 | won: False
+Red team starts
+GAME IS OVER
+#  778 | steps: 193600 | steps_t: 147316 | t: 19090.886301 | r:  2500.000000 | e:   0.100000 | Q: 498.913910 | won: True
+Blue team starts
+GAME IS OVER
+#  779 | steps: 193901 | steps_t: 147576 | t: 19132.841803 | r:  2850.000000 | e:   0.100000 | Q: 467.674469 | won: True
+Red team starts
+GAME IS OVER
+#  780 | steps: 194117 | steps_t: 147738 | t: 19157.659648 | r: -1450.000000 | e:   0.100000 | Q: 218.236771 | won: False
+Blue team starts
+GAME IS OVER
+#  781 | steps: 194418 | steps_t: 147989 | t: 19197.291440 | r:  3060.000000 | e:   0.100000 | Q: 340.486450 | won: True
+Red team starts
+GAME IS OVER
+#  782 | steps: 194719 | steps_t: 148235 | t: 19263.173918 | r:  1960.000000 | e:   0.100000 | Q: 310.388184 | won: True
+Blue team starts
+GAME IS OVER
+#  783 | steps: 195020 | steps_t: 148494 | t: 19306.045020 | r:  1500.000000 | e:   0.100000 | Q: 401.781708 | won: True
+Red team starts
+GAME IS OVER
+#  784 | steps: 195321 | steps_t: 148744 | t: 19346.539281 | r:  2760.000000 | e:   0.100000 | Q: 399.736542 | won: True
+Red team starts
+GAME IS OVER
+#  785 | steps: 195489 | steps_t: 148870 | t: 19365.753408 | r:  -960.000000 | e:   0.100000 | Q: 194.853516 | won: False
+Red team starts
+GAME IS OVER
+#  786 | steps: 195790 | steps_t: 149116 | t: 19405.592032 | r:  3090.000000 | e:   0.100000 | Q: 523.067444 | won: True
+Blue team starts
+GAME IS OVER
+#  787 | steps: 196006 | steps_t: 149277 | t: 19431.716855 | r:  -940.000000 | e:   0.100000 | Q: 299.429901 | won: False
+Red team starts
+GAME IS OVER
+#  788 | steps: 196178 | steps_t: 149408 | t: 19451.923786 | r: -1100.000000 | e:   0.100000 | Q: 304.957397 | won: False
+Blue team starts
+GAME IS OVER
+#  789 | steps: 196394 | steps_t: 149569 | t: 19477.351358 | r: -1360.000000 | e:   0.100000 | Q: 314.110504 | won: False
+Blue team starts
+GAME IS OVER
+#  790 | steps: 196695 | steps_t: 149819 | t: 19516.868565 | r:  2780.000000 | e:   0.100000 | Q: 427.835724 | won: True
+Red team starts
+GAME IS OVER
+#  791 | steps: 196996 | steps_t: 150066 | t: 19563.395716 | r:  2930.000000 | e:   0.100000 | Q: 400.156006 | won: True
+Red team starts
+GAME IS OVER
+#  792 | steps: 197212 | steps_t: 150227 | t: 19589.639324 | r: -1300.000000 | e:   0.100000 | Q: 373.643921 | won: False
+Red team starts
+GAME IS OVER
+#  793 | steps: 197513 | steps_t: 150473 | t: 19631.167032 | r:  2920.000000 | e:   0.100000 | Q: 419.745728 | won: True
+Blue team starts
+GAME IS OVER
+#  794 | steps: 197814 | steps_t: 150719 | t: 19674.259175 | r:  1690.000000 | e:   0.100000 | Q: 571.590637 | won: True
+Blue team starts
+GAME IS OVER
+#  795 | steps: 198115 | steps_t: 150964 | t: 19719.583815 | r:  2420.000000 | e:   0.100000 | Q: 424.820374 | won: True
+Blue team starts
+GAME IS OVER
+#  796 | steps: 198337 | steps_t: 151132 | t: 19748.103992 | r: -1320.000000 | e:   0.100000 | Q: 313.243683 | won: False
+Blue team starts
+GAME IS OVER
+#  797 | steps: 198638 | steps_t: 151382 | t: 19791.089692 | r:  2580.000000 | e:   0.100000 | Q: 410.909546 | won: True
+Blue team starts
+GAME IS OVER
+#  798 | steps: 198939 | steps_t: 151633 | t: 19834.238963 | r:  1970.000000 | e:   0.100000 | Q: 357.838654 | won: True
+Red team starts
+GAME IS OVER
+#  799 | steps: 199240 | steps_t: 151883 | t: 19879.877519 | r:  3440.000000 | e:   0.100000 | Q: 490.403046 | won: True
+Red team starts
+GAME IS OVER
+#  800 | steps: 199459 | steps_t: 152051 | t: 19908.479382 | r: -1680.000000 | e:   0.100000 | Q: 224.820938 | won: False
+Blue team starts
+GAME IS OVER
+#  801 | steps: 199760 | steps_t: 152310 | t: 19950.603310 | r:  2950.000000 | e:   0.100000 | Q: 494.530334 | won: True
+Red team starts
+Model saved
+GAME IS OVER
+#  802 | steps: 200061 | steps_t: 152570 | t: 19993.712187 | r:  1740.000000 | e:   0.100000 | Q: 519.551941 | won: True
+Red team starts
+GAME IS OVER
+#  803 | steps: 200362 | steps_t: 152826 | t: 20036.702251 | r:  2370.000000 | e:   0.100000 | Q: 362.345337 | won: True
+Red team starts
+GAME IS OVER
+#  804 | steps: 200579 | steps_t: 152992 | t: 20063.721568 | r: -1300.000000 | e:   0.100000 | Q: 248.128448 | won: False
+Red team starts
+GAME IS OVER
+#  805 | steps: 200880 | steps_t: 153248 | t: 20103.673720 | r:  1380.000000 | e:   0.100000 | Q: 627.924561 | won: True
+Blue team starts
+GAME IS OVER
+#  806 | steps: 201181 | steps_t: 153495 | t: 20144.747546 | r:  1980.000000 | e:   0.100000 | Q: 630.235168 | won: True
+Blue team starts
+GAME IS OVER
+#  807 | steps: 201482 | steps_t: 153746 | t: 20186.254035 | r:  2500.000000 | e:   0.100000 | Q: 387.894867 | won: True
+Blue team starts
+GAME IS OVER
+#  808 | steps: 201783 | steps_t: 154006 | t: 20246.331604 | r:  3100.000000 | e:   0.100000 | Q: 628.158081 | won: True
+Blue team starts
+GAME IS OVER
+#  809 | steps: 201999 | steps_t: 154168 | t: 20274.007706 | r: -1180.000000 | e:   0.100000 | Q: 231.669968 | won: False
+Red team starts
+GAME IS OVER
+#  810 | steps: 202285 | steps_t: 154413 | t: 20313.769850 | r:  -600.000000 | e:   0.100000 | Q: 667.862427 | won: False
+Blue team starts
+GAME IS OVER
+#  811 | steps: 202586 | steps_t: 154660 | t: 20356.458674 | r:   660.000000 | e:   0.100000 | Q: 420.013702 | won: True
+Red team starts
+GAME IS OVER
+#  812 | steps: 202887 | steps_t: 154916 | t: 20404.509078 | r:  2910.000000 | e:   0.100000 | Q: 658.017273 | won: True
+Red team starts
+GAME IS OVER
+#  813 | steps: 203107 | steps_t: 155081 | t: 20441.178737 | r: -1380.000000 | e:   0.100000 | Q: 268.081451 | won: False
+Red team starts
+GAME IS OVER
+#  814 | steps: 203408 | steps_t: 155332 | t: 20496.792942 | r:  2940.000000 | e:   0.100000 | Q: 544.329041 | won: True
+Red team starts
+GAME IS OVER
+#  815 | steps: 203673 | steps_t: 155546 | t: 20542.357010 | r: -1160.000000 | e:   0.100000 | Q: 164.495605 | won: False
+Red team starts
+GAME IS OVER
+#  816 | steps: 203932 | steps_t: 155754 | t: 20585.061181 | r: -1140.000000 | e:   0.100000 | Q: 269.491150 | won: False
+Red team starts
+GAME IS OVER
+#  817 | steps: 204150 | steps_t: 155916 | t: 20615.843104 | r: -1390.000000 | e:   0.100000 | Q: 179.911987 | won: False
+Red team starts
+GAME IS OVER
+#  818 | steps: 204451 | steps_t: 156166 | t: 20658.211115 | r:  2920.000000 | e:   0.100000 | Q: 485.807404 | won: True
+Red team starts
+GAME IS OVER
+#  819 | steps: 204752 | steps_t: 156422 | t: 20707.011762 | r:  2220.000000 | e:   0.100000 | Q: 348.884064 | won: True
+Red team starts
+GAME IS OVER
+#  820 | steps: 204968 | steps_t: 156582 | t: 20741.696245 | r: -1320.000000 | e:   0.100000 | Q: 310.284485 | won: False
+Red team starts
+GAME IS OVER
+#  821 | steps: 205187 | steps_t: 156751 | t: 20770.298931 | r: -1650.000000 | e:   0.100000 | Q: 154.855865 | won: False
+Blue team starts
+GAME IS OVER
+#  822 | steps: 205488 | steps_t: 157002 | t: 20816.082494 | r:  2800.000000 | e:   0.100000 | Q: 589.241211 | won: True
+Blue team starts
+GAME IS OVER
+#  823 | steps: 205789 | steps_t: 157252 | t: 20860.299001 | r:  -390.000000 | e:   0.100000 | Q: 284.201569 | won: False
+Red team starts
+GAME IS OVER
+#  824 | steps: 206005 | steps_t: 157412 | t: 20888.287429 | r: -1330.000000 | e:   0.100000 | Q: 156.067307 | won: False
+Red team starts
+GAME IS OVER
+#  825 | steps: 206306 | steps_t: 157657 | t: 20929.310605 | r:  2460.000000 | e:   0.100000 | Q: 553.094666 | won: True
+Blue team starts
+GAME IS OVER
+#  826 | steps: 206607 | steps_t: 157904 | t: 20970.104384 | r:  3060.000000 | e:   0.100000 | Q: 346.157898 | won: True
+Red team starts
+GAME IS OVER
+#  827 | steps: 206908 | steps_t: 158149 | t: 21009.985595 | r:  2380.000000 | e:   0.100000 | Q: 338.161774 | won: True
+Red team starts
+GAME IS OVER
+#  828 | steps: 207209 | steps_t: 158394 | t: 21077.123485 | r:  3280.000000 | e:   0.100000 | Q: 439.318542 | won: True
+Red team starts
+GAME IS OVER
+#  829 | steps: 207510 | steps_t: 158645 | t: 21122.159937 | r:  2020.000000 | e:   0.100000 | Q: 358.224609 | won: True
+Red team starts
+GAME IS OVER
+#  830 | steps: 207726 | steps_t: 158807 | t: 21151.975181 | r: -1370.000000 | e:   0.100000 | Q: 244.560928 | won: False
+Blue team starts
+GAME IS OVER
+#  831 | steps: 207983 | steps_t: 159022 | t: 21188.180940 | r:  -450.000000 | e:   0.100000 | Q: 503.754028 | won: False
+Red team starts
+GAME IS OVER
+#  832 | steps: 208284 | steps_t: 159273 | t: 21233.045067 | r:  2330.000000 | e:   0.100000 | Q: 376.575012 | won: True
+Blue team starts
+GAME IS OVER
+#  833 | steps: 208559 | steps_t: 159507 | t: 21280.592340 | r:  -340.000000 | e:   0.100000 | Q: 440.698181 | won: False
+Blue team starts
+GAME IS OVER
+#  834 | steps: 208828 | steps_t: 159731 | t: 21321.380775 | r:  -530.000000 | e:   0.100000 | Q: 571.626770 | won: False
+Red team starts
+GAME IS OVER
+#  835 | steps: 209129 | steps_t: 159991 | t: 21370.477107 | r:  3110.000000 | e:   0.100000 | Q: 609.803284 | won: True
+Red team starts
+GAME IS OVER
+#  836 | steps: 209347 | steps_t: 160153 | t: 21398.603604 | r: -1380.000000 | e:   0.100000 | Q: 234.951294 | won: False
+Blue team starts
+GAME IS OVER
+#  837 | steps: 209515 | steps_t: 160276 | t: 21416.756720 | r: -1090.000000 | e:   0.100000 | Q: 229.089890 | won: False
+Blue team starts
+GAME IS OVER
+#  838 | steps: 209816 | steps_t: 160532 | t: 21457.226788 | r:  3180.000000 | e:   0.100000 | Q: 572.800354 | won: True
+Blue team starts
+Model saved
+GAME IS OVER
+#  839 | steps: 210117 | steps_t: 160791 | t: 21497.312352 | r:   720.000000 | e:   0.100000 | Q: 451.989838 | won: True
+Blue team starts
+GAME IS OVER
+#  840 | steps: 210418 | steps_t: 161042 | t: 21537.634859 | r:  1840.000000 | e:   0.100000 | Q: 506.649353 | won: True
+Blue team starts
+GAME IS OVER
+#  841 | steps: 210719 | steps_t: 161288 | t: 21578.588628 | r:  2380.000000 | e:   0.100000 | Q: 436.760193 | won: True
+Red team starts
+GAME IS OVER
+#  842 | steps: 211020 | steps_t: 161547 | t: 21619.638826 | r:  2970.000000 | e:   0.100000 | Q: 541.227356 | won: True
+Blue team starts
+GAME IS OVER
+#  843 | steps: 211282 | steps_t: 161764 | t: 21655.006715 | r: -3610.000000 | e:   0.100000 | Q: 330.057831 | won: False
+Red team starts
+GAME IS OVER
+#  844 | steps: 211497 | steps_t: 161928 | t: 21684.907804 | r:  -600.000000 | e:   0.100000 | Q: 385.814484 | won: False
+Blue team starts
+GAME IS OVER
+#  845 | steps: 211798 | steps_t: 162184 | t: 21729.553287 | r:  2350.000000 | e:   0.100000 | Q: 438.400604 | won: True
+Red team starts
+GAME IS OVER
+#  846 | steps: 212099 | steps_t: 162444 | t: 21773.131057 | r:  3030.000000 | e:   0.100000 | Q: 546.202637 | won: True
+Blue team starts
+GAME IS OVER
+#  847 | steps: 212400 | steps_t: 162703 | t: 21816.673769 | r:  2740.000000 | e:   0.100000 | Q: 513.244141 | won: True
+Red team starts
+GAME IS OVER
+#  848 | steps: 212701 | steps_t: 162962 | t: 21858.273511 | r:  2660.000000 | e:   0.100000 | Q: 504.266479 | won: True
+Blue team starts
+GAME IS OVER
+#  849 | steps: 213002 | steps_t: 163213 | t: 21901.260677 | r:  1590.000000 | e:   0.100000 | Q: 441.590729 | won: True
+Red team starts
+GAME IS OVER
+#  850 | steps: 213303 | steps_t: 163459 | t: 21940.960743 | r:  2900.000000 | e:   0.100000 | Q: 420.295563 | won: True
+Blue team starts
+GAME IS OVER
+#  851 | steps: 213604 | steps_t: 163704 | t: 21983.829308 | r:  3030.000000 | e:   0.100000 | Q: 492.288696 | won: True
+Red team starts
+GAME IS OVER
+#  852 | steps: 213871 | steps_t: 163930 | t: 22027.763555 | r: -3510.000000 | e:   0.100000 | Q: 394.761566 | won: False
+Blue team starts
+GAME IS OVER
+#  853 | steps: 214086 | steps_t: 164094 | t: 22065.582943 | r:  -730.000000 | e:   0.100000 | Q: 305.045593 | won: False
+Blue team starts
+GAME IS OVER
+#  854 | steps: 214387 | steps_t: 164339 | t: 22108.932451 | r:  2620.000000 | e:   0.100000 | Q: 369.546570 | won: True
+Red team starts
+GAME IS OVER
+#  855 | steps: 214688 | steps_t: 164595 | t: 22147.953011 | r:  3150.000000 | e:   0.100000 | Q: 490.420654 | won: True
+Blue team starts
+GAME IS OVER
+#  856 | steps: 214989 | steps_t: 164842 | t: 22192.168744 | r:  2550.000000 | e:   0.100000 | Q: 377.478455 | won: True
+Blue team starts
+GAME IS OVER
+#  857 | steps: 215205 | steps_t: 165004 | t: 22220.709846 | r: -1150.000000 | e:   0.100000 | Q: 227.251678 | won: False
+Red team starts
+GAME IS OVER
+#  858 | steps: 215506 | steps_t: 165251 | t: 22265.405607 | r:  2080.000000 | e:   0.100000 | Q: 471.342133 | won: True
+Blue team starts
+GAME IS OVER
+#  859 | steps: 215807 | steps_t: 165511 | t: 22309.912213 | r:  2120.000000 | e:   0.100000 | Q: 538.870178 | won: True
+Blue team starts
+GAME IS OVER
+#  860 | steps: 216026 | steps_t: 165680 | t: 22339.192495 | r: -1480.000000 | e:   0.100000 | Q: 304.579895 | won: False
+Red team starts
+GAME IS OVER
+#  861 | steps: 216327 | steps_t: 165940 | t: 22382.182241 | r:  1760.000000 | e:   0.100000 | Q: 478.646027 | won: True
+Blue team starts
+GAME IS OVER
+#  862 | steps: 216495 | steps_t: 166066 | t: 22405.602158 | r: -1030.000000 | e:   0.100000 | Q: 162.589645 | won: False
+Blue team starts
+GAME IS OVER
+#  863 | steps: 216766 | steps_t: 166287 | t: 22444.677992 | r: -1300.000000 | e:   0.100000 | Q: 317.131927 | won: False
+Red team starts
+GAME IS OVER
+#  864 | steps: 217067 | steps_t: 166532 | t: 22486.588932 | r:  3020.000000 | e:   0.100000 | Q: 385.101196 | won: True
+Blue team starts
+GAME IS OVER
+#  865 | steps: 217368 | steps_t: 166788 | t: 22528.954997 | r:  2640.000000 | e:   0.100000 | Q: 624.816589 | won: True
+Blue team starts
+GAME IS OVER
+#  866 | steps: 217669 | steps_t: 167044 | t: 22576.551251 | r:  2700.000000 | e:   0.100000 | Q: 296.416168 | won: True
+Red team starts
+GAME IS OVER
+#  867 | steps: 217970 | steps_t: 167289 | t: 22618.518621 | r:  2100.000000 | e:   0.100000 | Q: 563.049072 | won: True
+Blue team starts
+GAME IS OVER
+#  868 | steps: 218271 | steps_t: 167548 | t: 22659.553367 | r:  2390.000000 | e:   0.100000 | Q: 543.623901 | won: True
+Red team starts
+GAME IS OVER
+#  869 | steps: 218535 | steps_t: 167762 | t: 22696.009202 | r: -1200.000000 | e:   0.100000 | Q: 248.545471 | won: False
+Blue team starts
+GAME IS OVER
+#  870 | steps: 218751 | steps_t: 167924 | t: 22724.472433 | r: -1250.000000 | e:   0.100000 | Q: 260.194122 | won: False
+Blue team starts
+GAME IS OVER
+#  871 | steps: 219052 | steps_t: 168169 | t: 22764.402380 | r:  2280.000000 | e:   0.100000 | Q: 378.981903 | won: True
+Blue team starts
+GAME IS OVER
+#  872 | steps: 219353 | steps_t: 168419 | t: 22808.803385 | r:  2030.000000 | e:   0.100000 | Q: 368.044159 | won: True
+Red team starts
+GAME IS OVER
+#  873 | steps: 219570 | steps_t: 168581 | t: 22834.370256 | r:  -960.000000 | e:   0.100000 | Q: 475.501282 | won: False
+Red team starts
+GAME IS OVER
+#  874 | steps: 219788 | steps_t: 168743 | t: 22860.103057 | r: -1500.000000 | e:   0.100000 | Q: 338.238525 | won: False
+Red team starts
+Model saved
+GAME IS OVER
+#  875 | steps: 220089 | steps_t: 168988 | t: 22898.165393 | r:  2880.000000 | e:   0.100000 | Q: 505.511719 | won: True
+Blue team starts
+GAME IS OVER
+#  876 | steps: 220348 | steps_t: 169196 | t: 22935.599884 | r: -1560.000000 | e:   0.100000 | Q: 239.758148 | won: False
+Red team starts
+GAME IS OVER
+#  877 | steps: 220568 | steps_t: 169360 | t: 22963.064303 | r: -1370.000000 | e:   0.100000 | Q: 285.863129 | won: False
+Blue team starts
+GAME IS OVER
+#  878 | steps: 220786 | steps_t: 169523 | t: 23025.062740 | r: -1600.000000 | e:   0.100000 | Q: 223.740936 | won: False
+Blue team starts
+GAME IS OVER
+#  879 | steps: 221006 | steps_t: 169689 | t: 23056.359182 | r: -1420.000000 | e:   0.100000 | Q: 153.812500 | won: False
+Blue team starts
+GAME IS OVER
+#  880 | steps: 221307 | steps_t: 169948 | t: 23107.533169 | r:  2860.000000 | e:   0.100000 | Q: 575.696777 | won: True
+Blue team starts
+GAME IS OVER
+#  881 | steps: 221580 | steps_t: 170171 | t: 23145.658420 | r:  -420.000000 | e:   0.100000 | Q: 394.718567 | won: False
+Red team starts
+GAME IS OVER
+#  882 | steps: 221881 | steps_t: 170430 | t: 23191.215390 | r:  2670.000000 | e:   0.100000 | Q: 541.314270 | won: True
+Red team starts
+GAME IS OVER
+#  883 | steps: 222182 | steps_t: 170689 | t: 23230.840247 | r:  2770.000000 | e:   0.100000 | Q: 583.279419 | won: True
+Blue team starts
+GAME IS OVER
+#  884 | steps: 222483 | steps_t: 170934 | t: 23271.437150 | r:  2520.000000 | e:   0.100000 | Q: 421.287201 | won: True
+Blue team starts
+GAME IS OVER
+#  885 | steps: 222784 | steps_t: 171185 | t: 23314.358391 | r:  1860.000000 | e:   0.100000 | Q: 437.817780 | won: True
+Red team starts
+GAME IS OVER
+#  886 | steps: 222999 | steps_t: 171350 | t: 23340.487031 | r: -1130.000000 | e:   0.100000 | Q: 325.812286 | won: False
+Blue team starts
+GAME IS OVER
+#  887 | steps: 223261 | steps_t: 171561 | t: 23381.124907 | r: -1860.000000 | e:   0.100000 | Q: 211.801666 | won: False
+Blue team starts
+GAME IS OVER
+#  888 | steps: 223562 | steps_t: 171808 | t: 23425.784099 | r:  1990.000000 | e:   0.100000 | Q: 412.816315 | won: True
+Red team starts
+GAME IS OVER
+#  889 | steps: 223778 | steps_t: 171969 | t: 23452.876701 | r: -1360.000000 | e:   0.100000 | Q: 310.609772 | won: False
+Blue team starts
+GAME IS OVER
+#  890 | steps: 224079 | steps_t: 172214 | t: 23495.653356 | r:  2620.000000 | e:   0.100000 | Q: 418.324921 | won: True
+Blue team starts
+GAME IS OVER
+#  891 | steps: 224299 | steps_t: 172379 | t: 23523.996093 | r: -1340.000000 | e:   0.100000 | Q: 410.688110 | won: False
+Blue team starts
+GAME IS OVER
+#  892 | steps: 224600 | steps_t: 172638 | t: 23569.218179 | r:  1560.000000 | e:   0.100000 | Q: 426.400757 | won: True
+Red team starts
+GAME IS OVER
+#  893 | steps: 224815 | steps_t: 172803 | t: 23597.586720 | r: -1410.000000 | e:   0.100000 | Q: 330.225647 | won: False
+Red team starts
+GAME IS OVER
+#  894 | steps: 225116 | steps_t: 173049 | t: 23642.096647 | r:  2120.000000 | e:   0.100000 | Q: 298.899963 | won: True
+Blue team starts
+GAME IS OVER
+#  895 | steps: 225335 | steps_t: 173217 | t: 23671.273549 | r: -1210.000000 | e:   0.100000 | Q: 399.348694 | won: False
+Blue team starts
+GAME IS OVER
+#  896 | steps: 225503 | steps_t: 173340 | t: 23689.979985 | r: -1190.000000 | e:   0.100000 | Q: 316.249115 | won: False
+Blue team starts
+GAME IS OVER
+#  897 | steps: 225719 | steps_t: 173500 | t: 23716.522294 | r: -1480.000000 | e:   0.100000 | Q: 180.838287 | won: False
+Red team starts
+GAME IS OVER
+#  898 | steps: 225889 | steps_t: 173629 | t: 23739.097895 | r: -1140.000000 | e:   0.100000 | Q: 268.077271 | won: False
+Red team starts
+GAME IS OVER
+#  899 | steps: 226155 | steps_t: 173850 | t: 23773.871804 | r:  -610.000000 | e:   0.100000 | Q: 503.527863 | won: False
+Blue team starts
+GAME IS OVER
+#  900 | steps: 226456 | steps_t: 174109 | t: 23819.996765 | r:  2670.000000 | e:   0.100000 | Q: 568.231812 | won: True
+Red team starts
+GAME IS OVER
+#  901 | steps: 226752 | steps_t: 174349 | t: 23844.713770 | r: -2350.000000 | e:   0.100000 | Q: 217.673767 | won: False
+Red team starts
+GAME IS OVER
+#  902 | steps: 226970 | steps_t: 174511 | t: 23859.382487 | r: -1260.000000 | e:   0.100000 | Q: 195.480209 | won: False
+Blue team starts
+GAME IS OVER
+#  903 | steps: 227186 | steps_t: 174673 | t: 23873.556449 | r: -1060.000000 | e:   0.100000 | Q: 278.349915 | won: False
+Blue team starts
+GAME IS OVER
+#  904 | steps: 227445 | steps_t: 174887 | t: 23892.988000 | r:  -680.000000 | e:   0.100000 | Q: 501.522858 | won: False
+Red team starts
+GAME IS OVER
+#  905 | steps: 227746 | steps_t: 175143 | t: 23915.974323 | r:  3030.000000 | e:   0.100000 | Q: 497.434296 | won: True
+Red team starts
+GAME IS OVER
+#  906 | steps: 227998 | steps_t: 175354 | t: 23932.841414 | r:  -520.000000 | e:   0.100000 | Q: 491.797791 | won: False
+Red team starts
+GAME IS OVER
+#  907 | steps: 228214 | steps_t: 175514 | t: 23947.065606 | r: -1400.000000 | e:   0.100000 | Q: 168.340271 | won: False
+Red team starts
+GAME IS OVER
+#  908 | steps: 228384 | steps_t: 175642 | t: 23962.191053 | r: -1280.000000 | e:   0.100000 | Q: 255.112183 | won: False
+Blue team starts
+GAME IS OVER
+#  909 | steps: 228601 | steps_t: 175809 | t: 23981.089777 | r: -1200.000000 | e:   0.100000 | Q: 215.145447 | won: False
+Blue team starts
+GAME IS OVER
+#  910 | steps: 228902 | steps_t: 176059 | t: 24016.138252 | r:  1330.000000 | e:   0.100000 | Q: 291.539154 | won: True
+Red team starts
+GAME IS OVER
+#  911 | steps: 229203 | steps_t: 176304 | t: 24050.925044 | r:  2240.000000 | e:   0.100000 | Q: 378.118744 | won: True
+Red team starts
+GAME IS OVER
+#  912 | steps: 229504 | steps_t: 176563 | t: 24080.930349 | r:  3050.000000 | e:   0.100000 | Q: 535.836792 | won: True
+Blue team starts
+GAME IS OVER
+#  913 | steps: 229805 | steps_t: 176819 | t: 24111.426747 | r:  2990.000000 | e:   0.100000 | Q: 539.550964 | won: True
+Red team starts
+GAME IS OVER
+#  914 | steps: 229977 | steps_t: 176949 | t: 24125.595559 | r: -2220.000000 | e:   0.100000 | Q: 452.990417 | won: False
+Red team starts
+GAME IS OVER
+#  915 | steps: 230278 | steps_t: 177199 | t: 24155.029189 | r:  2760.000000 | e:   0.100000 | Q: 478.408661 | won: True
+Blue team starts
+GAME IS OVER
+#  916 | steps: 230446 | steps_t: 177326 | t: 24170.163605 | r:  -960.000000 | e:   0.100000 | Q: 303.367798 | won: False
+Blue team starts
+GAME IS OVER
+#  917 | steps: 230662 | steps_t: 177488 | t: 24188.166398 | r: -1020.000000 | e:   0.100000 | Q: 206.447357 | won: False
+Red team starts
+GAME IS OVER
+#  918 | steps: 230925 | steps_t: 177700 | t: 24216.600066 | r: -1220.000000 | e:   0.100000 | Q: 192.343735 | won: False
+Red team starts
+GAME IS OVER
+#  919 | steps: 231093 | steps_t: 177826 | t: 24231.862063 | r: -1220.000000 | e:   0.100000 | Q: 218.014252 | won: False
+Blue team starts
+GAME IS OVER
+#  920 | steps: 231366 | steps_t: 178054 | t: 24256.753455 | r:  -360.000000 | e:   0.100000 | Q: 524.215881 | won: False
+Red team starts
+GAME IS OVER
+#  921 | steps: 231667 | steps_t: 178301 | t: 24286.013073 | r:  3380.000000 | e:   0.100000 | Q: 608.569763 | won: True
+Blue team starts
+GAME IS OVER
+#  922 | steps: 231885 | steps_t: 178465 | t: 24306.077533 | r: -1900.000000 | e:   0.100000 | Q: 265.098236 | won: False
+Red team starts
+GAME IS OVER
+#  923 | steps: 232186 | steps_t: 178721 | t: 24337.822913 | r:  2520.000000 | e:   0.100000 | Q: 356.311340 | won: True
+Blue team starts
+GAME IS OVER
+#  924 | steps: 232487 | steps_t: 178981 | t: 24372.311301 | r:  1980.000000 | e:   0.100000 | Q: 621.833923 | won: True
+Blue team starts
+GAME IS OVER
+#  925 | steps: 232788 | steps_t: 179227 | t: 24402.816234 | r:  3020.000000 | e:   0.100000 | Q: 356.685913 | won: True
+Blue team starts
+GAME IS OVER
+#  926 | steps: 233003 | steps_t: 179392 | t: 24422.637998 | r:  -950.000000 | e:   0.100000 | Q: 272.145874 | won: False
+Blue team starts
+GAME IS OVER
+#  927 | steps: 233304 | steps_t: 179637 | t: 24456.124540 | r:  1820.000000 | e:   0.100000 | Q: 382.814941 | won: True
+Blue team starts
+GAME IS OVER
+#  928 | steps: 233605 | steps_t: 179893 | t: 24488.986358 | r:  2510.000000 | e:   0.100000 | Q: 560.912781 | won: True
+Red team starts
+GAME IS OVER
+#  929 | steps: 233906 | steps_t: 180138 | t: 24520.527275 | r:  2860.000000 | e:   0.100000 | Q: 538.588867 | won: True
+Blue team starts
+GAME IS OVER
+#  930 | steps: 234207 | steps_t: 180385 | t: 24549.401055 | r:  2800.000000 | e:   0.100000 | Q: 565.101440 | won: True
+Blue team starts
+GAME IS OVER
+#  931 | steps: 234423 | steps_t: 180550 | t: 24571.080144 | r: -1290.000000 | e:   0.100000 | Q: 202.004730 | won: False
+Blue team starts
+GAME IS OVER
+#  932 | steps: 234724 | steps_t: 180796 | t: 24600.282310 | r:  2290.000000 | e:   0.100000 | Q: 429.020416 | won: True
+Blue team starts
+GAME IS OVER
+#  933 | steps: 235025 | steps_t: 181043 | t: 24670.466449 | r:  2220.000000 | e:   0.100000 | Q: 653.300049 | won: True
+Red team starts
+GAME IS OVER
+#  934 | steps: 235326 | steps_t: 181294 | t: 24707.219790 | r:  3260.000000 | e:   0.100000 | Q: 468.749603 | won: True
+Red team starts
+GAME IS OVER
+#  935 | steps: 235627 | steps_t: 181545 | t: 24739.441573 | r:  2220.000000 | e:   0.100000 | Q: 449.084656 | won: True
+Blue team starts
+GAME IS OVER
+#  936 | steps: 235843 | steps_t: 181706 | t: 24757.777058 | r:  -960.000000 | e:   0.100000 | Q: 413.032745 | won: False
+Red team starts
+GAME IS OVER
+#  937 | steps: 236128 | steps_t: 181936 | t: 24786.316053 | r:  -660.000000 | e:   0.100000 | Q: 249.247925 | won: False
+Blue team starts
+GAME IS OVER
+#  938 | steps: 236429 | steps_t: 182182 | t: 24818.478244 | r:  1900.000000 | e:   0.100000 | Q: 355.955780 | won: True
+Blue team starts
+GAME IS OVER
+#  939 | steps: 236703 | steps_t: 182401 | t: 24841.724293 | r:  -640.000000 | e:   0.100000 | Q: 310.963287 | won: False
+Red team starts
+GAME IS OVER
+#  940 | steps: 236876 | steps_t: 182532 | t: 24857.851412 | r:  -890.000000 | e:   0.100000 | Q: 239.771591 | won: False
+Red team starts
+GAME IS OVER
+#  941 | steps: 237095 | steps_t: 182700 | t: 24877.482694 | r: -1030.000000 | e:   0.100000 | Q: 294.808868 | won: False
+Red team starts
+GAME IS OVER
+#  942 | steps: 237311 | steps_t: 182860 | t: 24895.590196 | r: -1440.000000 | e:   0.100000 | Q: 253.173355 | won: False
+Red team starts
+GAME IS OVER
+#  943 | steps: 237479 | steps_t: 182983 | t: 24908.848084 | r: -1120.000000 | e:   0.100000 | Q: 234.600662 | won: False
+Blue team starts
+GAME IS OVER
+#  944 | steps: 237710 | steps_t: 183164 | t: 24928.590301 | r:  -400.000000 | e:   0.100000 | Q: 394.132141 | won: False
+Blue team starts
+GAME IS OVER
+#  945 | steps: 238011 | steps_t: 183414 | t: 24962.256158 | r:  3150.000000 | e:   0.100000 | Q: 339.765503 | won: True
+Red team starts
+GAME IS OVER
+#  946 | steps: 238179 | steps_t: 183537 | t: 24979.600984 | r: -1760.000000 | e:   0.100000 | Q: 269.979950 | won: False
+Red team starts
+GAME IS OVER
+#  947 | steps: 238480 | steps_t: 183796 | t: 25007.669364 | r:  2650.000000 | e:   0.100000 | Q: 423.515808 | won: True
+Red team starts
+GAME IS OVER
+#  948 | steps: 238695 | steps_t: 183961 | t: 25028.135685 | r: -1560.000000 | e:   0.100000 | Q: 130.781250 | won: False
+Red team starts
+GAME IS OVER
+#  949 | steps: 238996 | steps_t: 184221 | t: 25056.048408 | r:  2890.000000 | e:   0.100000 | Q: 462.846954 | won: True
+Red team starts
+GAME IS OVER
+#  950 | steps: 239164 | steps_t: 184344 | t: 25069.554721 | r: -1180.000000 | e:   0.100000 | Q: 253.193405 | won: False
+Red team starts
+GAME IS OVER
+#  951 | steps: 239426 | steps_t: 184552 | t: 25095.331770 | r: -1160.000000 | e:   0.100000 | Q: 378.142517 | won: False
+Blue team starts
+GAME IS OVER
+#  952 | steps: 239646 | steps_t: 184718 | t: 25115.683958 | r: -1350.000000 | e:   0.100000 | Q: 327.190491 | won: False
+Red team starts
+GAME IS OVER
+#  953 | steps: 239865 | steps_t: 184887 | t: 25136.335878 | r: -1660.000000 | e:   0.100000 | Q: 177.823288 | won: False
+Blue team starts
+Model saved
+GAME IS OVER
+#  954 | steps: 240035 | steps_t: 185016 | t: 25152.643642 | r: -1200.000000 | e:   0.100000 | Q: 298.067719 | won: False
+Blue team starts
+GAME IS OVER
+#  955 | steps: 240292 | steps_t: 185232 | t: 25180.293908 | r:  -150.000000 | e:   0.100000 | Q: 594.784973 | won: False
+Red team starts
+GAME IS OVER
+#  956 | steps: 240508 | steps_t: 185392 | t: 25198.864403 | r: -1350.000000 | e:   0.100000 | Q: 471.553619 | won: False
+Red team starts
+GAME IS OVER
+#  957 | steps: 240762 | steps_t: 185605 | t: 25221.679454 | r: -1110.000000 | e:   0.100000 | Q: 488.223022 | won: False
+Blue team starts
+GAME IS OVER
+#  958 | steps: 241063 | steps_t: 185855 | t: 25249.442651 | r:  1960.000000 | e:   0.100000 | Q: 502.420868 | won: True
+Red team starts
+GAME IS OVER
+#  959 | steps: 241283 | steps_t: 186021 | t: 25268.525404 | r: -1630.000000 | e:   0.100000 | Q: 247.135208 | won: False
+Red team starts
+GAME IS OVER
+#  960 | steps: 241499 | steps_t: 186183 | t: 25287.495473 | r: -1010.000000 | e:   0.100000 | Q: 246.148300 | won: False
+Red team starts
+GAME IS OVER
+#  961 | steps: 241676 | steps_t: 186318 | t: 25301.382100 | r: -1010.000000 | e:   0.100000 | Q: 275.532349 | won: False
+Red team starts
+GAME IS OVER
+#  962 | steps: 241891 | steps_t: 186483 | t: 25323.504798 | r: -1560.000000 | e:   0.100000 | Q: 288.108978 | won: False
+Blue team starts
+GAME IS OVER
+#  963 | steps: 242192 | steps_t: 186743 | t: 25357.324547 | r:  2110.000000 | e:   0.100000 | Q: 567.268066 | won: True
+Red team starts
+GAME IS OVER
+#  964 | steps: 242493 | steps_t: 186999 | t: 25391.361244 | r:  1640.000000 | e:   0.100000 | Q: 575.252686 | won: True
+Blue team starts
+GAME IS OVER
+#  965 | steps: 242760 | steps_t: 187211 | t: 25417.296502 | r:  -760.000000 | e:   0.100000 | Q: 257.830414 | won: False
+Blue team starts
+GAME IS OVER
+#  966 | steps: 242975 | steps_t: 187375 | t: 25436.026686 | r: -1610.000000 | e:   0.100000 | Q: 239.360672 | won: False
+Blue team starts
+GAME IS OVER
+#  967 | steps: 243276 | steps_t: 187625 | t: 25467.059524 | r:  1800.000000 | e:   0.100000 | Q: 403.262665 | won: True
+Red team starts
+GAME IS OVER
+#  968 | steps: 243557 | steps_t: 187850 | t: 25492.792916 | r:  -220.000000 | e:   0.100000 | Q: 331.779846 | won: False
+Red team starts
+GAME IS OVER
+#  969 | steps: 243858 | steps_t: 188109 | t: 25526.199083 | r:  2590.000000 | e:   0.100000 | Q: 373.874390 | won: True
+Blue team starts
+GAME IS OVER
+#  970 | steps: 244159 | steps_t: 188360 | t: 25560.488487 | r:  3120.000000 | e:   0.100000 | Q: 285.517853 | won: True
+Red team starts
+GAME IS OVER
+#  971 | steps: 244460 | steps_t: 188619 | t: 25591.276464 | r: -1940.000000 | e:   0.100000 | Q: 550.295837 | won: True
+Blue team starts
+GAME IS OVER
+#  972 | steps: 244761 | steps_t: 188875 | t: 25618.788332 | r:  2960.000000 | e:   0.100000 | Q: 554.261292 | won: True
+Blue team starts
+GAME IS OVER
+#  973 | steps: 244979 | steps_t: 189039 | t: 25640.502547 | r: -1320.000000 | e:   0.100000 | Q: 290.948822 | won: False
+Red team starts
+GAME IS OVER
+#  974 | steps: 245280 | steps_t: 189299 | t: 25673.808270 | r:  2600.000000 | e:   0.100000 | Q: 355.809448 | won: True
+Blue team starts
+GAME IS OVER
+#  975 | steps: 245448 | steps_t: 189426 | t: 25690.176293 | r:  -950.000000 | e:   0.100000 | Q: 294.351990 | won: False
+Blue team starts
+GAME IS OVER
+#  976 | steps: 245749 | steps_t: 189685 | t: 25725.758240 | r:  2340.000000 | e:   0.100000 | Q: 567.303589 | won: True
+Red team starts
+GAME IS OVER
+#  977 | steps: 246050 | steps_t: 189941 | t: 25758.460832 | r:  3220.000000 | e:   0.100000 | Q: 674.074097 | won: True
+Red team starts
+GAME IS OVER
+#  978 | steps: 246269 | steps_t: 190106 | t: 25779.247647 | r: -1380.000000 | e:   0.100000 | Q: 304.731049 | won: False
+Red team starts
+GAME IS OVER
+#  979 | steps: 246570 | steps_t: 190356 | t: 25806.491387 | r:  2860.000000 | e:   0.100000 | Q: 435.820953 | won: True
+Red team starts
+GAME IS OVER
+#  980 | steps: 246742 | steps_t: 190486 | t: 25822.664009 | r:  -920.000000 | e:   0.100000 | Q: 193.618820 | won: False
+Blue team starts
+GAME IS OVER
+#  981 | steps: 246912 | steps_t: 190614 | t: 25837.707543 | r:  -890.000000 | e:   0.100000 | Q: 271.225769 | won: False
+Red team starts
+GAME IS OVER
+#  982 | steps: 247213 | steps_t: 190861 | t: 25867.558784 | r:  2840.000000 | e:   0.100000 | Q: 448.409027 | won: True
+Blue team starts
+GAME IS OVER
+#  983 | steps: 247514 | steps_t: 191112 | t: 25900.630467 | r:  2590.000000 | e:   0.100000 | Q: 470.445526 | won: True
+Blue team starts
+GAME IS OVER
+#  984 | steps: 247734 | steps_t: 191276 | t: 25924.912385 | r: -1050.000000 | e:   0.100000 | Q: 270.255371 | won: False
+Red team starts
+GAME IS OVER
+#  985 | steps: 248035 | steps_t: 191536 | t: 25956.774653 | r:  2870.000000 | e:   0.100000 | Q: 606.317078 | won: True
+Blue team starts
+GAME IS OVER
+#  986 | steps: 248252 | steps_t: 191699 | t: 25976.212486 | r:  -820.000000 | e:   0.100000 | Q: 288.117401 | won: False
+Blue team starts
+GAME IS OVER
+#  987 | steps: 248553 | steps_t: 191959 | t: 26011.383678 | r:  2810.000000 | e:   0.100000 | Q: 361.235321 | won: True
+Red team starts
+GAME IS OVER
+#  988 | steps: 248771 | steps_t: 192122 | t: 26035.301392 | r: -1630.000000 | e:   0.100000 | Q: 269.817444 | won: False
+Red team starts
+GAME IS OVER
+#  989 | steps: 249072 | steps_t: 192368 | t: 26064.842896 | r:  1350.000000 | e:   0.100000 | Q: 616.236511 | won: True
+Blue team starts
+GAME IS OVER
+#  990 | steps: 249373 | steps_t: 192614 | t: 26093.540362 | r:  2290.000000 | e:   0.100000 | Q: 476.871613 | won: True
+Model saved
+Blue team starts
+Time is up.
+Tie game!
+GAME IS OVER
+#  991 | steps: 249674 | steps_t: 192865 | t: 26142.215742 | r:  -260.000000 | e:   0.100000 | Q: 313.100159 | won: False
+Blue team starts
+Time is up.
+The Red team wins by 13 points.
+GAME IS OVER
+#  992 | steps: 249975 | steps_t: 193115 | t: 26189.542126 | r:  1940.000000 | e:   0.100000 | Q: 563.247681 | won: True
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  993 | steps: 250195 | steps_t: 193281 | t: 26264.352881 | r: -1190.000000 | e:   0.100000 | Q: 278.439484 | won: False
+Blue team starts
+Time is up.
+The Red team wins by 13 points.
+GAME IS OVER
+#  994 | steps: 250496 | steps_t: 193531 | t: 26318.733245 | r:  2510.000000 | e:   0.100000 | Q: 401.190308 | won: True
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  995 | steps: 250664 | steps_t: 193658 | t: 26344.012057 | r: -1180.000000 | e:   0.100000 | Q: 284.305481 | won: False
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  996 | steps: 250938 | steps_t: 193890 | t: 26382.751739 | r: -1890.000000 | e:   0.100000 | Q: 367.817596 | won: False
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  997 | steps: 251211 | steps_t: 194107 | t: 26424.700244 | r:  -830.000000 | e:   0.100000 | Q: 435.088623 | won: False
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  998 | steps: 251427 | steps_t: 194267 | t: 26461.379210 | r: -1360.000000 | e:   0.100000 | Q: 197.491989 | won: False
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#  999 | steps: 251642 | steps_t: 194431 | t: 26498.841685 | r: -1440.000000 | e:   0.100000 | Q: 198.803284 | won: False
+Red team starts
+Time is up.
+The Red team wins by 25 points.
+GAME IS OVER
+# 1000 | steps: 251943 | steps_t: 194691 | t: 26558.245523 | r:  2060.000000 | e:   0.100000 | Q: 559.201416 | won: True
+10
+Average Score: -6.2
+Scores:        0, 13, -20, 13, -26, -5, -9, -25, -28, 25
+Red Win Rate:  3/10 (0.30)
+Blue Win Rate: 6/10 (0.60)
+Record:        Tie, Red, Blue, Red, Blue, Blue, Blue, Blue, Blue, Red

@@ -1,0 +1,256 @@
+2024-04-09 17:22:06,079 INFO    StreamThr :3171 [internal.py:wandb_internal():86] W&B internal server running at pid: 3171, started at: 2024-04-09 17:22:06.079004
+2024-04-09 17:22:06,080 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status
+2024-04-09 17:22:06,087 INFO    WriterThread:3171 [datastore.py:open_for_write():87] open: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/run-qitdia0z.wandb
+2024-04-09 17:22:06,088 DEBUG   SenderThread:3171 [sender.py:send():379] send: header
+2024-04-09 17:22:06,089 DEBUG   SenderThread:3171 [sender.py:send():379] send: run
+2024-04-09 17:22:07,369 INFO    SenderThread:3171 [dir_watcher.py:__init__():211] watching files in: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files
+2024-04-09 17:22:07,369 INFO    SenderThread:3171 [sender.py:_start_run_threads():1124] run started: qitdia0z with start time 1712654526.08129
+2024-04-09 17:22:07,373 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: check_version
+2024-04-09 17:22:07,373 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: check_version
+2024-04-09 17:22:09,593 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: run_start
+2024-04-09 17:22:09,603 DEBUG   HandlerThread:3171 [system_info.py:__init__():26] System info init
+2024-04-09 17:22:09,603 DEBUG   HandlerThread:3171 [system_info.py:__init__():41] System info init done
+2024-04-09 17:22:09,603 INFO    HandlerThread:3171 [system_monitor.py:start():194] Starting system monitor
+2024-04-09 17:22:09,603 INFO    SystemMonitor:3171 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-04-09 17:22:09,604 INFO    HandlerThread:3171 [system_monitor.py:probe():214] Collecting system info
+2024-04-09 17:22:09,604 DEBUG   HandlerThread:3171 [system_info.py:probe():150] Probing system
+2024-04-09 17:22:09,604 INFO    SystemMonitor:3171 [interfaces.py:start():190] Started cpu monitoring
+2024-04-09 17:22:09,607 INFO    SystemMonitor:3171 [interfaces.py:start():190] Started disk monitoring
+2024-04-09 17:22:09,607 INFO    SystemMonitor:3171 [interfaces.py:start():190] Started memory monitoring
+2024-04-09 17:22:09,608 INFO    SystemMonitor:3171 [interfaces.py:start():190] Started network monitoring
+2024-04-09 17:22:09,613 DEBUG   HandlerThread:3171 [gitlib.py:_init_repo():56] git repository is invalid
+2024-04-09 17:22:09,614 DEBUG   HandlerThread:3171 [system_info.py:probe():198] Probing system done
+2024-04-09 17:22:09,614 DEBUG   HandlerThread:3171 [system_monitor.py:probe():223] {'os': 'macOS-10.16-x86_64-i386-64bit', 'python': '3.11.5', 'heartbeatAt': '2024-04-09T09:22:09.604688', 'startedAt': '2024-04-09T09:22:06.071673', 'docker': None, 'cuda': None, 'args': ('-r', 'myTeam', '-b', 'baselineTeam', '-n', '10', '-x', '0', '-l', 'RANDOM99'), 'state': 'running', 'program': '/Users/iori/Desktop/PacmanAI/src/capture.py', 'codePathLocal': 'capture.py', 'codePath': 'capture.py', 'host': 'dingxiangbaopozhuangzhi.local', 'username': 'iori', 'executable': '/Users/iori/anaconda3/bin/python', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2300, 'min': 2300, 'max': 2300}, 'cpu_freq_per_core': [{'current': 2300, 'min': 2300, 'max': 2300}], 'disk': {'/': {'total': 931.546989440918, 'used': 14.259651184082031}}, 'memory': {'total': 16.0}}
+2024-04-09 17:22:09,614 INFO    HandlerThread:3171 [system_monitor.py:probe():224] Finished collecting system info
+2024-04-09 17:22:09,614 INFO    HandlerThread:3171 [system_monitor.py:probe():227] Publishing system info
+2024-04-09 17:22:09,614 DEBUG   HandlerThread:3171 [system_info.py:_save_conda():207] Saving list of conda packages installed into the current environment
+2024-04-09 17:22:10,381 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/conda-environment.yaml
+2024-04-09 17:22:16,915 DEBUG   HandlerThread:3171 [system_info.py:_save_conda():222] Saving conda packages done
+2024-04-09 17:22:16,918 INFO    HandlerThread:3171 [system_monitor.py:probe():229] Finished publishing system info
+2024-04-09 17:22:16,935 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:16,935 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: keepalive
+2024-04-09 17:22:16,935 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:16,935 DEBUG   SenderThread:3171 [sender.py:send():379] send: files
+2024-04-09 17:22:16,936 INFO    SenderThread:3171 [sender.py:_save_file():1390] saving file wandb-metadata.json with policy now
+2024-04-09 17:22:17,406 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/conda-environment.yaml
+2024-04-09 17:22:17,406 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/wandb-metadata.json
+2024-04-09 17:22:17,607 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: python_packages
+2024-04-09 17:22:17,608 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: python_packages
+2024-04-09 17:22:17,608 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:22:17,608 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:22:17,609 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:22:18,407 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/requirements.txt
+2024-04-09 17:22:18,717 DEBUG   SenderThread:3171 [sender.py:send():379] send: telemetry
+2024-04-09 17:22:18,719 INFO    wandb-upload_0:3171 [upload_job.py:push():131] Uploaded file /var/folders/98/t8pvt5rd01bcnm_pyxp855fh0000gn/T/tmpybpuru0_wandb/26h91ex3-wandb-metadata.json
+2024-04-09 17:22:19,408 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:22:21,413 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:22:21,734 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:26,747 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:31,760 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:32,608 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:22:32,608 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:22:32,609 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:22:35,447 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:22:37,560 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:38,454 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/config.yaml
+2024-04-09 17:22:41,463 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:22:44,060 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:47,613 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:22:47,613 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:22:47,613 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:22:49,244 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:51,498 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:22:54,866 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:22:59,883 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:02,615 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:23:02,616 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:23:02,618 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:23:05,195 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:05,534 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:09,610 DEBUG   SystemMonitor:3171 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-04-09 17:23:09,612 DEBUG   SenderThread:3171 [sender.py:send():379] send: stats
+2024-04-09 17:23:10,635 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:11,556 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:13,561 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:15,669 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:17,621 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:23:17,621 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:23:17,622 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:23:21,167 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:25,598 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:27,072 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:32,092 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:32,625 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:23:32,626 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:23:32,626 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:23:35,618 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:37,857 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:39,616 DEBUG   SenderThread:3171 [sender.py:send():379] send: stats
+2024-04-09 17:23:43,504 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:43,640 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:45,646 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:47,629 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:23:47,630 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:23:47,630 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:23:49,122 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:54,131 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:23:55,676 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:57,683 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:23:59,246 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:24:02,629 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: stop_status
+2024-04-09 17:24:02,630 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: stop_status
+2024-04-09 17:24:02,631 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:24:04,440 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:24:05,475 DEBUG   SenderThread:3171 [sender.py:send():379] send: exit
+2024-04-09 17:24:05,475 INFO    SenderThread:3171 [sender.py:send_exit():586] handling exit code: 0
+2024-04-09 17:24:05,475 INFO    SenderThread:3171 [sender.py:send_exit():588] handling runtime: 115
+2024-04-09 17:24:05,476 INFO    SenderThread:3171 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-09 17:24:05,476 INFO    SenderThread:3171 [sender.py:send_exit():594] send defer
+2024-04-09 17:24:05,476 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,476 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 0
+2024-04-09 17:24:05,476 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,476 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-04-09 17:24:05,476 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 1
+2024-04-09 17:24:05,477 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,477 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 1
+2024-04-09 17:24:05,477 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,477 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-04-09 17:24:05,477 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 2
+2024-04-09 17:24:05,477 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,477 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 2
+2024-04-09 17:24:05,477 INFO    HandlerThread:3171 [system_monitor.py:finish():203] Stopping system monitor
+2024-04-09 17:24:05,477 DEBUG   SystemMonitor:3171 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-04-09 17:24:05,478 DEBUG   SystemMonitor:3171 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-04-09 17:24:05,478 INFO    HandlerThread:3171 [interfaces.py:finish():202] Joined cpu monitor
+2024-04-09 17:24:05,478 INFO    HandlerThread:3171 [interfaces.py:finish():202] Joined disk monitor
+2024-04-09 17:24:05,479 INFO    HandlerThread:3171 [interfaces.py:finish():202] Joined memory monitor
+2024-04-09 17:24:05,479 INFO    HandlerThread:3171 [interfaces.py:finish():202] Joined network monitor
+2024-04-09 17:24:05,479 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,479 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-04-09 17:24:05,479 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 3
+2024-04-09 17:24:05,479 DEBUG   SenderThread:3171 [sender.py:send():379] send: stats
+2024-04-09 17:24:05,479 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,480 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 3
+2024-04-09 17:24:05,480 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,480 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-04-09 17:24:05,480 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 4
+2024-04-09 17:24:05,480 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,480 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 4
+2024-04-09 17:24:05,480 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,480 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-04-09 17:24:05,480 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 5
+2024-04-09 17:24:05,480 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,480 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 5
+2024-04-09 17:24:05,481 DEBUG   SenderThread:3171 [sender.py:send():379] send: summary
+2024-04-09 17:24:05,481 INFO    SenderThread:3171 [sender.py:_save_file():1390] saving file wandb-summary.json with policy end
+2024-04-09 17:24:05,481 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,481 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-04-09 17:24:05,481 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 6
+2024-04-09 17:24:05,481 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,481 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 6
+2024-04-09 17:24:05,482 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,482 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-04-09 17:24:05,482 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 7
+2024-04-09 17:24:05,482 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:24:05,482 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:05,482 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 7
+2024-04-09 17:24:05,482 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:05,482 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-04-09 17:24:05,704 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:24:05,705 INFO    Thread-12 :3171 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/wandb-summary.json
+2024-04-09 17:24:06,480 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:06,875 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 8
+2024-04-09 17:24:06,875 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:06,875 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:06,876 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 8
+2024-04-09 17:24:06,876 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:06,876 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-04-09 17:24:06,876 INFO    SenderThread:3171 [job_builder.py:build():318] Attempting to build job artifact
+2024-04-09 17:24:06,880 INFO    SenderThread:3171 [job_builder.py:_get_source_type():466] no source found
+2024-04-09 17:24:06,880 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 9
+2024-04-09 17:24:06,880 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:06,880 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 9
+2024-04-09 17:24:06,881 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:06,881 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-04-09 17:24:06,881 INFO    SenderThread:3171 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-04-09 17:24:07,483 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:07,707 INFO    SenderThread:3171 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:24:07,708 INFO    SenderThread:3171 [dir_watcher.py:finish():388] scan: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files
+2024-04-09 17:24:07,708 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/requirements.txt requirements.txt
+2024-04-09 17:24:07,709 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log output.log
+2024-04-09 17:24:07,711 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/config.yaml config.yaml
+2024-04-09 17:24:07,713 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/wandb-summary.json wandb-summary.json
+2024-04-09 17:24:07,716 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/conda-environment.yaml conda-environment.yaml
+2024-04-09 17:24:07,717 INFO    SenderThread:3171 [dir_watcher.py:finish():402] scan save: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/wandb-metadata.json wandb-metadata.json
+2024-04-09 17:24:07,718 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 10
+2024-04-09 17:24:07,719 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:07,719 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:07,720 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 10
+2024-04-09 17:24:07,720 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:07,720 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-04-09 17:24:07,720 INFO    SenderThread:3171 [file_pusher.py:finish():172] shutting down file pusher
+2024-04-09 17:24:08,485 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:08,486 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:09,487 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:09,488 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:09,585 INFO    wandb-upload_0:3171 [upload_job.py:push():131] Uploaded file /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/requirements.txt
+2024-04-09 17:24:10,493 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:10,493 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:11,054 INFO    wandb-upload_3:3171 [upload_job.py:push():131] Uploaded file /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/wandb-summary.json
+2024-04-09 17:24:11,495 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:11,496 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:12,501 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:12,502 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:13,502 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:13,503 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:14,505 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: status_report
+2024-04-09 17:24:14,506 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:14,506 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:14,602 INFO    wandb-upload_1:3171 [upload_job.py:push():131] Uploaded file /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/output.log
+2024-04-09 17:24:14,663 INFO    wandb-upload_2:3171 [upload_job.py:push():131] Uploaded file /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/config.yaml
+2024-04-09 17:24:14,664 INFO    wandb-upload_4:3171 [upload_job.py:push():131] Uploaded file /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/files/conda-environment.yaml
+2024-04-09 17:24:14,869 INFO    Thread-11 (_thread_body):3171 [sender.py:transition_state():614] send defer: 11
+2024-04-09 17:24:14,869 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:14,870 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 11
+2024-04-09 17:24:14,871 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:14,871 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-04-09 17:24:14,871 INFO    SenderThread:3171 [file_pusher.py:join():178] waiting for file pusher
+2024-04-09 17:24:14,874 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 12
+2024-04-09 17:24:14,874 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:14,875 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 12
+2024-04-09 17:24:14,875 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:14,875 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-04-09 17:24:14,875 INFO    SenderThread:3171 [file_stream.py:finish():614] file stream finish called
+2024-04-09 17:24:15,509 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:16,329 INFO    SenderThread:3171 [file_stream.py:finish():618] file stream finish is done
+2024-04-09 17:24:16,330 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 13
+2024-04-09 17:24:16,330 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:16,330 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:16,330 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 13
+2024-04-09 17:24:16,331 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:16,331 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-04-09 17:24:16,331 INFO    SenderThread:3171 [sender.py:transition_state():614] send defer: 14
+2024-04-09 17:24:16,331 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: defer
+2024-04-09 17:24:16,331 INFO    HandlerThread:3171 [handler.py:handle_request_defer():172] handle defer: 14
+2024-04-09 17:24:16,332 DEBUG   SenderThread:3171 [sender.py:send():379] send: final
+2024-04-09 17:24:16,332 DEBUG   SenderThread:3171 [sender.py:send():379] send: footer
+2024-04-09 17:24:16,332 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: defer
+2024-04-09 17:24:16,332 INFO    SenderThread:3171 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-04-09 17:24:16,333 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:16,333 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:16,334 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: poll_exit
+2024-04-09 17:24:16,334 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: server_info
+2024-04-09 17:24:16,334 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: get_summary
+2024-04-09 17:24:16,334 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: sampled_history
+2024-04-09 17:24:16,334 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: internal_messages
+2024-04-09 17:24:16,335 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: poll_exit
+2024-04-09 17:24:16,335 DEBUG   SenderThread:3171 [sender.py:send_request():406] send_request: server_info
+2024-04-09 17:24:16,854 INFO    MainThread:3171 [wandb_run.py:_footer_history_summary_info():3936] rendering history
+2024-04-09 17:24:16,854 INFO    MainThread:3171 [wandb_run.py:_footer_history_summary_info():3968] rendering summary
+2024-04-09 17:24:16,855 INFO    MainThread:3171 [wandb_run.py:_footer_sync_info():3895] logging synced files
+2024-04-09 17:24:16,855 DEBUG   HandlerThread:3171 [handler.py:handle_request():146] handle_request: shutdown
+2024-04-09 17:24:16,855 INFO    HandlerThread:3171 [handler.py:finish():866] shutting down handler
+2024-04-09 17:24:17,335 INFO    WriterThread:3171 [datastore.py:close():296] close: /Users/iori/Desktop/PacmanAI/src/wandb/run-20240409_172206-qitdia0z/run-qitdia0z.wandb
+2024-04-09 17:24:17,857 INFO    SenderThread:3171 [sender.py:finish():1546] shutting down sender
+2024-04-09 17:24:17,857 INFO    SenderThread:3171 [file_pusher.py:finish():172] shutting down file pusher
+2024-04-09 17:24:17,857 INFO    SenderThread:3171 [file_pusher.py:join():178] waiting for file pusher

@@ -1,0 +1,49 @@
+lr: 0.01
+epoch=2, accuracy=0.3343595362823625, loss=0.8341100378588991
+epoch=3, accuracy=0.6940560985820483, loss=0.3560538469427591
+epoch=4, accuracy=0.6288076734955841, loss=0.2867057367228214
+epoch=5, accuracy=0.7962519668143475, loss=0.1544231822327055
+epoch=6, accuracy=0.891808287500811, loss=0.21795069063624287
+epoch=7, accuracy=0.8804632327954524, loss=0.09756633471704967
+epoch=8, accuracy=0.8449576371757017, loss=0.10134524504287638
+epoch=9, accuracy=0.836883977835266, loss=0.11821645587338969
+Red team myTeam with {}:
+Loading Team: myTeam.py
+Arguments: {}
+PLayer 1: OffensiveAgent red
+Player 2: terminator orange
+Blue team baselineTeam with {}:
+Loading Team: baselineTeam.py
+Arguments: {}
+Blue team starts
+Traceback (most recent call last):
+  File "/Users/iori/Desktop/PacmanAI/src/capture.py", line 1055, in <module>
+    games = runGames(**options)
+            ^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/capture.py", line 1013, in runGames
+    g.run()
+  File "/Users/iori/Desktop/PacmanAI/src/game.py", line 689, in run
+    action = agent.getAction(observation)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/captureAgents.py", line 162, in getAction
+    return self.chooseAction(gameState)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/heuristicTeam.py", line 225, in chooseAction
+    values = [self.evaluate(gameState, a) for a in actions]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/heuristicTeam.py", line 225, in <listcomp>
+    values = [self.evaluate(gameState, a) for a in actions]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/baselineTeam.py", line 110, in evaluate
+    features = self.getFeatures(gameState, action)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/heuristicTeam.py", line 199, in getFeatures
+    self.centerPos = self.getCenterPos(gameState)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/heuristicTeam.py", line 59, in getCenterPos
+    if not self.isWall(gameState,center):
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/iori/Desktop/PacmanAI/src/heuristicTeam.py", line 22, in isWall
+    return grid[pos[0]][pos[1]]
+           ~~~~~~~~~~~~^^^^^^^^
+IndexError: list index out of range

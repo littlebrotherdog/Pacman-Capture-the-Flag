@@ -1,0 +1,52 @@
+Blue team baselineTeam with {}:
+Loading Team: baselineTeam.py
+Arguments: {}
+Red team starts
+Time is up.
+The Red team wins by 16 points.
+GAME IS OVER
+#    1 | steps:   301 | steps_t:     0 | t: 28.901593 | r:  -310.000000 | e:   1.000000 | Q:   0.125248 | won: True
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    2 | steps:   473 | steps_t:     0 | t: 35.425383 | r: -1380.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    3 | steps:   750 | steps_t:     0 | t: 45.205558 | r: -7110.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+Time is up.
+The Red team wins by 11 points.
+GAME IS OVER
+#    4 | steps:  1051 | steps_t:     0 | t: 59.544404 | r: -3860.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    5 | steps:  1220 | steps_t:     0 | t: 66.011906 | r: -4330.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+Time is up.
+The Red team wins by 17 points.
+GAME IS OVER
+#    6 | steps:  1521 | steps_t:     0 | t: 79.408563 | r: -1740.000000 | e:   1.000000 | Q:        nan | won: True
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    7 | steps:  1742 | steps_t:     0 | t: 89.219030 | r: -9150.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    8 | steps:  1962 | steps_t:     0 | t: 98.882108 | r: -4520.000000 | e:   1.000000 | Q:        nan | won: False
+Red team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#    9 | steps:  2217 | steps_t:     0 | t: 110.589503 | r: -4280.000000 | e:   1.000000 | Q:        nan | won: False
+Blue team starts
+The Blue team has returned at least 29 of the opponents' dots.
+GAME IS OVER
+#   10 | steps:  2432 | steps_t:     0 | t: 120.827923 | r: -7720.000000 | e:   1.000000 | Q:        nan | won: False
+10
+Average Score: -6.4
+Scores:        16, -13, -17, 11, -13, 17, -21, -15, -15, -14
+Red Win Rate:  3/10 (0.30)
+Blue Win Rate: 7/10 (0.70)
+Record:        Red, Blue, Blue, Red, Blue, Red, Blue, Blue, Blue, Blue

@@ -1,0 +1,50 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-08T10:06:06.006331",
+    "startedAt": "2024-04-08T10:06:03.113182",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-r",
+        "myTeam",
+        "-b",
+        "baselineTeam",
+        "-n",
+        "10",
+        "-x",
+        "10",
+        "-l",
+        "RANDOM99"
+    ],
+    "state": "running",
+    "program": "/Users/iori/Desktop/PacmanAI/src/capture.py",
+    "codePathLocal": "capture.py",
+    "codePath": "capture.py",
+    "host": "dingxiangbaopozhuangzhi.local",
+    "username": "iori",
+    "executable": "/Users/iori/anaconda3/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 931.546989440918,
+            "used": 14.259651184082031
+        }
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
